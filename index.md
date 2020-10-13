@@ -13,14 +13,14 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## NYU Status Update
 
-<table style="background-color: #008000; border-spacing: 0px; margin-left: 50%; margin-right: 50%; padding: 0px;">
+<center><table style="background-color: #008000; border-spacing: 0px; padding: 0px;">
   <tr>
-    <th style="color: white;"><center>GREEN ALERT c2</center></th>
+    <th style="color: white;"><center>GREEN ALERT</center></th>
   </tr>
   <tr>
   	<th style="color: white;"><center>for ALL CAMPUSES (NYU-NYC)</center></th>
   </tr>
-</table>
+</table></center>
 
 ## <a name="sample"></a>Email Archive & Samples  
 
