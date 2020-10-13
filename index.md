@@ -73,7 +73,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 ## Blog from the Creator
 <sup><i>(10/13/20 at 1:30 AM EST)</i></sup>
 
-<center>Just getting this up and running, for now.
+<center><i>"Just getting this up and running, for now."</i>
 <br><br>
 <span>– </span><span style="color:#4b0092;"><b>violetflash</b></span></center>  
 
