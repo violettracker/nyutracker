@@ -69,22 +69,25 @@ Just getting this up and running, for now.
 
 ## NYC Status Update
 
-<center><table style="background-color: #ffd700; border: 0px solid black; border-collapse: collapse; padding: 0px;  text-align: center;">
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center; padding: 20px; width: 400px;">
+<center><table style="background-color: #ffd700; border: 0px solid black; border-collapse: collapse; padding: 0px;  text-align: center; display:block;">
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center; padding: 20px; width: 400px; display:block;">
     <th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center;"><center>YELLOW ALERT</center></th>
   </tr>
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse text-align: center;">
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse text-align: center; display:block;">
   	<th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center;"><center>for All Boroughs (NYC)</center></th>
   </tr>
 </table></center>
 
 ## New York State Covid App
 
-New York State recently announced a new privacy-minded Covid app, called **[COVID Alert NY](https://coronavirus.health.ny.gov/covid-alert-ny)**. It is designed by the state Department of Health. The app keeps people safe and provides **exposure notifications** using bluetooth iOS / Android technology (rather than tracking your location). It **[works regionally](https://twitter.com/NYGovCuomo/status/1311712687441797121?utm_source=sendinblue&utm_campaign=Breaking_News_1012&utm_medium=email)** with apps in NY, NJ, PA, and DE.
+New York State recently announced a new privacy-minded Covid app, called **[COVID Alert NY](https://coronavirus.health.ny.gov/covid-alert-ny)**, designed by the state Department of Health.
 
-The app also has other features, such as recent county-by-county testing results and a health log to help you monitor any possible symptoms.
+<details><summary>Learn more</summary>
+The app keeps people safe and provides **exposure notifications** using bluetooth iOS / Android technology (rather than tracking your location). It **[works regionally](https://twitter.com/NYGovCuomo/status/1311712687441797121?utm_source=sendinblue&utm_campaign=Breaking_News_1012&utm_medium=email)** with apps in NY, NJ, PA, and DE.
 
-I urge you to consider downloading it.
+The app also has other features, such as recent county-by-county testing results and a health log to help you monitor any possible symptoms.</details>
+
+I urge you to consider downloading it and keeping NY safe.
 
 <center><button type="button" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
 
@@ -116,7 +119,7 @@ I urge you to consider downloading it.
 
 **09/23** | [NYU Covid Dashboard - 9/23 Update](https://www.reddit.com/r/nyu/comments/iy9v4g/nyu_covid_dashboard_923_update/)
 
-<br><br>
+
 <details>
 <summary>See older posts</summary>
 
@@ -154,7 +157,7 @@ Other relevant posts
   <tbody>
     <tr>
       <td><strong>09/26</strong></td>
-      <td><a href=3D"https://www.reddit.com/r/nyu/comments/j07izr/nyu_covid_tracker_newsletter/">NYU Covid Tracker Newsletter</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j07izr/nyu_covid_tracker_newsletter/">NYU Covid Tracker Newsletter</a></td>
     </tr>
   </tbody>
 </table>
