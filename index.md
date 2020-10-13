@@ -13,9 +13,9 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## NYU Status Update
 
-<table style="background-color: #008000; border-spacing: 0px; border-color: white;">
+<table style="background-color: #008000; border-spacing: 0px; margin-left: auto; margin-right: auto;">
   <tr>
-    <th style="color: white;"><center>GREEN ALERT</center></th>
+    <th style="color: white;"><center>GREEN ALERTc1</center></th>
   </tr>
   <tr>
   	<th style="color: white;"><center>for ALL CAMPUSES (NYU-NYC)</center></th>
