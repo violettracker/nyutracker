@@ -1,12 +1,12 @@
 # VioletTracker Project
 
-Welcome to the new portal for accessing communications related to VioletTracker!
+Welcome to the new portal for accessing communications related to VioletTracker! [sample](#sample)
 
 ## Sign-up
 
 Please sign up for the VioletTracker newsletter here: **[https://bit.ly/VioletTrackerMailSignup](https://bit.ly/VioletTrackerMailSignup)**
 
-## Email Archive & Samples  
+## <a name="sample"></a>Email Archive & Samples  
 
 *Emails are ordered from most to least recent*
 
