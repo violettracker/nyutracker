@@ -32,7 +32,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 **09/28** | [Inaugural Edition](https://bit.ly/VioletTrackerInauguralEdition)
 
-## Feedback
+## Feedback & Tips
 
 If you have feedback or confidential tips to submit to me, please use [this form](http://bit.ly/VioletTrackerFeedback), or email me at [violettracker.nyu+tips@gmail.com](violettracker.nyu+tips@gmail.com). I rely on community tips for supplemental reporting.
 
