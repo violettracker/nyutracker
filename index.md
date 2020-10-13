@@ -6,7 +6,7 @@ Welcome to the new portal for accessing communications related to VioletTracker!
 
 Please sign up for the VioletTracker newsletter here: **[https://bit.ly/VioletTrackerMailSignup](https://bit.ly/VioletTrackerMailSignup)**
 
-## Email Archive  
+## Email Archive & Samples  
 
 *Emails are ordered from most to least recent*
 
