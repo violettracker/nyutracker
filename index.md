@@ -116,7 +116,10 @@ I urge you to consider downloading it.
 
 **09/23** | [NYU Covid Dashboard - 9/23 Update](https://www.reddit.com/r/nyu/comments/iy9v4g/nyu_covid_dashboard_923_update/)
 
-<details>
+<details><br>
+
+<summary>Test</summary>
+
 **09/21** | [NYU Covid Dashboard - 9/21 Update](https://www.reddit.com/r/nyu/comments/ix3xj7/nyu_covid_dashboard_921_update/)
 
 **09/18** | [NYU Covid Dashboard - 9/18 Update](https://www.reddit.com/r/nyu/comments/iv7de9/nyu_covid_dashboard_918_update/)
