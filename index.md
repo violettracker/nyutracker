@@ -54,7 +54,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 *Displaying 4 most recent*
 
-<hr><details><summary>See older emails ▼</summary><hr>
+<hr><details><summary><u>See older emails</u></summary><hr>
 
 <table>
   <tbody>
@@ -119,7 +119,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 New York State recently announced a new privacy-minded Covid app, called **[COVID Alert NY](https://coronavirus.health.ny.gov/covid-alert-ny)**, designed by the state Department of Health.
 
-<hr><details><summary>Learn more</summary><hr>
+<hr><details><summary><u>Learn more</u></summary><hr>
 The app keeps people safe and provides <b>exposure notifications</b> using <a href="https://covid19.apple.com/contacttracing">bluetooth iOS / Android</a> technology (rather than tracking your location). It <b><a href="https://twitter.com/NYGovCuomo/status/1311712687441797121">works regionally</a></b> with apps in NY, NJ, PA, and DE.  
 <br><br>
 The app also has other features, such as recent county-by-county testing results and a health log to help you monitor any possible symptoms.</details>  
@@ -140,7 +140,7 @@ I urge you to consider downloading it and keeping NY safe.
 
 *Displaying 4 most recent*
 
-<hr><details><summary>See older posts</summary><hr>
+<hr><details><summary><u>See older posts</u></summary><hr>
 
 <table>
   <tbody>
