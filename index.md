@@ -34,6 +34,10 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 **09/28** | [Inaugural Edition](https://bit.ly/VioletTrackerInauguralEdition)
 
+## NYU Status Update
+
+* GREEN
+
 ## Feedback & Tips
 
 If you have feedback or confidential tips to submit to me, please use [this form](http://bit.ly/VioletTrackerFeedback), or email me at [violettracker.nyu+tips@gmail.com](violettracker.nyu+tips@gmail.com). I rely on community tips for supplemental reporting.
@@ -57,8 +61,23 @@ I urge you to consider downloading it.
 
 <center><button type="button" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
 
+## NYC Status Update
+
+* Coming soon
+
+## Guidance
+
+* Coming soon
+
 ## Community Flash Update Archive  
 
 *Reddit flash updates are ordered from most to least recent*  
 
 *\[Flash updates will be added soon\]*
+
+## Useful Links
+* [NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html) – Primary NYU dashboard (tests are catalogued by date of diagnosis / collection)
+  * Updated randomly
+* [State Dashboard](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true) – NYS-operated & NYU-data provided (tests are catalogued by date of report / processing)
+  * Link is for WSQ, all 9 campuses must be checked individually
+  * Updated daily(ish)
