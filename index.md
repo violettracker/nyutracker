@@ -259,4 +259,4 @@ Other relevant posts
   * *Tests are reported as they get processed*
   * Updated daily*(ish)*
 
-<center><a href="#top">Back to the top</a></center>
+<center><a href="#top">▲ Back to the top</a></center>
