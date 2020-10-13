@@ -13,7 +13,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## NYU Status Update
 
-<table style="background-color: #008000; border-spacing: 0px; margin-left: auto; margin-right: auto; padding: 50px;">
+<table style="background-color: #008000; border-spacing: 0px; margin-left: auto; margin-right: auto; padding: 20px;">
   <tr>
     <th style="color: white;"><center>GREEN ALERT c2</center></th>
   </tr>
@@ -55,7 +55,7 @@ If you have feedback or confidential tips to submit to me, please use [this form
 
 Just getting this up and running, for now.
 
-<p>– </p><p style="color:#4b0092;"><b>violetflash</b></p>  
+<span>– </span><span style="color:#4b0092;"><b>violetflash</b></span>  
 
 ## NYC Status Update
 
