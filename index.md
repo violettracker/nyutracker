@@ -31,6 +31,17 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   </tr>
 </table></span></center>
 
+## NYC Status Update
+
+<center><span style="display:block; background-color: #ffd700; width:100%; border-radius: 50px; font-weight: normal;"><table style="background-color: #ffd700; border-spacing: 0px; border: 0px solid black; border-collapse: collapse; width: 50%; margin-left: auto; margin-right: auto; border-radius: 50px; font-weight: normal;">
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: normal;">
+    <th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: normal;">YELLOW ALERT</th>
+  </tr>
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-top: 0px; font-weight: normal;">
+  	<th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-top: 0px; font-weight: normal;">for <i>All Boroughs (NYC)</i></th>
+  </tr>
+</table></span></center>
+
 ## <a name="sample"></a>Email Archive & Samples  
 
 *Emails are ordered from most to least recent*
@@ -65,17 +76,6 @@ If you have feedback or confidential tips to submit to me, please use [this form
 Just getting this up and running, for now.
 
 <span>– </span><span style="color:#4b0092;"><b>violetflash</b></span>  
-
-## NYC Status Update
-
-<center><table style="background-color: #ffd700; border: 0px solid black; border-collapse: collapse; padding: 0px;  text-align: center;">
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center; padding: 20px; width: 400px;">
-    <th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center;"><center>YELLOW ALERT</center></th>
-  </tr>
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse text-align: center;">
-  	<th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center;"><center>for All Boroughs (NYC)</center></th>
-  </tr>
-</table></center>
 
 ## New York State Covid App
 
