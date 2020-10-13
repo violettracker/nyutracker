@@ -13,12 +13,12 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## NYU Status Update
 
-<table style="background-color: #008000; width:1000px; border: 0px black;">
+<table style="background-color: #008000; border-spacing: 0px; border-color: white;">
   <tr>
-    <th style="color:#ffffff;"><center>GREEN ALERT</center></th>
+    <th style="color: white;"><center>GREEN ALERT</center></th>
   </tr>
   <tr>
-  	<th style="color:#ffffff;"><center>for ALL CAMPUSES (NYU-NYC)</center></th>
+  	<th style="color: white;"><center>for ALL CAMPUSES (NYU-NYC)</center></th>
   </tr>
 </table>
 
@@ -55,7 +55,7 @@ If you have feedback or confidential tips to submit to me, please use [this form
 
 Just getting this up and running, for now.
 
-<p style="color:#4b0092;"><b>violetflash</b></p>  
+– <p style="color:#4b0092;"><b>violetflash</b></p>  
 
 ## NYC Status Update
 
