@@ -8,7 +8,7 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-179043880-1');
-</script><link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"></head>
+</script><link rel="shortcut icon" type="image/x-icon" href="favicon.ico"></head>
 
 <center><a href="https://violettracker.github.io/nyutracker/"><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
@@ -259,9 +259,3 @@ Other relevant posts
   * Individual campuses: [WSQ](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true), [TAN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999994;redirectToHome=true), [LAW](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999995;redirectToHome=true), [DEN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999991;redirectToHome=true), [SIL](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999996;redirectToHome=true), WAG, [SPS](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999998;redirectToHome=true), [ISA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999992;redirectToHome=true), [IFA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999993;redirectToHome=true) & MED
   * *Tests are reported as they get processed*
   * Updated daily*(ish)*
-
-<script>
-$( document ).ready(function() {
-  document.title = "Test | VioletTracker Portal"
-});
-</script>
