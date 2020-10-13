@@ -17,7 +17,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 <center><table style="background-color: #008000; border: 0px solid black; border-collapse: collapse; padding: 0px;  text-align: center;">
   <tr style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center; padding: 20px; width: 400px;">
-    <th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center;"><center>GREEN ALERT c1</center></th>
+    <th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center;"><center>GREEN ALERT</center></th>
   </tr>
   <tr style="color: white; border: 0px solid black; border-collapse: collapse text-align: center;">
   	<th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center;"><center>for ALL CAMPUSES (NYU-NYC)</center></th>
