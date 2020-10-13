@@ -69,11 +69,11 @@ Just getting this up and running, for now.
 
 ## NYC Status Update
 
-<center><table style="background-color: #ffd700; border: 0px solid black; border-collapse: collapse; padding: 0px;  text-align: center; display:block;">
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center; padding: 20px; width: 400px; display:block;">
+<center><table style="background-color: #ffd700; border: 0px solid black; border-collapse: collapse; padding: 0px;  text-align: center;">
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center; padding: 20px; width: 400px;">
     <th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center;"><center>YELLOW ALERT</center></th>
   </tr>
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse text-align: center; display:block;">
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse text-align: center;">
   	<th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center;"><center>for All Boroughs (NYC)</center></th>
   </tr>
 </table></center>
@@ -82,8 +82,8 @@ Just getting this up and running, for now.
 
 New York State recently announced a new privacy-minded Covid app, called **[COVID Alert NY](https://coronavirus.health.ny.gov/covid-alert-ny)**, designed by the state Department of Health.
 
-<details><summary>Learn more</summary>
-The app keeps people safe and provides **exposure notifications** using bluetooth iOS / Android technology (rather than tracking your location). It **[works regionally](https://twitter.com/NYGovCuomo/status/1311712687441797121?utm_source=sendinblue&utm_campaign=Breaking_News_1012&utm_medium=email)** with apps in NY, NJ, PA, and DE.
+<details><summary>Learn more</summary><br>
+The app keeps people safe and provides <b>exposure notifications</b> using bluetooth iOS / Android technology (rather than tracking your location). It <b><a href="https://twitter.com/NYGovCuomo/status/1311712687441797121">works regionally</a></b> with apps in NY, NJ, PA, and DE.
 
 The app also has other features, such as recent county-by-county testing results and a health log to help you monitor any possible symptoms.</details>
 
@@ -127,7 +127,7 @@ I urge you to consider downloading it and keeping NY safe.
   <tbody>
     <tr>
       <td><strong>09/21</strong></td>
-      <td><a href=3D"https://www.reddit.com/r/nyu/comments/ix3xj7/nyu_covid_dashboard_921_update/">NYU Covid Dashboard - 9/21 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/ix3xj7/nyu_covid_dashboard_921_update/">NYU Covid Dashboard - 9/21 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -136,7 +136,7 @@ I urge you to consider downloading it and keeping NY safe.
   <tbody>
     <tr>
       <td><strong>09/18</strong></td>
-      <td><a href=3D"https://www.reddit.com/r/nyu/comments/iv7de9/nyu_covid_dashboard_918_update/">NYU Covid Dashboard - 9/18 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/iv7de9/nyu_covid_dashboard_918_update/">NYU Covid Dashboard - 9/18 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -145,7 +145,7 @@ I urge you to consider downloading it and keeping NY safe.
   <tbody>
     <tr>
       <td><strong>09/17</strong></td>
-      <td><a href=3D"https://www.reddit.com/r/nyu/comments/iukijz/nyu_corona_dashboard_917_update/">NYU Corona Dashboard - 9/17 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/iukijz/nyu_corona_dashboard_917_update/">NYU Corona Dashboard - 9/17 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -166,7 +166,7 @@ Other relevant posts
   <tbody>
     <tr>
       <td><strong>09/14</strong></td>
-      <td><a href=3D"https://www.reddit.com/r/nyu/comments/isyf95/2_week_rolling_covid_data_hits_48/g5bi0g9?utm_source=share&utm_medium=web2x&context=3">NYU Corona Dashboard - 9/14</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/isyf95/2_week_rolling_covid_data_hits_48/g5bi0g9?utm_source=share&utm_medium=web2x&context=3">NYU Corona Dashboard - 9/14</a></td>
     </tr>
   </tbody>
 </table>
