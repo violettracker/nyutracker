@@ -8,8 +8,7 @@
 
   gtag('config', 'UA-179043880-1');
 </script>
-<link rel="icon" type="image/x-icon" href="http://www.iconj.com/ico/b/3/b345l4kq68.ico"/>
-<center><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></center>
+<center><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;" href="https://violettracker.github.io/nyutracker/"></center>
 
 <center>Welcome to the new portal for accessing up-to-date information related to VioletTracker!</center>
 
