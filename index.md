@@ -1,4 +1,4 @@
-<center><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:94%;height:94%;"></center>
+<center><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></center>
 
 <center><h1>VioletTracker Project</h1></center>
 
@@ -45,7 +45,7 @@ If you have feedback or confidential tips to submit to me, please use [this form
 
 Just getting this up and running, for now.
 
-**violetflash**  
+<p style="color:#4b0092;"><b>violetflash</b></p>  
 
 ## New York State Covid App
 
