@@ -1,4 +1,4 @@
-# VioletTracker Portal
+<head><title>VioletTracker Portal</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179043880-1"></script>
 <script>
@@ -7,7 +7,7 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-179043880-1');
-</script><link rel="shortcut icon" type="image/x-icon" href="favicon.ico"><link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+</script><link rel="shortcut icon" type="image/x-icon" href="favicon.ico"><link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"></head>
 <center><a href="https://violettracker.github.io/nyutracker/"><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
 <center>Welcome to the new portal for accessing up-to-date information related to VioletTracker!</center>
