@@ -30,4 +30,7 @@ Please sign up for the VioletTracker newsletter here: **[https://bit.ly/VioletTr
 
 If you have feedback or confidential tips to submit to me, please use [this form](http://bit.ly/VioletTrackerFeedback), or email me at [violettracker.nyu+tips@gmail.com](violettracker.nyu+tips@gmail.com). I rely on community tips for supplemental reporting.
 
-Thank you.
+## Reddit Flash Update Archive
+
+*Flash updates are ordered from most to least recent*
+*[Flash updates will be added soon]
