@@ -13,7 +13,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## NYU Status Update
 
-<table style="background-color: #008000; width:100%; border: 0px solid white;">
+<table style="background-color: #008000; width:1000px; border: 0px black;">
   <tr>
     <th style="color:#ffffff;"><center>GREEN ALERT</center></th>
   </tr>
@@ -73,7 +73,7 @@ I urge you to consider downloading it.
 
 ## Guidance
 
-* **AVOID RAVES, PARTIES & LARGE GATHERINGS. Wear masks.** 6 ft. apart. Wash hands. Outdoor acitivies are safer than indoor. 
+* **AVOID RAVES, PARTIES & LARGE GATHERINGS. Wear masks.** 6 ft. apart. Wash hands. Outdoor activities are safer than indoor. 
 
 ## Community Flash Update Archive  
 
