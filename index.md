@@ -54,7 +54,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 **10/05** | [Dashboard Bulletin](https://sh1.sendinblue.com/v2euw8pitt7e.html?t=1602561682)
 
-*Displaying the most recent 4 entries*
+*Displaying 4 most recent*
 
 <hr><details><summary>See older emails</summary><hr>
 
@@ -142,7 +142,7 @@ I urge you to consider downloading it and keeping NY safe.
 
 **10/06** | [NYU Covid Dashboard - 10/6 Update](https://www.reddit.com/r/nyu/comments/j6bq79/nyu_covid_dashboard_106_update/)
 
-*Displaying the most recent 4 entries*
+*Displaying 4 most recent*
 
 <hr><details><summary>See older posts</summary><hr>
 
@@ -254,8 +254,10 @@ Other relevant posts
 * **AVOID RAVES, PARTIES & LARGE GATHERINGS. Wear masks.** 6 ft. apart. Wash hands. Outdoor activities are safer than indoor.  
 
 ## Useful Links
-* [NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html) – Primary NYU dashboard (recently changed 10/13, now *tests are reported as they get processed*)
+* [NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html) – Primary NYU dashboard
+  * Recently changed 10/13, now *tests are reported as they get processed*
   * Updated randomly
-* [State Dashboard](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true) – NYS-operated & NYU-data provided (*tests are reported as they get processed*)
+* [State Dashboard](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true) – NYS-operated & NYU-data provided
   * Individual campuses: [WSQ](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true), [TAN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999994;redirectToHome=true), [LAW](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999995;redirectToHome=true), [DEN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999991;redirectToHome=true), [SIL](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999996;redirectToHome=true), WAG, [SPS](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999998;redirectToHome=true), [ISA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999992;redirectToHome=true), [IFA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999993;redirectToHome=true) & MED
+  * *Tests are reported as they get processed*
   * Updated daily*(ish)*
