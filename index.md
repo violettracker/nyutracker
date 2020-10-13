@@ -13,7 +13,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## NYU Status Update
 
-<center><span style="background-color: #008000; color: white; padding-left: 35%; padding-right: 350px; padding-top: 15px; padding-bottom: 15px;">GREEN ALERT<br>for ALL CAMPUSES (NYU-NYC)</span></center>
+<center><span style="background-color: #008000; color: white; padding-left: 10%; padding-right: 350px; padding-top: 15px; padding-bottom: 15px;">GREEN ALERT<br>for ALL CAMPUSES (NYU-NYC)</span></center>
 
 ## <a name="sample"></a>Email Archive & Samples  
 
