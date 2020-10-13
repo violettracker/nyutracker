@@ -99,8 +99,8 @@ I urge you to consider downloading it.
 * Coming soon
 
 ## Useful Links
-* [NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html) – Primary NYU dashboard (tests are catalogued by date of diagnosis / collection)
+* [NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html) – Primary NYU dashboard (recently changed 10/13, now *tests are reported as they get processed*)
   * Updated randomly
-* [State Dashboard](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true) – NYS-operated & NYU-data provided (tests are catalogued by date of report / processing)
+* [State Dashboard](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true) – NYS-operated & NYU-data provided (*tests are reported as they get processed*)
   * Individual campuses: [WSQ](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true), [TAN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999994;redirectToHome=true), [LAW](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999995;redirectToHome=true), [DEN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999991;redirectToHome=true), [SIL](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999996;redirectToHome=true), WAG, [SPS](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999998;redirectToHome=true), [ISA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999992;redirectToHome=true), [IFA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999993;redirectToHome=true) & MED
   * Updated daily(ish)
