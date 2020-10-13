@@ -19,14 +19,15 @@
 If you find it helpful, refer a friend! Let's make NYU and NYC safer. 
 <br><br>
 <button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button></center>
+
 ## NYU Status Update
 
 <center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; font-weight: normal;"><table style="background-color: #008000; border-spacing: 0px; border: 0px solid black; border-collapse: collapse; width: 50%; margin-left: auto; margin-right: auto; border-radius: 50px; font-weight: normal;">
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-bottom: 0px;">
-    <th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-bottom: 0px;">GREEN ALERT</th>
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: normal;">
+    <th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: normal;">GREEN ALERT</th>
   </tr>
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-top: 0px;">
-  	<th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-top: 0px;">for <i>All Campuses (NYU-NYC)</i></th>
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-top: 0px; font-weight: normal;">
+  	<th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-top: 0px; font-weight: normal;">for <i>All Campuses (NYU-NYC)</i></th>
   </tr>
 </table></span></center>
 
