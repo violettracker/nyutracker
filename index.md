@@ -98,7 +98,7 @@ I urge you to consider downloading it and keeping NY safe.
 
 *Reddit flash updates are ordered from most to least recent*  
 
-**10/13** | [NYU Covid Dashboard - 10/13](https://www.reddit.com/r/nyu/comments/jagw29/nyu_covid_dashboard_1013/)
+**10/13** | **[NYU Covid Dashboard - 10/13](https://www.reddit.com/r/nyu/comments/jagw29/nyu_covid_dashboard_1013/)**  
 
 **10/11** | [NYU Covid Dashboard - 10/11 Update](https://www.reddit.com/r/nyu/comments/j9y1ha/nyu_covid_dashboard_1011_update/)
 
