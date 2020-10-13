@@ -14,7 +14,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## NYU Status Update
 
-<table style="background-color: #008000; border-radius: = 20px;">
+<table style="background-color: #008000; width:100%; border: 0px solid white; border-radius: = 20px;">
   <tr>
     <th style="color:#ffffff;"><center>GREEN ALERT</center></th>
   </tr>
