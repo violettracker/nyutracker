@@ -19,7 +19,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
     <th style="color:#ffffff;"><center>GREEN ALERT</center></th>
   </tr>
   <tr>
-  	<th style="color:#ffffff;"><center>test</center></th>
+  	<th style="color:#ffffff;"><center>for ALL CAMPUSES (NYU-NYC)</center></th>
   </tr>
 </table>
 
