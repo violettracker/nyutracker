@@ -8,7 +8,7 @@
 
   gtag('config', 'UA-179043880-1');
 </script><link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/favicon.ico?" />
-<center><a href="https://violettracker.github.io/nyutracker/"><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
+<a name="top"></a><center><a href="https://violettracker.github.io/nyutracker/"><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
 <center>Welcome to the new portal for accessing up-to-date information related to VioletTracker!</center>
 <hr>
@@ -20,7 +20,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <br><br>
 <button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button></center>
 
-## New York University Status Update
+## <a name="nyu"></a>New York University Status Update
 
 <center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; font-weight: normal;"><table style="background-color: #008000; border-spacing: 0px; border: 0px solid black; border-collapse: collapse; width: 230px; margin-left: auto; margin-right: auto; border-radius: 50px; font-weight: normal;">
   <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 230px; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: bold;">
@@ -31,7 +31,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   </tr>
 </table></span></center>
 
-## New York City Status Update
+## <a name="nyc"></a>New York City Status Update
 
 <center><span style="display:block; background-color: #ffd700; width:100%; border-radius: 50px; font-weight: normal;"><table style="background-color: #ffd700; border-spacing: 0px; border: 0px solid black; border-collapse: collapse; width: 205px; margin-left: auto; margin-right: auto; border-radius: 50px; font-weight: normal;">
   <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 205px; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: bold;">
@@ -102,20 +102,20 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 </table>
 </details><hr>
 
-## Feedback & Tips
+## <a name="feedback"></a>Feedback & Tips
 
 <center>If you have feedback or confidential tips to submit to me, please use <a href="http://bit.ly/VioletTrackerFeedback">this form</a>, or email me at <a href="violettracker.nyu+tips@gmail.com">violettracker.nyu+tips@gmail.com</a>. I rely on community tips for supplemental reporting.
 <br><br>
 <button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
 
-## Blog from the Creator
+## <a name="blog"></a>Blog from the Creator
 <sup><i>(10/13/20 at 1:30 AM EST)</i></sup>
 
 <center><i>"Just getting this up and running, for now."</i>
 <br><br>
 <span>– </span><span style="color:#4b0092;"><b>violetflash</b></span></center>  
 
-## New York State Covid App
+## <a name="nysapp"></a>New York State Covid App
 
 New York State recently announced a new privacy-minded Covid app, called **[COVID Alert NY](https://coronavirus.health.ny.gov/covid-alert-ny)**, designed by the state Department of Health.
 
@@ -245,7 +245,7 @@ Other relevant posts
 </table>
 </details><hr>
   
-## Guidance
+## <a name="guidance"></a>Guidance
 
 * **AVOID RAVES, PARTIES & LARGE GATHERINGS. Wear masks.** 6 ft. apart. Wash hands. Outdoor activities are safer than indoor.  
 
@@ -257,3 +257,5 @@ Other relevant posts
   * Individual campuses: [WSQ](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true), [TAN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999994;redirectToHome=true), [LAW](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999995;redirectToHome=true), [DEN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999991;redirectToHome=true), [SIL](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999996;redirectToHome=true), WAG, [SPS](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999998;redirectToHome=true), [ISA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999992;redirectToHome=true), [IFA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999993;redirectToHome=true) & MED
   * *Tests are reported as they get processed*
   * Updated daily*(ish)*
+
+<center><a href="#top">Back to the top</a></center>
