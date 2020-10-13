@@ -12,6 +12,26 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 <center><button type="button" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button></center>
 
+## NYU Status Update
+
+<table border=
+=3D"0" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" al=
+ign=3D"left" class=3D"rnb-col-1">
+
+                                                                <tbody><tr>
+                                                                    <td cla=
+ss=3D"content-spacing" style=3D"font-size:14px; font-family:Arial,Helvetica=
+,sans-serif, sans-serif; color:#3c4858; line-height: 21px;"><div style=3D"t=
+ext-align: center;"><span style=3D"font-size:15px;"><span style=3D"color:#F=
+FFFFF;"><strong>GREEN ALERT</strong></span></span></div>
+
+<div style=3D"text-align: center;"><span style=3D"color:#FFFFFF;">for<em> A=
+LL CAMPUSES (NYU-NYC)</em></span></div>
+</td>
+                                                                </tr>
+                                                                </tbody></t=
+able>
+
 ## <a name="sample"></a>Email Archive & Samples  
 
 *Emails are ordered from most to least recent*
@@ -33,26 +53,6 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 **09/29** | [Dashboard Bulletin](https://sh1.sendinblue.com/2ntfc8pitt7e.html?t=1602561830)
 
 **09/28** | [Inaugural Edition](https://bit.ly/VioletTrackerInauguralEdition)
-
-## NYU Status Update
-
-<table border=
-=3D"0" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" al=
-ign=3D"left" class=3D"rnb-col-1">
-
-                                                                <tbody><tr>
-                                                                    <td cla=
-ss=3D"content-spacing" style=3D"font-size:14px; font-family:Arial,Helvetica=
-,sans-serif, sans-serif; color:#3c4858; line-height: 21px;"><div style=3D"t=
-ext-align: center;"><span style=3D"font-size:15px;"><span style=3D"color:#F=
-FFFFF;"><strong>GREEN ALERT</strong></span></span></div>
-
-<div style=3D"text-align: center;"><span style=3D"color:#FFFFFF;">for<em> A=
-LL CAMPUSES (NYU-NYC)</em></span></div>
-</td>
-                                                                </tr>
-                                                                </tbody></t=
-able>
 
 ## Feedback & Tips
 
