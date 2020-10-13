@@ -21,7 +21,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.</center>
 <center><button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button></center>
 ## NYU Status Update
 
-<center><span style="background-color: #008000;"><table style="border: 0px solid black; border-collapse: collapse; width: 50%; margin-left: auto; margin-right: auto;">
+<center><span style="display:block; background-color: #008000;"><table style="background-color: #008000; border: 0px solid black; border-collapse: collapse; width: 50%; margin-left: auto; margin-right: auto;">
   <tr style="color: white; border: 0px solid black; border-collapse: collapse; width: 50%; margin-left: auto; margin-right: auto;">
     <th style="color: white; border: 0px solid black; border-collapse: collapse; width: 50%; margin-left: auto; margin-right: auto;">GREEN ALERT</th>
   </tr>
