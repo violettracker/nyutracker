@@ -1,4 +1,6 @@
-# Welcome to the VioletTracker Project!
+# VioletTracker Project
+
+Welcome to the new portal for accessing communications related to VioletTracker!
 
 ## Sign-up
 
