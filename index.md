@@ -55,3 +55,10 @@ The app also has other features, such as recent county-by-county testing results
 I urge you to consider downloading it.
 
 <center><button type="button" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
+
+## Blog from the Creator
+*(10/13/20 at 1:30AM EST)*
+
+Just getting this up and running, for now.
+
+**violetflash**
