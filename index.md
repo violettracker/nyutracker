@@ -92,11 +92,39 @@ I urge you to consider downloading it.
 
 * **AVOID RAVES, PARTIES & LARGE GATHERINGS. Wear masks.** 6 ft. apart. Wash hands. Outdoor activities are safer than indoor. 
 
-## Community Flash Update Archive  
+## <a name="reddit"></a>Community Flash Update Archive  
 
 *Reddit flash updates are ordered from most to least recent*  
 
-* Coming soon
+**10/13** | [NYU Covid Dashboard - 10/13](https://www.reddit.com/r/nyu/comments/jagw29/nyu_covid_dashboard_1013/)
+
+**10/11** | [NYU Covid Dashboard - 10/11 Update](https://www.reddit.com/r/nyu/comments/j9y1ha/nyu_covid_dashboard_1011_update/)
+
+**10/08** | [NYU Covid Dashboard - 10/8](https://www.reddit.com/r/nyu/comments/j7k41u/nyu_covid_dashboard_108/)
+
+**10/06** | [NYU Covid Dashboard - 10/6 Update](https://www.reddit.com/r/nyu/comments/j6bq79/nyu_covid_dashboard_106_update/)
+
+**10/05** | [NYU Covid Dashboard - 10/5 Update](https://www.reddit.com/r/nyu/comments/j5lv0g/nyu_covid_dashboard_105_update/)
+
+**10/02** | [NYU Covid Dashboard - 10/2 Update](https://www.reddit.com/r/nyu/comments/j47rwt/nyu_covid_dashboard_102_update/)
+
+**10/01** | [NYU Covid Dashboard - 10/1 Update](https://www.reddit.com/r/nyu/comments/j395of/nyu_covid_dashboard_101_update/)
+
+**09/29** | [NYU Covid Dashboard - 9/29 Update](https://www.reddit.com/r/nyu/comments/j27zdz/nyu_covid_dashboard_929_update/)
+
+**09/24** | [NYU Covid Dashboard - 9/24 Update](https://www.reddit.com/r/nyu/comments/iz701a/nyu_covid_dashboard_924_update/)
+
+**09/23** | [NYU Covid Dashboard - 9/23 Update](https://www.reddit.com/r/nyu/comments/iy9v4g/nyu_covid_dashboard_923_update/)
+
+**09/21** | [NYU Covid Dashboard - 9/21 Update](https://www.reddit.com/r/nyu/comments/ix3xj7/nyu_covid_dashboard_921_update/)
+
+**09/18** | [NYU Covid Dashboard - 9/18 Update](https://www.reddit.com/r/nyu/comments/iv7de9/nyu_covid_dashboard_918_update/)
+
+**09/17** | [NYU Corona Dashboard - 9/17 Update](https://www.reddit.com/r/nyu/comments/iukijz/nyu_corona_dashboard_917_update/)
+
+*Other relevant posts*
+
+**09/26** | [NYU Covid Tracker Newsletter](https://www.reddit.com/r/nyu/comments/j07izr/nyu_covid_tracker_newsletter/)
 
 ## Useful Links
 * [NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html) – Primary NYU dashboard (recently changed 10/13, now *tests are reported as they get processed*)
