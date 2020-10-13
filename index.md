@@ -250,7 +250,7 @@ Other relevant posts
 
 * **AVOID RAVES, PARTIES & LARGE GATHERINGS. Wear masks.** 6 ft. apart. Wash hands. Outdoor activities are safer than indoor.  
 
-## <a name="links"></a>Useful Links
+## <a name="links"></a>Useful Links & Resources
 * [NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html) – Primary NYU dashboard
   * Recently changed 10/13, now *tests are reported as they get processed*
   * Updated randomly
