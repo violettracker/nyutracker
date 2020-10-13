@@ -11,7 +11,7 @@
 <center><a href="https://violettracker.github.io/nyutracker/"><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
 <center>Welcome to the new portal for accessing up-to-date information related to VioletTracker!</center>
-
+<hr>
 ## Sign-up
 
 <center>Please sign up for the VioletTracker newsletter here: <a href="https://bit.ly/VioletTrackerMailSignup"><b>https://bit.ly/VioletTrackerMailSignup</b></a>  
@@ -22,12 +22,12 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## New York University Status Update
 
-<center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; font-weight: normal;"><table style="background-color: #008000; border-spacing: 0px; border: 0px solid black; border-collapse: collapse; width: 50%; margin-left: auto; margin-right: auto; border-radius: 50px; font-weight: normal;">
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: bold;">
-    <th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: bold;">GREEN ALERT</th>
+<center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; font-weight: normal;"><table style="background-color: #008000; border-spacing: 0px; border: 0px solid black; border-collapse: collapse; margin-left: auto; margin-right: auto; border-radius: 50px; font-weight: normal;">
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: bold;">
+    <th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: bold;">GREEN ALERT</th>
   </tr>
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-top: 0px; font-weight: normal; font-size: smaller;">
-  	<th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 50%; margin-left: auto; margin-right: auto; padding-top: 0px; font-weight: normal; font-size: smaller;">for <i>All Campuses (NYU-NYC)</i></th>
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; margin-left: auto; margin-right: auto; padding-top: 0px; font-weight: normal; font-size: smaller;">
+  	<th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; margin-left: auto; margin-right: auto; padding-top: 0px; font-weight: normal; font-size: smaller;">for <i>All Campuses (NYU-NYC)</i></th>
   </tr>
 </table></span></center>
 
