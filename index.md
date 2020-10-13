@@ -13,12 +13,12 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## NYU Status Update
 
-<center><table style="background-color: #008000; border-spacing: 0px; padding: 0px;">
-  <tr>
-    <th style="color: white;"><center>GREEN ALERT</center></th>
+<center><table style="background-color: #008000; border: 0px solid black; border-collapse: collapse; padding: 0px;">
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse;">
+    <th style="color: white; border: 0px solid black; border-collapse: collapse;"><center>GREEN ALERT</center></th>
   </tr>
-  <tr>
-  	<th style="color: white;"><center>for ALL CAMPUSES (NYU-NYC)</center></th>
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse;">
+  	<th style="color: white; border: 0px solid black; border-collapse: collapse;"><center>for ALL CAMPUSES (NYU-NYC)</center></th>
   </tr>
 </table></center>
 
@@ -50,7 +50,7 @@ If you have feedback or confidential tips to submit to me, please use [this form
 
 <center><button type="button" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback</button></center>
 
-<h2>Blog from the Creator</h2>
+## Blog from the Creator
 <sup><i>(10/13/20 at 1:30 AM EST)</i></sup>
 
 Just getting this up and running, for now.
