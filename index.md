@@ -18,7 +18,7 @@ Please sign up for the VioletTracker newsletter here: **[https://bit.ly/VioletTr
 
 If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
-<center><button type="button" class="btn" style="background-color: #c3bccf; color: #a789db;" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button></center>
+<center><button type="button" class="btn" style="background-color: #e4deed; color: #422673;" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button></center>
 
 ## NYU Status Update
 
