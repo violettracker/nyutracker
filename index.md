@@ -19,7 +19,7 @@ Please sign up for the VioletTracker newsletter here: **[https://bit.ly/VioletTr
 
 If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
-<center><button type="button" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button></center>
+<center><button type="button" class="btn" style="background-color: #a789db;" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button></center>
 
 ## NYU Status Update
 
@@ -58,7 +58,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 If you have feedback or confidential tips to submit to me, please use [this form](http://bit.ly/VioletTrackerFeedback), or email me at [violettracker.nyu+tips@gmail.com](violettracker.nyu+tips@gmail.com). I rely on community tips for supplemental reporting.
 
-<center><button type="button" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback</button></center>
+<center><button type="button" class="btn" style="background-color: #a789db;" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback</button></center>
 
 ## Blog from the Creator
 <sup><i>(10/13/20 at 1:30 AM EST)</i></sup>
@@ -89,7 +89,7 @@ The app also has other features, such as recent county-by-county testing results
 <hr>
 I urge you to consider downloading it and keeping NY safe.
 
-<center><button type="button" class="btn" style="background-color: #a673ff;" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';"><b>Download COVID Alert NY</b></button></center>
+<center><button type="button" class="btn" style="background-color: #a789db;" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';"><b>Download COVID Alert NY</b></button></center>
 
 ## Guidance
 
