@@ -47,3 +47,5 @@ New York State recently announced a new privacy-minded Covid app, called [COVID 
 The app also has other features, such as recent county-by-county testing results and a health log to help you monitor any possible symptoms.
 
 I urge you to consider downloading it.
+
+<button type="button" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button>
