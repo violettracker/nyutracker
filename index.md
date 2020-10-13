@@ -26,7 +26,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
     <th style="color: white; border: 0px solid black; border-collapse: collapse; width: 50%; margin-left: auto; margin-right: auto;">GREEN ALERT</th>
   </tr>
   <tr style="color: white; border: 0px solid black; border-collapse: collapse; width: 50%; margin-left: auto; margin-right: auto;">
-  	<th style="color: white; border: 0px solid black; border-collapse: collapse; width: 50%; margin-left: auto; margin-right: auto;">for <i>All Campuses (NYU-NYC)</i></th>
+  	<th style="color: white; border: 0px solid black; border-collapse: collapse; width: 50%; margin-left: auto; margin-right: auto;">for <i>All Campuses (NYU NYC)</i></th>
   </tr>
 </table></span></center>
 
