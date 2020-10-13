@@ -84,7 +84,7 @@ New York State recently announced a new privacy-minded Covid app, called **[COVI
 
 <details><summary>Learn more</summary><br>
 The app keeps people safe and provides <b>exposure notifications</b> using bluetooth iOS / Android technology (rather than tracking your location). It <b><a href="https://twitter.com/NYGovCuomo/status/1311712687441797121">works regionally</a></b> with apps in NY, NJ, PA, and DE.
-
+<br>
 The app also has other features, such as recent county-by-county testing results and a health log to help you monitor any possible symptoms.</details>
 
 I urge you to consider downloading it and keeping NY safe.
