@@ -14,7 +14,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## NYU Status Update
 
-<table style="background-color: #008000; width:100%; border: 0px solid white; border-radius: = 20px;">
+<table style="background-color: #008000; width:100%; border: 0px solid white;">
   <tr>
     <th style="color:#ffffff;"><center>GREEN ALERT</center></th>
   </tr>
@@ -58,6 +58,10 @@ Just getting this up and running, for now.
 
 <p style="color:#4b0092;"><b>violetflash</b></p>  
 
+## NYC Status Update
+
+* Coming soon
+
 ## New York State Covid App
 
 New York State recently announced a new privacy-minded Covid app, called **[COVID Alert NY](https://coronavirus.health.ny.gov/covid-alert-ny)**. It is designed by the state Department of Health. The app keeps people safe and provides **exposure notifications** using bluetooth iOS / Android technology (rather than tracking your location). It **[works regionally](https://twitter.com/NYGovCuomo/status/1311712687441797121?utm_source=sendinblue&utm_campaign=Breaking_News_1012&utm_medium=email)** with apps in NY, NJ, PA, and DE.
@@ -68,13 +72,9 @@ I urge you to consider downloading it.
 
 <center><button type="button" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
 
-## NYC Status Update
-
-* Coming soon
-
 ## Guidance
 
-* Coming soon
+* **AVOID RAVES, PARTIES & LARGE GATHERINGS. Wear masks.** 6 ft. apart. Wash hands. Outdoor acitivies are safer than indoor. 
 
 ## Community Flash Update Archive  
 
