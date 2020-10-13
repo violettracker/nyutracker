@@ -1,4 +1,4 @@
-# VioletTracker Portal 1
+# VioletTracker Portal
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179043880-1"></script>
 <script>
