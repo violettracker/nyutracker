@@ -4,7 +4,9 @@ Welcome to the new portal for accessing communications related to VioletTracker!
 
 ## Sign-up
 
-Please sign up for the VioletTracker newsletter here: **[https://bit.ly/VioletTrackerMailSignup](https://bit.ly/VioletTrackerMailSignup)**
+Please sign up for the VioletTracker newsletter here: **[https://bit.ly/VioletTrackerMailSignup](https://bit.ly/VioletTrackerMailSignup)**  
+
+If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## <a name="sample"></a>Email Archive & Samples  
 
@@ -37,3 +39,11 @@ If you have feedback or confidential tips to submit to me, please use [this form
 *Flash updates are ordered from most to least recent*  
 
 *\[Flash updates will be added soon\]*
+
+## New York State Covid App
+
+New York State recently announced a new privacy-minded Covid app, called [COVID Alert NY](https://coronavirus.health.ny.gov/covid-alert-ny). It is designed by the state Department of Health. The app keeps people safe and gives exposure notifications using bluetooth iOS / Android technology (rather than tracking your location). It [works regionally](https://twitter.com/NYGovCuomo/status/1311712687441797121?utm_source=sendinblue&utm_campaign=Breaking_News_1012&utm_medium=email) with apps in NY, NJ, PA, and DE.
+
+The app also has other features, such as recent county-by-county testing results and a health log to help you monitor any possible symptoms.
+
+I urge you to consider downloading it.
