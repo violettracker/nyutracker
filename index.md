@@ -1,3 +1,4 @@
+# VioletTracker Portal
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179043880-1"></script>
 <script>
@@ -13,7 +14,6 @@
 }
 </style>
 <center><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></center>
-<center><h1 id="violettracker">VioletTracker Project</h1></center>
 
 <center>Welcome to the new portal for accessing up-to-date information related to VioletTracker!</center>
 
