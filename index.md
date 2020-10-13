@@ -90,10 +90,6 @@ I urge you to consider downloading it and keeping NY safe.
 
 <center><button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
 
-## Guidance
-
-* **AVOID RAVES, PARTIES & LARGE GATHERINGS. Wear masks.** 6 ft. apart. Wash hands. Outdoor activities are safer than indoor. 
-
 ## <a name="reddit"></a>Community Flash Update Archive  
 
 *Reddit flash updates are ordered from most to least recent*  
@@ -170,6 +166,10 @@ Other relevant posts
   </tbody>
 </table>
 </details><hr>
+  
+## Guidance
+
+* **AVOID RAVES, PARTIES & LARGE GATHERINGS. Wear masks.** 6 ft. apart. Wash hands. Outdoor activities are safer than indoor.  
 
 ## Useful Links
 * [NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html) – Primary NYU dashboard (recently changed 10/13, now *tests are reported as they get processed*)
