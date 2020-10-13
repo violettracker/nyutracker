@@ -126,6 +126,8 @@ I urge you to consider downloading it.
 
 **09/26** | [NYU Covid Tracker Newsletter](https://www.reddit.com/r/nyu/comments/j07izr/nyu_covid_tracker_newsletter/)
 
+**09/14** | [NYU Corona Dashboard - 9/14](https://www.reddit.com/r/nyu/comments/isyf95/2_week_rolling_covid_data_hits_48/g5bi0g9?utm_source=share&utm_medium=web2x&context=3)
+
 ## Useful Links
 * [NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html) – Primary NYU dashboard (recently changed 10/13, now *tests are reported as they get processed*)
   * Updated randomly
