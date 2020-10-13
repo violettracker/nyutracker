@@ -14,23 +14,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## NYU Status Update
 
-<table border=
-=3D"0" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" al=
-ign=3D"left" class=3D"rnb-col-1">
-
-                                                                <tbody><tr>
-                                                                    <td cla=
-ss=3D"content-spacing" style=3D"font-size:14px; font-family:Arial,Helvetica=
-,sans-serif, sans-serif; color:#3c4858; line-height: 21px;"><div style=3D"t=
-ext-align: center;"><span style=3D"font-size:15px;"><span style=3D"color:#F=
-FFFFF;"><strong>GREEN ALERT</strong></span></span></div>
-
-<div style=3D"text-align: center;"><span style=3D"color:#FFFFFF;">for<em> A=
-LL CAMPUSES (NYU-NYC)</em></span></div>
-</td>
-                                                                </tr>
-                                                                </tbody></t=
-able>
+<div style=3D"background-color: rgb(0, 128, 0); border-radius: = 20px;">TEST</div>
 
 ## <a name="sample"></a>Email Archive & Samples  
 
