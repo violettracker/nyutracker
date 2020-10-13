@@ -1,5 +1,4 @@
 <center><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></center>
-
 <center><h1>VioletTracker Project</h1></center>
 
 <center>Welcome to the new portal for accessing communications related to VioletTracker!</center>
@@ -80,7 +79,7 @@ I urge you to consider downloading it.
 
 *Reddit flash updates are ordered from most to least recent*  
 
-*\[Flash updates will be added soon\]*
+* Coming soon
 
 ## Useful Links
 * [NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html) – Primary NYU dashboard (tests are catalogued by date of diagnosis / collection)
