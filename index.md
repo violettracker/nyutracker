@@ -123,7 +123,7 @@ I urge you to consider downloading it.
 
 **09/17** | [NYU Corona Dashboard - 9/17 Update](https://www.reddit.com/r/nyu/comments/iukijz/nyu_corona_dashboard_917_update/)
 
-*Other relevant posts*
+Other relevant posts
 
 **09/26** | [NYU Covid Tracker Newsletter](https://www.reddit.com/r/nyu/comments/j07izr/nyu_covid_tracker_newsletter/)
 
