@@ -51,7 +51,7 @@ If you have feedback or confidential tips to submit to me, please use [this form
 <center><button type="button" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback</button></center>
 
 <h2>Blog from the Creator</h2>
-<sup><i>(10/13/20 at 1:30AM EST)</i></sup>
+<sup><i>(10/13/20 at 1:30 AM EST)</i></sup>
 
 Just getting this up and running, for now.
 
