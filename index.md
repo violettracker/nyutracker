@@ -128,7 +128,8 @@ I urge you to consider downloading it and keeping NY safe.
 
 <center><button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
 
-## <a name="reddit"></a>Community Flash Update Archive  
+## <a name="reddit"></a>Reddit Flash Update Archive  
+*These are usually the first alert of dashboard changes (plus community discussion)*
 
 **10/13** | **[NYU Covid Dashboard - 10/13](https://www.reddit.com/r/nyu/comments/jagw29/nyu_covid_dashboard_1013/)**  
 
