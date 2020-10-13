@@ -22,12 +22,12 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.</center>
 
 ## NYU Status Update
 
-<center><table style="background-color: #008000; border: 0px solid black; border-collapse: collapse; padding: 0px; width: 50%; margin-left: auto; margin-right: auto;">
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center; padding: 0px; width: 50%; margin-left: auto; margin-right: auto;">
-    <th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center; width: 50%; margin-left: auto; margin-right: auto;">GREEN ALERT</th>
+<center><table style="background-color: #008000; border: 0px solid black; border-collapse: collapse; width: 99%; margin-left: auto; margin-right: auto;">
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse; width: 99%; margin-left: auto; margin-right: auto;">
+    <th style="color: white; border: 0px solid black; border-collapse: collapse; width: 99%; margin-left: auto; margin-right: auto;">GREEN ALERT</th>
   </tr>
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse text-align: center; width: 50%; margin-left: auto; margin-right: auto;">
-  	<th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center; width: 50%; margin-left: auto; margin-right: auto;">for All Campuses (NYU-NYC)</th>
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse; width: 99%; margin-left: auto; margin-right: auto;">
+  	<th style="color: white; border: 0px solid black; border-collapse: collapse; width: 99%; margin-left: auto; margin-right: auto;">for All Campuses (NYU-NYC)</th>
   </tr>
 </table></center>
 
