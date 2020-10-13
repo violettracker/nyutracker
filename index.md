@@ -19,7 +19,7 @@
 If you find it helpful, refer a friend! Let's make NYU and NYC safer. 
 <br><br>
 <button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button>
-<br><sup>Currently serving 80+ subscribers</sup></center>
+<br><sup><i>Currently serving 80+ subscribers</i></sup></center>
 
 ## <a name="nyu"></a>New York University Status Update
 
