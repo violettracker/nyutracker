@@ -54,15 +54,55 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 **10/05** | [Dashboard Bulletin](https://sh1.sendinblue.com/v2euw8pitt7e.html?t=1602561682)
 
-**10/03** | [Breaking News: Dashboard Updates](https://sh1.sendinblue.com/v1pko8pitt7e.html?t=1602561747)
+*Displaying the most recent 4 entries*
 
-**10/02** | [Breaking News: State Dashboard Update](https://sh1.sendinblue.com/v1cxk8pitt7e.html?t=1602561773)
+<hr><details><summary>See older emails</summary><hr>
 
-**10/01** | [Breaking News: Significant Dashboard Changes](https://sh1.sendinblue.com/2n4548pitt7e.html?t=1602561797)
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/03</strong></td>
+      <td><a href="https://sh1.sendinblue.com/v1pko8pitt7e.html?t=1602561747">Breaking News: Dashboard Updates</a></td>
+    </tr>
+  </tbody>
+</table>
 
-**09/29** | [Dashboard Bulletin](https://sh1.sendinblue.com/2ntfc8pitt7e.html?t=1602561830)
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/02</strong></td>
+      <td><a href="https://sh1.sendinblue.com/v1cxk8pitt7e.html?t=1602561773">Breaking News: State Dashboard Update</a></td>
+    </tr>
+  </tbody>
+</table>
 
-**09/28** | [Inaugural Edition](https://bit.ly/VioletTrackerInauguralEdition)
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/01</strong></td>
+      <td><a href="https://sh1.sendinblue.com/2n4548pitt7e.html?t=1602561797">Breaking News: Significant Dashboard Changes</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>09/29</strong></td>
+      <td><a href="https://sh1.sendinblue.com/2ntfc8pitt7e.html?t=1602561830">Dashboard Bulletin</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>09/28</strong></td>
+      <td><a href="https://bit.ly/VioletTrackerInauguralEdition">Inaugural Edition</a></td>
+    </tr>
+  </tbody>
+</table>
+</details><hr>
 
 ## Feedback & Tips
 
@@ -102,21 +142,63 @@ I urge you to consider downloading it and keeping NY safe.
 
 **10/06** | [NYU Covid Dashboard - 10/6 Update](https://www.reddit.com/r/nyu/comments/j6bq79/nyu_covid_dashboard_106_update/)
 
-**10/05** | [NYU Covid Dashboard - 10/5 Update](https://www.reddit.com/r/nyu/comments/j5lv0g/nyu_covid_dashboard_105_update/)
-
-**10/02** | [NYU Covid Dashboard - 10/2 Update](https://www.reddit.com/r/nyu/comments/j47rwt/nyu_covid_dashboard_102_update/)
-
-**10/01** | [NYU Covid Dashboard - 10/1 Update](https://www.reddit.com/r/nyu/comments/j395of/nyu_covid_dashboard_101_update/)
-
-**09/29** | [NYU Covid Dashboard - 9/29 Update](https://www.reddit.com/r/nyu/comments/j27zdz/nyu_covid_dashboard_929_update/)
-
-**09/24** | [NYU Covid Dashboard - 9/24 Update](https://www.reddit.com/r/nyu/comments/iz701a/nyu_covid_dashboard_924_update/)
-
-**09/23** | [NYU Covid Dashboard - 9/23 Update](https://www.reddit.com/r/nyu/comments/iy9v4g/nyu_covid_dashboard_923_update/)
-
-*Displaying the last 10 entries*
+*Displaying the most recent 4 entries*
 
 <hr><details><summary>See older posts</summary><hr>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/05</strong></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j5lv0g/nyu_covid_dashboard_105_update/">NYU Covid Dashboard - 10/5 Update</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/02</strong></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j47rwt/nyu_covid_dashboard_102_update/">NYU Covid Dashboard - 10/2 Update</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/01</strong></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j395of/nyu_covid_dashboard_101_update/">NYU Covid Dashboard - 10/1 Update</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>09/29</strong></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j27zdz/nyu_covid_dashboard_929_update/">NYU Covid Dashboard - 9/29 Update</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>09/24</strong></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/iz701a/nyu_covid_dashboard_924_update/">NYU Covid Dashboard - 9/24 Update</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>09/23</strong></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/iy9v4g/nyu_covid_dashboard_923_update/">NYU Covid Dashboard - 9/23 Update</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <tbody>
@@ -176,4 +258,4 @@ Other relevant posts
   * Updated randomly
 * [State Dashboard](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true) – NYS-operated & NYU-data provided (*tests are reported as they get processed*)
   * Individual campuses: [WSQ](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true), [TAN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999994;redirectToHome=true), [LAW](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999995;redirectToHome=true), [DEN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999991;redirectToHome=true), [SIL](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999996;redirectToHome=true), WAG, [SPS](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999998;redirectToHome=true), [ISA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999992;redirectToHome=true), [IFA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999993;redirectToHome=true) & MED
-  * Updated daily(ish)
+  * Updated daily*(ish)*
