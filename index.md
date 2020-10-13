@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:100%;height:100%;">
+<center><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:100%;height:100%;"></center>
 
 # VioletTracker Project
 
