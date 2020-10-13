@@ -121,7 +121,7 @@ I urge you to consider downloading it and keeping NY safe.
 
 
 <details>
-<summary>See older posts</summary>
+<summary>See older posts</summary><hr>
 
 <table>
   <tbody>
@@ -170,7 +170,7 @@ Other relevant posts
     </tr>
   </tbody>
 </table>
-</details>
+</details><hr>
 
 ## Useful Links
 * [NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html) – Primary NYU dashboard (recently changed 10/13, now *tests are reported as they get processed*)
