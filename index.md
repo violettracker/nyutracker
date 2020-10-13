@@ -7,10 +7,12 @@
 
   gtag('config', 'UA-179043880-1');
 </script>
+<link rel="icon" type="image/png" href="https://i.imgur.com/AChJrCl.png"/>
+<title>VioletTracker Portal</title>
 <center><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></center>
-<center><h1>The VioletTracker Project</h1></center>
+<center><h1>VioletTracker Project</h1></center>
 
-<center>Welcome to the new portal for accessing communications related to VioletTracker!</center>
+<center>Welcome to the new portal for accessing up-to-date information related to VioletTracker!</center>
 
 ## Sign-up
 
