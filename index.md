@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:5%;height:5%;"></img>
+
 # VioletTracker Project
 
 Welcome to the new portal for accessing communications related to VioletTracker!
