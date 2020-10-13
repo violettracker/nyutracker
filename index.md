@@ -8,7 +8,7 @@ Please sign up for the VioletTracker newsletter here: **[https://bit.ly/VioletTr
 
 If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
-<button type="button" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button>
+<center><button type="button" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button></center>
 
 ## <a name="sample"></a>Email Archive & Samples  
 
@@ -36,7 +36,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 If you have feedback or confidential tips to submit to me, please use [this form](http://bit.ly/VioletTrackerFeedback), or email me at [violettracker.nyu+tips@gmail.com](violettracker.nyu+tips@gmail.com). I rely on community tips for supplemental reporting.
 
-<button type="button" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback</button>
+<center><button type="button" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback</button></center>
 
 ## Reddit Flash Update Archive  
 
@@ -52,4 +52,4 @@ The app also has other features, such as recent county-by-county testing results
 
 I urge you to consider downloading it.
 
-<button type="button" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button>
+<center><button type="button" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
