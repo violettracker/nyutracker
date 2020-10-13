@@ -40,6 +40,13 @@ If you have feedback or confidential tips to submit to me, please use [this form
 
 <center><button type="button" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback</button></center>
 
+## Blog from the Creator
+<sup><i>(10/13/20 at 1:30AM EST)</i></sup>
+
+Just getting this up and running, for now.
+
+**violetflash**  
+
 ## New York State Covid App
 
 New York State recently announced a new privacy-minded Covid app, called **[COVID Alert NY](https://coronavirus.health.ny.gov/covid-alert-ny)**. It is designed by the state Department of Health. The app keeps people safe and provides **exposure notifications** using bluetooth iOS / Android technology (rather than tracking your location). It **[works regionally](https://twitter.com/NYGovCuomo/status/1311712687441797121?utm_source=sendinblue&utm_campaign=Breaking_News_1012&utm_medium=email)** with apps in NY, NJ, PA, and DE.
@@ -50,15 +57,8 @@ I urge you to consider downloading it.
 
 <center><button type="button" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
 
-## Blog from the Creator
-<sup><i>(10/13/20 at 1:30AM EST)</i></sup>
+## Community Flash Update Archive  
 
-Just getting this up and running, for now.
-
-**violetflash**  
-
-## Reddit Flash Update Archive  
-
-*Flash updates are ordered from most to least recent*  
+*Reddit flash updates are ordered from most to least recent*  
 
 *\[Flash updates will be added soon\]*
