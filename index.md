@@ -12,7 +12,7 @@
 
 <center>Welcome to the new portal for accessing up-to-date information related to VioletTracker!</center>
 <hr>
-## Sign-up  
+## <a name="register"></a>Sign-up  
 
 <center><b>VT</b> is a compilation of all the Covid-related news you need to <b>keep yourself safe in NYC</b> and at NYU. Please <b><a href="https://bit.ly/VioletTrackerMailSignup">sign up</a></b> for the <a href="https://bit.ly/VioletTrackerSampleMail">newsletter</a> with the button below, or check back here regularly for updates.  
 <br><br>
