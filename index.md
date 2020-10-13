@@ -8,11 +8,7 @@
 
   gtag('config', 'UA-179043880-1');
 </script>
-<style>
-  #title-text a::after {
-      content: " NEW!";
-}
-</style>
+
 <center><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></center>
 
 <center>Welcome to the new portal for accessing up-to-date information related to VioletTracker!</center>
