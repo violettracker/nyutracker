@@ -42,7 +42,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   </tr>
 </table></span></center>
 
-## <a name="sample"></a>Email Archive & Samples  
+## <a name="sample"></a>Recent Emails & Archive  
 
 **10/12** | [Breaking News: Weekend Dashboard Updates](https://sh1.sendinblue.com/v3tfc8pitt7e.html?t=1602560720)
 
