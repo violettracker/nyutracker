@@ -119,7 +119,7 @@ I urge you to consider downloading it and keeping NY safe.
 
 **09/23** | [NYU Covid Dashboard - 9/23 Update](https://www.reddit.com/r/nyu/comments/iy9v4g/nyu_covid_dashboard_923_update/)
 
-<br>
+*Displaying the last 10 entries*
 
 <details><summary>See older posts</summary><hr>
 
