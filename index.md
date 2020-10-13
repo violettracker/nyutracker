@@ -46,7 +46,7 @@ If you have feedback or confidential tips to submit to me, please use [this form
 
 ## New York State Covid App
 
-New York State recently announced a new privacy-minded Covid app, called [COVID Alert NY](https://coronavirus.health.ny.gov/covid-alert-ny). It is designed by the state Department of Health. The app keeps people safe and gives exposure notifications using bluetooth iOS / Android technology (rather than tracking your location). It [works regionally](https://twitter.com/NYGovCuomo/status/1311712687441797121?utm_source=sendinblue&utm_campaign=Breaking_News_1012&utm_medium=email) with apps in NY, NJ, PA, and DE.
+New York State recently announced a new privacy-minded Covid app, called **[COVID Alert NY](https://coronavirus.health.ny.gov/covid-alert-ny)**. It is designed by the state Department of Health. The app keeps people safe and gives exposure notifications using bluetooth iOS / Android technology (rather than tracking your location). It **[works regionally](https://twitter.com/NYGovCuomo/status/1311712687441797121?utm_source=sendinblue&utm_campaign=Breaking_News_1012&utm_medium=email)** with apps in NY, NJ, PA, and DE.
 
 The app also has other features, such as recent county-by-county testing results and a health log to help you monitor any possible symptoms.
 
