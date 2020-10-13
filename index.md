@@ -54,7 +54,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 *Displaying 4 most recent*
 
-<hr><details><summary>See older emails</summary><hr>
+<hr><details><summary>See older emails ▼</summary><hr>
 
 <table>
   <tbody>
