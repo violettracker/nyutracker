@@ -13,12 +13,12 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## NYU Status Update
 
-<center><table style="background-color: #008000; border: 0px solid black; border-collapse: collapse; padding: 0px; width: 100%; margin-left: auto; margin-right: auto;">
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; width: 100%; margin-left: auto; margin-right: auto;">
-    <th style="color: white; border: 0px solid black; border-collapse: collapse; width: 100%; margin-left: auto; margin-right: auto;"><center>GREEN ALERT</center></th>
+<center><table style="background-color: #008000; border: 0px solid black; border-collapse: collapse; padding: 0px;  text-align: center;">
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center; padding: 20px;">
+    <th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center;"><center>GREEN ALERT</center></th>
   </tr>
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; width: 100%; margin-left: auto; margin-right: auto;">
-  	<th style="color: white; border: 0px solid black; border-collapse: collapse; width: 100%; margin-left: auto; margin-right: auto;"><center>for ALL CAMPUSES (NYU-NYC)</center></th>
+  <tr style="color: white; border: 0px solid black; border-collapse: collapse text-align: center;">
+  	<th style="color: white; border: 0px solid black; border-collapse: collapse; text-align: center;"><center>for ALL CAMPUSES (NYU-NYC)</center></th>
   </tr>
 </table></center>
 
