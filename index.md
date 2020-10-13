@@ -14,12 +14,12 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## NYU Status Update
 
-<table style="background-color: rgb(0, 128, 0); border-radius: = 20px;">
+<table style="background-color: #008000; border-radius: = 20px;">
   <tr>
-    <th>GREEN ALERT</th>
+    <th style="color:#ffffff;"><center>GREEN ALERT</center></th>
   </tr>
   <tr>
-  	<th>test</th>
+  	<th style="color:#ffffff;"><center>test</center></th>
   </tr>
 </table>
 
