@@ -57,7 +57,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 If you have feedback or confidential tips to submit to me, please use [this form](http://bit.ly/VioletTrackerFeedback), or email me at [violettracker.nyu+tips@gmail.com](violettracker.nyu+tips@gmail.com). I rely on community tips for supplemental reporting.
 
-<center><button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or a tip</button></center>
+<center><button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
 
 ## Blog from the Creator
 <sup><i>(10/13/20 at 1:30 AM EST)</i></sup>
