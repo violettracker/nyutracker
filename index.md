@@ -257,15 +257,15 @@ Other relevant posts
 <hr><details><summary><u>See additional links</u></summary><hr>
 <ul>
   <li>Coffee</li>
-  &nbsp;<li>Coffee</li>
-  <li>Tea</li>
+  <li>&nbsp;Coffee</li>
+  <li style="padding-left:20px">Tea</li>
   <li>Milk</li>
 </ul>
 </details>  
 <hr>
 
 <hr>
-<center><a href="#top">▲ Back to the top</a>
+<center><a style="color: #5f37a4;" href="#top">▲ Back to the top</a>
 <br><br>
 © 2020 <b>VioletTracker</b>
 <br><br><sup>VioletTracker is not affiliated with New York University.
