@@ -36,7 +36,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span>
 <sup><br><i>Status flags last verified 10/14 at 9:30 AM EST</i></sup></center>  
 
-## <a name="sample"></a>Recent Emails & Archive  
+## <a name="sample"></a><a name="email"></a>Recent Emails & Archive  
 
 **10/12** | [Breaking News: Weekend Dashboard Updates](https://sh1.sendinblue.com/v3tfc8pitt7e.html?t=1602560720)
 
@@ -122,7 +122,7 @@ I urge you to consider downloading it and keeping NY safe.
 
 <center><button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
 
-## <a name="reddit"></a>Reddit Flash Update Archive  
+## <a name="reddit"></a><a name="flash"></a><a name="community"></a>Reddit Flash Update Archive  
 *These are usually the first alert of notable events (plus community discussion)*
 
 **10/13** | **[NYU Covid Dashboard - 10/13](https://www.reddit.com/r/nyu/comments/jagw29/nyu_covid_dashboard_1013/)**  
