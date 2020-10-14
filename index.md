@@ -105,7 +105,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 ## <a name="blog"></a>Blog from the Creator
 <sup><i>(10/14/20 at 9:30 AM EST)</i></sup>
 
-<center><i>"The numbers continue to look good today. Expect some kind of email."</i>
+<center><i>"The numbers continue to look good today (based on the State dashboard). Waiting to see if NYU's dashboard updates today. Probably expect some kind of email later."</i>
 <br><br>
 <span>– </span><span style="color:#4b0092;"><b>violetflash</b></span></center>  
 
