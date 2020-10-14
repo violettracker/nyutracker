@@ -10,11 +10,11 @@
 </script><link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/favicon.ico?" />
 <a name="top"></a><center><a href="https://violettracker.github.io/nyutracker/"><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
-<center>Welcome to the new portal for accessing up-to-date information related to VioletTracker!</center>
+<center>Welcome to the new Covid-Info portal from VioletTracker!</center>
 <hr>
 ## <a name="register"></a>Sign-up  
 
-<center><b>VT</b> is a compilation of all the Covid-related news you need to <b>keep yourself safe in NYC</b> and at NYU. Please <b><a href="https://bit.ly/VioletTrackerMailSignup">sign up</a></b> for the <a href="https://bit.ly/VioletTrackerSampleMail">newsletter</a> with the button below, or check back here regularly for updates.  
+<center>VioletTracker is a compilation of all the Covid-related news you need to <b>keep yourself safe</b> in NYC & at NYU. Please <b><a style="color: #5f37a4;" href="https://bit.ly/VioletTrackerMailSignup">sign up</a></b> for the <a style="color: #5f37a4;" href="https://bit.ly/VioletTrackerSampleMail">newsletter</a> with the button below, or check back here regularly for updates.  
 <br><br>
 If you find it helpful, refer a friend! Let's make NYU and NYC safer. 
 <br><br>
