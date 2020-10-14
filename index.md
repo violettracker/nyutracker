@@ -268,14 +268,14 @@ Other relevant posts
 
 ## About
 <ul>
-  <li>Purpose: To promote public health, and greater transparency and communication, so that the community may make smarter, more informed decisions.</li>
+  <li><u>Purpose</u>: To promote public health, and greater transparency and communication, so that the community may make smarter, more informed decisions.</li>
 </ul>
 
 <hr><details><summary><u>See more</u></summary><hr>
 <ul>
-<li style="list-style-type: disc;">Timeliness: In general, the frequency of the newsletter will depend on how often NYU updates its dataset. This website will be updated as often as it is relevant, and will usually remain up-to-date. I am doing this as a sort of public health side-project and I have various other time commitments as well, so please excuse any delays on my part. I may provide interim and breaking news coverage as I see fit.</li>
-<li>Independence: Despite me being an NYU student, this newsletter is wholly my own views, informed by lots of news, data, and community sources, and sometimes vetted by third parties. It does not contain any explicit influence from the University. I did make the conscious decision to include rumors in the bulletins, because I believe some of them have value.</li>
-<li>Alert Flags: The red, orange, yellow, and green alert flags are tied to two metrics: <b>risk of closure</b> (each NYU campus remaining below 100 new cases in a 2-week block) and <b>risk of outbreak</b> (whether the community caseload is still manageable enough for NYU's admin to handle).</li> 
+<li><u>Timeliness</u>: In general, the frequency of the newsletter will depend on how often NYU updates its dataset. This website will be updated as often as it is <b>relevant</b>, and will usually remain up-to-date. I am doing this as a sort of public health side-project and I have various other time commitments as well, so please excuse any delays on my part. I may provide interim and breaking news coverage as I see fit.</li>
+<li><u>Independence</u>: Despite me being an NYU student, this newsletter is <b>wholly my own views</b>, informed by lots of news, data, and community sources, and sometimes vetted by third parties. It does not contain any explicit influence from the University. I did make the conscious decision to include rumors in the bulletins, because I believe some of them have value.</li>
+<li><u>Alert Flags</u>: The <span style="color:#ff4a4a; font-weight: bold">red</span>, <span style="color:#ff8c00; font-weight: bold">orange</span>, <span style="color:#ffd700; font-weight: bold">yellow</span>, and <span style="color:#008000; font-weight: bold">green</span> alert flags are tied to two metrics: <b>risk of closure</b> (each NYU campus remaining below 100 new cases in a 2-week block) and <b>risk of outbreak</b> (whether the community caseload is still manageable enough for NYU's admin to handle).</li> 
 </ul></details>
 
 <hr>
