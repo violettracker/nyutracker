@@ -262,4 +262,6 @@ Other relevant posts
 <hr>
 <center><a href="#top">▲ Back to the top</a>
 <br><br>
-© 2020 <b>VioletTracker</b></center>
+© 2020 <b>VioletTracker</b>
+<br><br>VioletTracker is not affiliated with New York University.
+<br>It is a public-health side-project from <span style="color:#4b0092;">violetflash</span>.</center>
