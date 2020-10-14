@@ -33,7 +33,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">YELLOW ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span></center>  
   
-  <center><sup><p><i>Status flags last verified 10/13 night</i></p></sup></center> 
+  <br><center><sup><i>Status flags last verified 10/13 night</i></sup></center> 
 
 ## <a name="sample"></a>Recent Emails & Archive  
 
