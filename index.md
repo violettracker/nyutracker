@@ -102,9 +102,9 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
 
 ## <a name="blog"></a>Blog from the Creator
-<sup><i>(10/13/20 at 1:30 AM EST)</i></sup>
+<sup><i>(10/14/20 at 9:30 AM EST)</i></sup>
 
-<center><i>"Just getting this up and running, for now."</i>
+<center><i>"The numbers continue to look good today. Expect some kind of email."</i>
 <br><br>
 <span>– </span><span style="color:#4b0092;"><b>violetflash</b></span></center>  
 
