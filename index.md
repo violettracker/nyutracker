@@ -1,4 +1,4 @@
-# VioletTracker Portal
+# <a name="top"></a>VioletTracker Portal
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179043880-1"></script>
 <script>
@@ -8,7 +8,6 @@
 
   gtag('config', 'UA-179043880-1');
 </script><link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/favicon.ico?" />
-<a name="top"></a>
 <hr>
 <center><a href="https://violettracker.github.io/nyutracker/#top"><img src="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/logo.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
