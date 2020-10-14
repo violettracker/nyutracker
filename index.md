@@ -28,7 +28,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button>
 <sup><br><i>Currently serving 80+ subscribers and dozens of visitors</i></sup></center>
 
-<br><div style="text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #949494;">Back to the top</a></sup></div>
+<br><span style="text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #b1b1b1; text-align: right;">Back to the top</a></sup></span>
 
 ## <a name="nyu"></a>New York University Status Update
 
@@ -44,7 +44,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span>
 <sup><br><i>Status flags last verified 10/14 at 9:30 AM EST</i></sup></center>  
 
-<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
+<br><div style="text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #949494;">Back to the top</a></sup></div>
 
 ## <a name="sample"></a><a name="email"></a>Recent Emails & Archive  
 
