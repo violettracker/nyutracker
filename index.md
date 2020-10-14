@@ -15,7 +15,7 @@
 <hr>
 
 <center><button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#nyu';">NYU Status</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#nyc';">NYC Status</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#email';">Recent Emails</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#register';">Register</button>
-<details><summary>More menu options</summary>
+<details><summary>Menu</summary>
 <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#reddit';">Reddit Updates</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#blog';">Blog</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#links';">Links & Resources</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#about';">About</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#feedback';">Feedback</button></details>
 <hr></center>
 
@@ -43,6 +43,8 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">YELLOW ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span>
 <sup><br><i>Status flags last verified 10/14 at 9:30 AM EST</i></sup></center>  
+
+<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
 
 ## <a name="sample"></a><a name="email"></a>Recent Emails & Archive  
 
@@ -104,11 +106,15 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 </table>
 </details><hr>
 
+<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
+
 ## <a name="feedback"></a>Feedback & Tips
 
 <center>If you have feedback or confidential tips to submit to me, please use <a style="color: #5f37a4;" href="http://bit.ly/VioletTrackerFeedback">this form</a>, or email me at <a style="color: #5f37a4;" href="mailto: violettracker.nyu+tips@gmail.com">violettracker.nyu+tips@gmail.com</a>. I rely on community tips for supplemental reporting.
 <br><br>
 <button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
+
+<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
 
 ## <a name="blog"></a>Blog from the Creator
 <sup><i>(10/14/20 at 9:30 AM EST)</i></sup>
@@ -116,6 +122,8 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <center><i>"The numbers continue to look good today (based on the State dashboard). Waiting to see if NYU's dashboard updates today. Probably expect some kind of email later."</i>
 <br><br>
 <span>– </span><span style="color:#4b0092;"><b>violetflash</b></span></center>  
+
+<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
 
 ## <a name="nysapp"></a>New York State Covid App
 
@@ -129,6 +137,8 @@ The app also has other features, such as recent county-by-county testing results
 I urge you to consider downloading it and keeping NY safe.
 
 <center><button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
+
+<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
 
 ## <a name="reddit"></a><a name="flash"></a><a name="community"></a>Reddit Flash Update Archive  
 *These are usually the first alert of notable events (plus community discussion)*
@@ -247,10 +257,14 @@ Other relevant posts
   </tbody>
 </table>
 </details><hr>
-  
+
+<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
+
 ## <a name="guidance"></a>Guidance
 
 * **AVOID RAVES, PARTIES & LARGE GATHERINGS. Wear masks.** 6 ft. apart. Wash hands. Outdoor activities are safer than indoor.  
+
+<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
 
 ## <a name="links"></a>Useful Links & Resources
 * **[NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html)** – Primary NYU dashboard
@@ -272,6 +286,8 @@ Other relevant posts
 </ul>
 </details>  
 <hr>
+
+<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
 
 ## <a name="about"></a>About
 <ul>
