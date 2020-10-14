@@ -263,7 +263,7 @@ Other relevant posts
 ### Test
 
 <center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; font-weight: normal; color: white;">
-  <span style="display:inline-block; font-weight: bold; padding-top: 10px; padding-bottom: 0px;">GREEN ALERT</span><br>
+  <span style="display:inline-block; font-weight: bold; padding-top: 5px; padding-bottom: 0px;">GREEN ALERT</span>  
   <span style="display:inline-block; font-size: small; padding-top: 0px; padding-bottom: 10px;">for <i>All Campuses (NYU-NYC)</i></span></span></center>
   
 <hr>
