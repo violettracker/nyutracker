@@ -271,7 +271,7 @@ Other relevant posts
   <li><u>Purpose</u>: To promote public health, and greater transparency and communication, so that the community may make smarter, more informed decisions.</li>
 </ul>
 
-<hr><details><summary><u>See more</u></summary><hr>
+<hr><details><summary><u>Learn more</u></summary><hr>
 <ul>
 <li><u>Timeliness</u>: In general, the frequency of the newsletter will depend on how often NYU updates its dataset. This website will be updated as often as it is <b>relevant</b>, and will usually remain current. I am doing this as a sort of public health side-project and I have various other time commitments as well, so please excuse any delays on my part. I may provide interim and breaking news coverage as I see fit.</li>
 <li><u>Independence</u>: Despite me being an NYU student, this newsletter is <b>wholly my own views</b>, informed by lots of news, data, and community sources, and sometimes vetted by third parties. It does not contain any explicit influence from the University. I did make the conscious decision to include rumors in the bulletins, because I believe some of them have value.</li>
