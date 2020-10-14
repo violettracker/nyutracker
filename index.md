@@ -256,15 +256,30 @@ Other relevant posts
 
 <hr><details><summary><u>See additional links</u></summary><hr>
 <ul>
-  <li>Coffee</li>
-  <li style="margin-left:20px">Tea</li>
-  <li>Milk</li>
+  <li><a href="https://gothamist.com/news/coronavirus-statistics-tracking-epidemic-new-york">Gothamist NYC Coronavirus Coverage</a></li>
+  <li style="margin-left:40px; list-style-type: circle;">Useful for citywide metrics & analyses</li>
+  <li><a href="https://www.nytimes.com/interactive/2020/nyregion/new-york-city-coronavirus-cases.html">NYTimes NYC Covid Statistics</a></li>
+  <li style="margin-left:40px; list-style-type: circle;">Easy to understand & well presented</li>
+  <li><a href="https://www1.nyc.gov/site/doh/covid/covid-19-data.page">NYC Gov Covid Statistics</a></li>
+  <li style="margin-left:40px; list-style-type: circle;">Official NYC city gov source (numbers sometime vary from State counts)</li>
 </ul>
 </details>  
 <hr>
 
+## About
+<ul>
+  <li>Purpose: To promote public health, and greater transparency and communication, so that the community may make smarter, more informed decisions.
+</ul>
+
+<hr><details><summary><u>See more</u></summary><hr>
+<ul>
+  <li>Timeliness: In general, the frequency of the newsletter will depend on how often NYU updates its dataset. This website will be updated as often as it is relevant, and will usually remain up-to-date. I am doing this as a sort of public health side-project and I have various other time commitments as well, so please excuse any delays on my part. I may provide interim and breaking news coverage as I see fit.</li>
+  <li>Independence: Despite me being an NYU student, this newsletter is wholly my own views, informed by lots of news, data, and community sources, and sometimes vetted by third parties. It does not contain any explicit influence from the University. I did make the conscious decision to include rumors in the bulletins, because I believe some of them have value.</li>
+  <li>Alert Flags: The red, orange, yellow, and green alert flags are tied to two metrics: <b>risk of closure</b> (each NYU campus remaining below 100 new cases in a 2-week block) and <b>risk of outbreak</b> (whether the community caseload is still manageable enough for NYU's admin to handle).</li> 
+</ul></details>
+
 <hr>
-<center><a style="color: #5f37a4;" href="#top">▲ Back to the top</a>
+<center><a style="color: #5f37a4;" href="#top">▲ Back to the top ▲</a>
 <br><br>
 © 2020 <b>VioletTracker</b>
 <br><br><sup>VioletTracker is not affiliated with New York University.
