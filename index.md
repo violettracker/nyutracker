@@ -262,8 +262,8 @@ Other relevant posts
   
 ### Test
 
-<center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; font-weight: normal; color: white;"><p style="font-weight: bold; padding-top: 2px;">GREEN ALERT</p>
-  <p style="font-size: smaller; padding-bottom: 2px;">for <i>All Campuses (NYU-NYC)</i></p></span></center>
+<center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; font-weight: normal; color: white;"><span style="font-weight: bold; padding-top: 2px;">GREEN ALERT</span>
+  <span style="font-size: smaller; padding-bottom: 2px;">for <i>All Campuses (NYU-NYC)</i></span></span></center>
   
 <hr>
 <center><a href="#top">▲ Back to the top</a>
