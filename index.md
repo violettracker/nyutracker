@@ -28,7 +28,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button>
 <sup><br><i>Currently serving 80+ subscribers and dozens of visitors</i></sup></center>
 
-<br><span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
+<span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
 ## <a name="nyu"></a>New York University Status Update
 
@@ -44,7 +44,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span>
 <sup><br><i>Status flags last verified 10/14 at 9:30 AM EST</i></sup></center>  
 
-<br><div style="text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #949494;">Back to the top</a></sup></div>
+<span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
 ## <a name="sample"></a><a name="email"></a>Recent Emails & Archive  
 
@@ -106,15 +106,13 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 </table>
 </details><hr>
 
-<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
+<span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
 ## <a name="feedback"></a>Feedback & Tips
 
 <center>If you have feedback or confidential tips to submit to me, please use <a style="color: #5f37a4;" href="http://bit.ly/VioletTrackerFeedback">this form</a>, or email me at <a style="color: #5f37a4;" href="mailto: violettracker.nyu+tips@gmail.com">violettracker.nyu+tips@gmail.com</a>. I rely on community tips for supplemental reporting.
 <br><br>
 <button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
-
-<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
 
 ## <a name="blog"></a>Blog from the Creator
 <sup><i>(10/14/20 at 9:30 AM EST)</i></sup>
@@ -123,7 +121,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <br><br>
 <span>– </span><span style="color:#4b0092;"><b>violetflash</b></span></center>  
 
-<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
+<span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
 ## <a name="nysapp"></a>New York State Covid App
 
@@ -138,7 +136,7 @@ I urge you to consider downloading it and keeping NY safe.
 
 <center><button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
 
-<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
+<span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
 ## <a name="reddit"></a><a name="flash"></a><a name="community"></a>Reddit Flash Update Archive  
 *These are usually the first alert of notable events (plus community discussion)*
@@ -258,13 +256,11 @@ Other relevant posts
 </table>
 </details><hr>
 
-<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
+<span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
 ## <a name="guidance"></a>Guidance
 
 * **AVOID RAVES, PARTIES & LARGE GATHERINGS. Wear masks.** 6 ft. apart. Wash hands. Outdoor activities are safer than indoor.  
-
-<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
 
 ## <a name="links"></a>Useful Links & Resources
 * **[NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html)** – Primary NYU dashboard
@@ -287,7 +283,7 @@ Other relevant posts
 </details>  
 <hr>
 
-<br><sup><a href="#top" style="font-size: x-small; font-color: #949494; text-align: right;">Back to the top</a></sup>
+<span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
 ## <a name="about"></a>About
 <ul>
@@ -302,7 +298,7 @@ Other relevant posts
 </ul></details>
 
 <hr>
-<center><a style="color: #5f37a4;" href="#top">▲ Back to the top ▲</a>
+<center><a style="color: #5f37a4;" href="#top">Back to the top</a>
 <br><br>
 © 2020 <b>VioletTracker</b>
 <br><br><sup>VioletTracker is not affiliated with New York University.
