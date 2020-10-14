@@ -266,7 +266,7 @@ Other relevant posts
 </details>  
 <hr>
 
-## About
+## <a name="about"></a>About
 <ul>
   <li><u>Purpose</u>: To promote public health, and greater transparency and communication, so that the community may make smarter, more informed decisions.</li>
 </ul>
