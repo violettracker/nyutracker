@@ -11,9 +11,9 @@
 <a name="top"></a>
 <hr>
 <span style="background-color: #e6d1ff; display: inline-block; width: 100%;">
-<center><a href="https://violettracker.github.io/nyutracker/#top"><img src="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/logo.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center></span>
+<center><a href="https://violettracker.github.io/nyutracker/#top"><img src="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/logo.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
-<center>Welcome to the new Covid-Info portal from VioletTracker!</center>
+<center>Welcome to the new Covid-Info portal from VioletTracker!</center></span>
 <hr>
 ## <a name="register"></a>Sign-up  
 
