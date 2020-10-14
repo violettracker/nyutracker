@@ -25,13 +25,15 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 <center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; color: white;">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">GREEN ALERT</span>
-  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span></center>
+  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span>
+</center>
 
 ## <a name="nyc"></a>New York City Status Update
 
 <center><span style="display:block; background-color: #ffd700; width:100%; border-radius: 50px; color: white;">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">YELLOW ALERT</span>
-  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span></center>  
+  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span>
+<sup><br><i>Status flags last verified 10/14 9:30 AM EST</i></sup></center>  
 
 ## <a name="sample"></a>Recent Emails & Archive  
 
