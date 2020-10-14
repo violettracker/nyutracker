@@ -23,25 +23,15 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## <a name="nyu"></a>New York University Status Update
 
-<center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; font-weight: normal;"><table style="background-color: #008000; border-spacing: 0px; border: 0px solid black; border-collapse: collapse; width: 230px; margin-left: auto; margin-right: auto; border-radius: 50px; font-weight: normal;">
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 230px; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: bold;">
-    <th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 230px; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: bold;">GREEN ALERT</th>
-  </tr>
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 230px; margin-left: auto; margin-right: auto; padding-top: 0px; font-weight: normal; font-size: smaller;">
-  	<th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 230px; margin-left: auto; margin-right: auto; padding-top: 0px; font-weight: normal; font-size: smaller;">for <i>All Campuses (NYU-NYC)</i></th>
-  </tr>
-</table></span></center>
+<center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; color: white;">
+  <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">GREEN ALERT</span>
+  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span></center>
 
 ## <a name="nyc"></a>New York City Status Update
 
-<center><span style="display:block; background-color: #ffd700; width:100%; border-radius: 50px; font-weight: normal;"><table style="background-color: #ffd700; border-spacing: 0px; border: 0px solid black; border-collapse: collapse; width: 205px; margin-left: auto; margin-right: auto; border-radius: 50px; font-weight: normal;">
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 205px; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: bold;">
-    <th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 205px; margin-left: auto; margin-right: auto; padding-bottom: 0px; font-weight: bold;">YELLOW ALERT</th>
-  </tr>
-  <tr style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 205px; margin-left: auto; margin-right: auto; padding-top: 0px; font-weight: normal; font-size: smaller;">
-  	<th style="color: white; border: 0px solid black; border-collapse: collapse; border-spacing: 0px; width: 205px; margin-left: auto; margin-right: auto; padding-top: 0px; font-weight: normal; font-size: smaller;">for <i>All Boroughs (NYC)</i></th>
-  </tr>
-</table></span></center>
+<center><span style="display:block; background-color: #ffd700; width:100%; border-radius: 50px; color: white;">
+  <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">YELLOW ALERT</span>
+  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span></center>
 
 ## <a name="sample"></a>Recent Emails & Archive  
 
@@ -259,12 +249,6 @@ Other relevant posts
   * Individual campuses: [WSQ](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true), [TAN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999994;redirectToHome=true), [LAW](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999995;redirectToHome=true), [DEN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999991;redirectToHome=true), [SIL](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999996;redirectToHome=true), WAG, [SPS](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999998;redirectToHome=true), [ISA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999992;redirectToHome=true), [IFA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999993;redirectToHome=true) & MED
   * *Tests are reported as they get processed*
   * Updated daily*(ish)*
-  
-### Test
-
-<center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; color: white;">
-  <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 3px; line-height: 100%;">GREEN ALERT</span>
-  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 3px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span></center>
   
 <hr>
 <center><a href="#top">▲ Back to the top</a>
