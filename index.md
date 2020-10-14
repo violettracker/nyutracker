@@ -99,7 +99,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## <a name="feedback"></a>Feedback & Tips
 
-<center>If you have feedback or confidential tips to submit to me, please use <a href="http://bit.ly/VioletTrackerFeedback">this form</a>, or email me at <a href="violettracker.nyu+tips@gmail.com">violettracker.nyu+tips@gmail.com</a>. I rely on community tips for supplemental reporting.
+<center>If you have feedback or confidential tips to submit to me, please use <a style="color: #5f37a4;" href="http://bit.ly/VioletTrackerFeedback">this form</a>, or email me at <a style="color: #5f37a4;" href="violettracker.nyu+tips@gmail.com">violettracker.nyu+tips@gmail.com</a>. I rely on community tips for supplemental reporting.
 <br><br>
 <button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
 
