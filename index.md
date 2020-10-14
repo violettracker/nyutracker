@@ -268,7 +268,7 @@ Other relevant posts
 
 ## <a name="about"></a>About
 <ul>
-  <li><u>Purpose</u>: To promote public health, and greater transparency and communication, so that the community may make smarter, more informed decisions.</li>
+  <li><u>Purpose</u>: To promote public health, greater transparency, and communication, so that the community may make smarter, more informed decisions.</li>
 </ul>
 
 <hr><details><summary><u>Learn more</u></summary><hr>
