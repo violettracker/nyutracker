@@ -257,8 +257,7 @@ Other relevant posts
 <hr><details><summary><u>See additional links</u></summary><hr>
 <ul>
   <li>Coffee</li>
-  <li>&nbsp;Coffee</li>
-  <li style="padding-left:20px">Tea</li>
+  <li style="margin-left:20px">Tea</li>
   <li>Milk</li>
 </ul>
 </details>  
