@@ -263,8 +263,8 @@ Other relevant posts
 ### Test
 
 <center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; font-weight: normal; color: white;">
-  <span style="display:inline-block; font-weight: bold; padding-top: 8px; padding-bottom: 0px; line-height: 100%;">GREEN ALERT</span><span style="display:inline-block; line-height: 50%;"><br></span>  
-  <span style="display:inline-block; font-size: small; padding-top: 0px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span></center>
+  <span style="display:block; font-weight: bold; padding-top: 8px; padding-bottom: 0px; line-height: 100%;">GREEN ALERT</span>
+  <span style="display:block; font-size: small; padding-top: 0px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span></center>
   
 <hr>
 <center><a href="#top">▲ Back to the top</a>
