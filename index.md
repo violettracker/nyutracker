@@ -10,10 +10,9 @@
 </script><link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/favicon.ico?" />
 <a name="top"></a>
 <hr>
-<span style="background-color: #e6d1ff; display: inline-block; width: 100%;">
 <center><a href="https://violettracker.github.io/nyutracker/#top"><img src="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/logo.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
-<center>Welcome to the new Covid-Info portal from VioletTracker!</center></span>
+<center>Welcome to the new Covid-Info portal from VioletTracker!</center>
 <hr>
 ## <a name="register"></a>Sign-up  
 
