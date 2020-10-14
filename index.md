@@ -9,7 +9,7 @@
   gtag('config', 'UA-179043880-1');
 </script><link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/favicon.ico?" />
 <hr><a name="top"></a>
-<center><a href="https://violettracker.github.io/nyutracker/#top"><img src="https://i.imgur.com/QWuiWh5.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
+<center><a href="https://violettracker.github.io/nyutracker/#top"><img src="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/logo.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
 <center>Welcome to the new Covid-Info portal from VioletTracker!</center>
 <hr>
