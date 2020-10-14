@@ -283,4 +283,4 @@ Other relevant posts
 <br><br>
 © 2020 <b>VioletTracker</b>
 <br><br><sup>VioletTracker is not affiliated with New York University.
-<br>It is a public health side-project from <span style="color:#4b0092;">violetflash</span>.</sup></center>
+<br>It is a public health side-project from <a style="color:#4b0092;" href="https://www.reddit.com/user/violetflash101">violetflash</a>.</sup></center>
