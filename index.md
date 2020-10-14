@@ -246,10 +246,10 @@ Other relevant posts
 * **AVOID RAVES, PARTIES & LARGE GATHERINGS. Wear masks.** 6 ft. apart. Wash hands. Outdoor activities are safer than indoor.  
 
 ## <a name="links"></a>Useful Links & Resources
-* [NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html) – Primary NYU dashboard
+* **[NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html)** – Primary NYU dashboard
   * Recently changed 10/13, now *tests are reported as they get processed*
   * Updated randomly
-* [State Dashboard](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true) – NYS-operated & NYU-data provided
+* **[State Dashboard](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true)** – NYS-operated & NYU-data provided
   * Individual campuses: [WSQ](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true), [TAN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999994;redirectToHome=true), [LAW](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999995;redirectToHome=true), [DEN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999991;redirectToHome=true), [SIL](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999996;redirectToHome=true), WAG, [SPS](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999998;redirectToHome=true), [ISA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999992;redirectToHome=true), [IFA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999993;redirectToHome=true) & MED
   * *Tests are reported as they get processed*
   * Updated daily*(ish)*
