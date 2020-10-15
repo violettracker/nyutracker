@@ -30,14 +30,14 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
-## <a name="nyu"></a>New York University Status Update
+## <a name="nyu"></a>New York University Status  
 
 <center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; color: white;">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">GREEN ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span>
 </center>
 
-## <a name="nyc"></a>New York City Status Update
+## <a name="nyc"></a>New York City Status  
 
 <center><span style="display:block; background-color: #ffd700; width:100%; border-radius: 50px; color: white;">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">YELLOW ALERT</span>
