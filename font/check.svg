@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="check" horiz-adv-x="1000" >
+<font-face font-family="check" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="ok-circled" unicode="&#xf06d;" d="M0 350q0 95 37 182t100 149 150 100 182 37 182-37 149-100 100-149 37-182-37-182-100-150-149-100-182-37-182 37-150 100-100 150-37 182z m177-31q0-22 15-38l153-153q14-15 38-15 22 0 37 15l315 315q16 16 16 38t-16 37-38 15-37-15l-277-278-116 116q-15 15-37 15t-38-15q-15-16-15-37z" horiz-adv-x="937.5" />
+</font>
+</defs>
+</svg>
