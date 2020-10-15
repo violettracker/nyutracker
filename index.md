@@ -45,7 +45,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span>
 <sup><br><b>Rationale</b>: The city continues to endure clusters & an uptick (primarily in Brooklyn & Queens)</sup>
 <br>_____
-<sup><br><span class="icon-check">&#xf06d;</span><span style="color:#4b0092;">☑<i> Status flags & data last verified on <b>10/15</b> at <b>10:30 AM</b> EST</i></span></sup></center>  
+<sup><br><span style="color:#4b0092;">☑<i> Status flags & data last verified on <b>10/15</b> at <b>10:30 AM</b> EST</i></span></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
