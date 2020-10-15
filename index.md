@@ -9,7 +9,7 @@
   gtag('config', 'UA-179043880-1');
 </script><link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/favicon.ico?" />
 <hr>
-<center><a href="https://violettracker.com/#top"><img src="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/logo.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
+<center><a href="#top"><img src="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/logo.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
 <center>Welcome to the new Covid-Info portal from VioletTracker!</center>
 <hr>
@@ -115,9 +115,9 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
 
 ## <a name="blog"></a>Blog from the Creator
-<sup><i>(10/14/20 at 9:30 AM EST)</i></sup>
+<sup><i>(10/14/20 at 10:00 AM EST)</i></sup>
 
-<center><i>"The numbers continue to look good today (based on the State dashboard). Waiting to see if NYU's dashboard updates today. Probably expect some kind of email later."</i>
+<center><i>"The numbers continue to look good today (based on the State dashboard). Waiting to see if NYU's dashboard updates today. Probably expect some kind of email soon."</i>
 <br><br>
 <span>– </span><span style="color:#4b0092;"><b>violetflash</b></span></center>  
 
