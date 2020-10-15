@@ -142,7 +142,7 @@ I urge you to consider downloading it and keeping NY safe.
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
 ## <a name="reddit"></a><a name="flash"></a><a name="community"></a>Reddit Flash Update Archive  
-*These are usually the first alert of notable events (plus community discussion)*
+*Usually the first alert of notable events (plus community discussion)*
 
 **10/13** | **[NYU Covid Dashboard - 10/13](https://www.reddit.com/r/nyu/comments/jagw29/nyu_covid_dashboard_1013/)**  
 
@@ -152,7 +152,7 @@ I urge you to consider downloading it and keeping NY safe.
 
 **10/06** | [NYU Covid Dashboard - 10/6 Update](https://www.reddit.com/r/nyu/comments/j6bq79/nyu_covid_dashboard_106_update/)
 
-*Displaying 4 most recent*
+<sup><i>Displaying 4 most recent</i></sup>
 
 <hr><details><summary><u>See older posts</u></summary><hr>
 
