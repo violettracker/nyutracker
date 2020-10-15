@@ -267,7 +267,7 @@ Other relevant posts
 
 ## <a name="links"></a>Useful Links & Resources
 * **[NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html)** – Primary NYU dashboard
-<ul><sup><li style="margin-left:40px; list-style-type: circle; overflow-wrap: inherit;">Recently changed 10/13, now <i>tests are reported as they get processed</i></li>  
+<ul><sup><li style="margin-left:40px; list-style-type: circle; overflow-wrap: normal;">Recently changed 10/13, now <i>tests are reported as they get processed</i></li>  
   <br><li style="margin-left:40px; list-style-type: circle;">Updated randomly</li></sup></ul>  
   
 * **[State Dashboard](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true)** – NYS-operated & NYU-data provided
