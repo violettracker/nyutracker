@@ -59,7 +59,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 **10/05** | [Dashboard Bulletin](https://sh1.sendinblue.com/v2euw8pitt7e.html?t=1602561682)
 
-*Displaying 4 most recent*
+<sup><i>Displaying 4 most recent</i></sup>
 
 <hr><details><summary><u>See older emails</u></summary><hr>
 
