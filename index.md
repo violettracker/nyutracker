@@ -32,7 +32,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## <a name="nyu"></a>New York University Status  
 
-<center><span style="display:block; background-color: #008000; width:100%; border-radius: 50px; color: white;">
+<center><span id="green-flag">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">GREEN ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span>
 <sup><br><b>Rationale</b>: We continue to see a low caseload for this 2-week block in the latest data</sup>
@@ -334,15 +334,25 @@ Other relevant posts
   }
 
   #action-bttn{
-  background-color: rgba(228,222,237,0.55);
+  background-color: rgba(228,222,237,0.50);
   color: #5f37a4;
   border-color:rgba(195,184,213,0.7);
   border-style:solid;
   border-width:1px;
   border-radius:0.3rem;
-  
   }#action-bttn:hover{
   background-color: rgba(228,222,237,0.98);
+  transition:color 0.4s, background-color 0.4s, border-color 0.4s;
+  }
+
+  #green-flag{
+  display:block;
+  background-color: #008000;
+  width:100%;
+  border-radius: 50px;
+  color: white;
+  }#action-bttn:hover{
+  background-color: #006b00;
   transition:color 0.4s, background-color 0.4s, border-color 0.4s;
   }
 
