@@ -54,7 +54,6 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
     -ms-transform: rotate(45deg); /* IE 9 */
     -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
     transform: rotate(45deg);
-    line-height: 24px;
 }
 #checkmark:before{
     content:"";
