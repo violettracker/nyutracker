@@ -47,7 +47,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <br>
 _____
 <sup><br><br><a id="hide-link" href="https://violettracker.com/#nyu"><span id="checkmark"></span>
-<br><span id="verify"><i>Status flags & data last verified on <b>10/15</b> at <b>11:30 PM</b> EST</i></span></a></sup></center>  
+<br><span id="verify"><i>Status flags & data last verified on <b>10/16</b> at <b>10:15 AM</b> EST</i></span></a></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
