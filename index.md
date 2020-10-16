@@ -46,9 +46,10 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <sup><br><b>Rationale</b>: The city continues to endure clusters & an uptick (primarily in Brooklyn & Queens)</sup>  
 <br>
 _____
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <sup><br><br><a id="hide-link" onclick="location.reload(true);"><span id="checkmark"></span>
-<br><span id="verify"><i>Status flags & data last verified on <b>10/16</b> at <b>10:15 AM</b> EST</i></span>
-<i class="fa fa-refresh" id="verify" style="font-size:14px;"></i></a></sup></center>  
+<br><i id="verify">Status flags & data last verified on <b>10/16</b> at <b>10:15 AM</b> EST</i>
+<br><i class="fa fa-refresh" id="verify" style="font-size:14px;"></i></a></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
@@ -441,10 +442,6 @@ text-decoration: none;}
     background: #3c0075;
     transition:color 0.4s, background-color 0.4s, border-color 0.4s;
   }
-  
-  @font-face{font-family:'FontAwesome';src:url('../fonts/fontawesome-webfont.eot?v=4.7.0');src:url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'),url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'),url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'),url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'),url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
-  
-  .fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}
   
   .fa-refresh:before{content:"\f021"}
   .fa-refresh:hover{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}
