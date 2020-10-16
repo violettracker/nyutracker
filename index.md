@@ -51,17 +51,26 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## <a name="sample"></a><a name="email"></a>Recent Emails & Archive  
 
+**10/15** | **[Dashboard Bulletin: Downward Trend](https://sh1.sendinblue.com/v57zs8pitt7e.html?t=1602821015)**
+
 **10/12** | [Breaking News: Weekend Dashboard Updates](https://sh1.sendinblue.com/v3tfc8pitt7e.html?t=1602560720)
 
 **10/08** | [Breaking News: Dashboard Updates](https://sh1.sendinblue.com/v3gs88pitt7e.html?t=1602561572)
 
 **10/06** | [Breaking News: No Remote Transition, For Now](https://sh1.sendinblue.com/v34548pitt7e.html?t=1602561605)
 
-**10/05** | [Dashboard Bulletin](https://sh1.sendinblue.com/v2euw8pitt7e.html?t=1602561682)
-
 <sup><i>Displaying 4 most recent</i></sup>
 
 <hr><details><summary><u>See older emails</u></summary><hr>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/05</strong></td>
+      <td><a href="https://sh1.sendinblue.com/v2euw8pitt7e.html?t=1602561682">Dashboard Bulletin</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <tbody>
@@ -144,7 +153,7 @@ I urge you to consider downloading it and keeping NY safe.
 ## <a name="reddit"></a><a name="flash"></a><a name="community"></a>Reddit Flash Update Archive  
 *Usually the first alert of notable events (plus community discussion)*
 
-**10/13** | **[NYU Covid Dashboard - 10/13](https://www.reddit.com/r/nyu/comments/jagw29/nyu_covid_dashboard_1013/)**  
+**10/13** | [NYU Covid Dashboard - 10/13](https://www.reddit.com/r/nyu/comments/jagw29/nyu_covid_dashboard_1013/)  
 
 **10/11** | [NYU Covid Dashboard - 10/11 Update](https://www.reddit.com/r/nyu/comments/j9y1ha/nyu_covid_dashboard_1011_update/)
 
