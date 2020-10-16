@@ -322,8 +322,8 @@ Other relevant posts
 
 <style>
   #logo{}#logo:hover{
-  filter: brightness(90%);
-  transition:color 0.4s, background-color 0.4s, border-color 0.4s;
+  filter: brightness(85%);
+  transition: filter 0.6s, color 0.6s, background-color 0.6s, border-color 0.6s;
   }
   
   #nav-bttn{
