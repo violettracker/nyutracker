@@ -44,7 +44,8 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">YELLOW ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span>
 <sup><br><b>Rationale</b>: The city continues to endure clusters & an uptick (primarily in Brooklyn & Queens)</sup>
-<br><style>#checkmark {
+
+_____<br><style>#checkmark {
     display:inline-block;
     width: 22px;
     height:22px;
