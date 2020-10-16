@@ -14,7 +14,7 @@
 <center>Welcome to the new Covid-Info portal from VioletTracker!</center>
 <hr>
 
-<center><button id="bttn" type="button" class="btn" style="color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#nyu';">NYU Status</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#nyc';">NYC Status</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#email';">Recent Emails</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#register';">Register</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#links';">Useful Links</button>
+<center><button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyu';">NYU Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyc';">NYC Status</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#email';">Recent Emails</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#register';">Register</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#links';">Useful Links</button>
 <details><summary>Menu</summary>
 <br><button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#reddit';">Reddit Updates</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#blog';">Blog</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#about';">About</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#feedback';">Feedback</button></details>
 <hr></center>
@@ -349,9 +349,14 @@ Other relevant posts
 <br>It is a public health project + platform from <a style="color:#4b0092;" href="https://www.reddit.com/user/violetflash101">violetflash</a>.</sup></center>
 
 <style>
-  #bttn{
-  background-color: rgba(224,224,224,0.65);
-  }#bttn:hover{
-  background-color: rgba(224,224,224,0.85);
-  transition:color 0.2s, background-color 0.2s, border-color 0.2s;
+  #nav-bttn{
+  background-color: rgba(224,224,224,0.60);
+  color: #666666;
+  border-color:rgba(195,184,213,0);
+  border-style:solid;
+  border-width:0px;
+  border-radius: 50px;
+  }#nav-bttn:hover{
+  background-color: rgba(224,224,224,0.95);
+  transition:color 0.3s, background-color 0.3s, border-color 0.3s;
 }</style>
