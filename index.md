@@ -46,10 +46,9 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <sup><br><b>Rationale</b>: The city continues to endure clusters & an uptick (primarily in Brooklyn & Queens)</sup>  
 <br>
 _____
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <sup><br><br><a id="hide-link" onclick="location.reload(true);"><span id="checkmark"></span>
 <br><span id="verify"><i>Status flags & data last verified on <b>10/16</b> at <b>10:15 AM</b> EST</i></span>
-</a></sup></center>  
+<i class="fa fa-refresh" id="verify" style="font-size:14px;"></i></a></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
@@ -321,8 +320,6 @@ Other relevant posts
 © 2020 <b>VioletTracker</b>
 <br><br><sup>VioletTracker is not affiliated with New York University.
 <br>It is a public health project + platform from <a style="color:#4b0092;" href="https://www.reddit.com/user/violetflash101">violetflash</a>.</sup></center>
-
-<i class="fa fa-refresh" id="verify" style="font-size:12px;"></i>
 
 <style>
   #logo{}#logo:hover{
