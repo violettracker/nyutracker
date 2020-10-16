@@ -49,7 +49,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
     display:inline-block;
     width: 22px;
     height:22px;
-    background: #c9ff00;
+    background: #4b0092;
     border-radius:50%;
     -ms-transform: rotate(45deg); /* IE 9 */
     -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
