@@ -25,7 +25,7 @@
 <br><br>
 If you find it helpful, refer a friend! Let's make NYU and NYC safer. 
 <br><br>
-<button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button>
+<button type="button" class="btn" id="action-bttn" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button>
 <sup><br><i>Currently serving 90+ subscribers and hundreds of visitors</i></sup></center>
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
@@ -126,7 +126,7 @@ _____
 
 <center>If you have feedback or confidential tips to submit to me, please use <a style="color: #5f37a4;" href="http://bit.ly/VioletTrackerFeedback">this form</a>, or email me at <a style="color: #5f37a4;" href="mailto:tips@violettracker.com">tips@violettracker.com</a>. I rely on community tips for supplemental reporting.
 <br><br>
-<button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
+<button type="button" class="btn" id="action-bttn" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
 
 ## <a name="blog"></a>Blog from the Creator
 <sup><i>(10/15/20 at 11:30 PM EST)</i></sup>
@@ -148,7 +148,7 @@ The app also has other features, such as recent county-by-county testing results
 <hr>
 I urge you to consider downloading it and keeping NY safe.
 
-<center><button type="button" class="btn" style="background-color: rgba(228,222,237,0.65); color: #5f37a4; border-color:rgba(195,184,213,0.7);border-style:solid;border-width:1px;border-radius:0.3rem;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
+<center><button type="button" class="btn" id="action-bttn" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
@@ -322,7 +322,7 @@ Other relevant posts
 
 <style>
   #nav-bttn{
-  background-color: rgba(224,224,224,0.55);
+  background-color: rgba(224,224,224,0.50);
   color: #666666;
   border-color:rgba(195,184,213,0);
   border-style:solid;
@@ -330,6 +330,19 @@ Other relevant posts
   border-radius: 50px;
   }#nav-bttn:hover{
   background-color: rgba(224,224,224,0.98);
+  transition:color 0.4s, background-color 0.4s, border-color 0.4s;
+  }
+
+  #action-bttn{
+  background-color: rgba(228,222,237,0.55);
+  color: #5f37a4;
+  border-color:rgba(195,184,213,0.7);
+  border-style:solid;
+  border-width:1px;
+  border-radius:0.3rem;
+  
+  }#action-bttn:hover{
+  background-color: rgba(228,222,237,0.98);
   transition:color 0.4s, background-color 0.4s, border-color 0.4s;
   }
 
