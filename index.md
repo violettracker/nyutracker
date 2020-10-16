@@ -14,9 +14,9 @@
 <center>Welcome to the new Covid-Info portal from VioletTracker!</center>
 <hr>
 
-<center><button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyu';">NYU Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyc';">NYC Status</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#email';">Recent Emails</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#register';">Register</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#links';">Useful Links</button>
+<center><button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyu';">NYU Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyc';">NYC Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#email';">Recent Emails</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#register';">Register</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#links';">Links</button>
 <details><summary>Menu</summary>
-<br><button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#reddit';">Reddit Updates</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#blog';">Blog</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#about';">About</button> <button type="button" class="btn" style="background-color: rgba(224,224,224,0.65); color: #666666; border-color:rgba(195,184,213,0);border-style:solid;border-width:0px;border-radius: 50px;transition:color 0.2s, background-color 0.2s, border-color 0.2s;" onclick="location.href='#feedback';">Feedback</button></details>
+<br><button type="button" class="btn" id="nav-bttn" onclick="location.href='#reddit';">Reddit Updates</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#blog';">Blog</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#about';">About</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#feedback';">Feedback</button></details>
 <hr></center>
 
 ## <a name="register"></a>Sign-up  
@@ -46,34 +46,6 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <sup><br><b>Rationale</b>: The city continues to endure clusters & an uptick (primarily in Brooklyn & Queens)</sup>  
 <br>
 _____
-<style>#checkmark {
-    display:inline-block;
-    width: 22px;
-    height:22px;
-    background: #4b0092;
-    border-radius:50%;
-    -ms-transform: rotate(45deg); /* IE 9 */
-    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
-    transform: rotate(45deg);
-}
-#checkmark:before{
-    content:"";
-    position: absolute;
-    width:3px;
-    height:9px;
-    background-color:#fff;
-    left:11px;
-    top:6px;
-}
-#checkmark:after{
-    content:"";
-    position: absolute;
-    width:3px;
-    height:3px;
-    background-color:#fff;
-    left:8px;
-    top:12px;
-  }</style>
 <sup><br><br><span id="checkmark"></span>
 <br><span style="color:#4b0092;"><i>Status flags & data last verified on <b>10/15</b> at <b>11:30 PM</b> EST</i></span></sup></center>  
 
@@ -350,13 +322,43 @@ Other relevant posts
 
 <style>
   #nav-bttn{
-  background-color: rgba(224,224,224,0.60);
+  background-color: rgba(224,224,224,0.55);
   color: #666666;
   border-color:rgba(195,184,213,0);
   border-style:solid;
   border-width:0px;
   border-radius: 50px;
   }#nav-bttn:hover{
-  background-color: rgba(224,224,224,0.95);
-  transition:color 0.3s, background-color 0.3s, border-color 0.3s;
-}</style>
+  background-color: rgba(224,224,224,0.98);
+  transition:color 0.4s, background-color 0.4s, border-color 0.4s;
+  }
+
+#checkmark {
+    display:inline-block;
+    width: 22px;
+    height:22px;
+    background: #4b0092;
+    border-radius:50%;
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+}
+#checkmark:before{
+    content:"";
+    position: absolute;
+    width:3px;
+    height:9px;
+    background-color:#fff;
+    left:11px;
+    top:6px;
+}
+#checkmark:after{
+    content:"";
+    position: absolute;
+    width:3px;
+    height:3px;
+    background-color:#fff;
+    left:8px;
+    top:12px;
+  }
+</style>
