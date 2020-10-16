@@ -46,7 +46,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <sup><br><b>Rationale</b>: The city continues to endure clusters & an uptick (primarily in Brooklyn & Queens)</sup>  
 <br>
 _____
-<sup><br><br><a href="violettracker.com/#nyu"><span id="checkmark"></span></a>
+<sup><br><br><a href="https://violettracker.com/#nyu"><span id="checkmark"></span></a>
 <br><span id="verify"><i>Status flags & data last verified on <b>10/15</b> at <b>11:30 PM</b> EST</i></span></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
