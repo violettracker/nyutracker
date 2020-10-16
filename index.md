@@ -74,7 +74,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
     left:8px;
     top:12px;
   }</style>
-<sup><br><span id="checkmark"></span><span style="color:#4b0092; display: block; line-height: 24px; height: 24px;"><i> Status flags & data last verified on <b>10/15</b> at <b>11:30 PM</b> EST</i></span></sup></center>  
+<sup><br><span id="checkmark"></span><span style="color:#4b0092; display: inline-block; line-height: 24px; height: 24px;"><i> Status flags & data last verified on <b>10/15</b> at <b>11:30 PM</b> EST</i></span></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
