@@ -133,7 +133,7 @@ _____
 
 <center><i>"Just did an in-depth data session & sent out a late-night <a href="#email">newsletter</a> (10/15). The numbers continue to look good in the past couple days. More site changes coming soon."</i>
 <br><br>
-<span>– </span><span style="color:#4b0092;"><b>violetflash</b></span></center>  
+<span>– </span><span id="verify"><b>violetflash</b></span></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
