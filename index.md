@@ -320,9 +320,17 @@ Other relevant posts
 <br><br><sup>VioletTracker is not affiliated with New York University.
 <br>It is a public health project + platform from <a style="color:#4b0092;" href="https://www.reddit.com/user/violetflash101">violetflash</a>.</sup></center>
 
+<center><span id="orange-flag">
+  <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">ORANGE ALERT</span>
+  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span>
+  
+<center><span id="red-flag">
+  <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">RED ALERT</span>
+  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span>
+
 <style>
   #logo{}#logo:hover{
-  filter: brightness(85%);
+  filter: brightness(80%);
   transition: filter 0.6s, color 0.6s, background-color 0.6s, border-color 0.6s;
   }
   
@@ -369,6 +377,28 @@ Other relevant posts
   color: white;
   }#yellow-flag:hover{
   background-color: #dcba00;
+  transition:color 0.4s, background-color 0.4s, border-color 0.4s;
+  }
+  
+  #orange-flag{
+  display:block;
+  background-color: #ff7f00;
+  width:100%;
+  border-radius: 50px;
+  color: white;
+  }#orange-flag:hover{
+  background-color: #d56900;
+  transition:color 0.4s, background-color 0.4s, border-color 0.4s;
+  }
+  
+  #red-flag{
+  display:block;
+  background-color: #ff4a4a;
+  width:100%;
+  border-radius: 50px;
+  color: white;
+  }#red-flag:hover{
+  background-color: #e32f2f;
   transition:color 0.4s, background-color 0.4s, border-color 0.4s;
   }
 
