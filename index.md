@@ -9,7 +9,7 @@
   gtag('config', 'UA-179043880-1');
 </script><link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/favicon.ico?" />
 <hr>
-<center><a href="#top"><img src="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/logo.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
+<center><a href="#top"><img id="logo" src="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/logo.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
 <center>Welcome to the new Covid-Info portal from VioletTracker!</center>
 <hr>
@@ -321,6 +321,11 @@ Other relevant posts
 <br>It is a public health project + platform from <a style="color:#4b0092;" href="https://www.reddit.com/user/violetflash101">violetflash</a>.</sup></center>
 
 <style>
+  #logo{}#logo:hover{
+  filter: brightness(90%);
+  transition:color 0.4s, background-color 0.4s, border-color 0.4s;
+  }
+  
   #nav-bttn{
   background-color: rgba(224,224,224,0.50);
   color: #666666;
