@@ -46,8 +46,8 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <sup><br><b>Rationale</b>: The city continues to endure clusters & an uptick (primarily in Brooklyn & Queens)</sup>  
 <br>
 _____
-<sup><br><br><span id="verify"><span id="checkmark"></span>
-<br><i>Status flags & data last verified on <b>10/15</b> at <b>11:30 PM</b> EST</i></span></sup></center>  
+<sup><br><br><span id="checkmark"></span>
+<br><span id="verify"><i>Status flags & data last verified on <b>10/15</b> at <b>11:30 PM</b> EST</i></span></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
@@ -371,9 +371,10 @@ Other relevant posts
   color: #4b0092;
 }#verify:hover{
   color: #3c0075;
+  transition:color 0.4s, background-color 0.4s, border-color 0.4s;
 }
 
-#checkmark {
+#checkmark{
     display:inline-block;
     width: 22px;
     height:22px;
@@ -400,5 +401,8 @@ Other relevant posts
     background-color:#fff;
     left:8px;
     top:12px;
+  }#checkmark:hover{
+    background: #3c0075;
+    transition:color 0.4s, background-color 0.4s, border-color 0.4s;
   }
 </style>
