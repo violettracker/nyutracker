@@ -54,11 +54,6 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
     -ms-transform: rotate(45deg); /* IE 9 */
     -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
     transform: rotate(45deg);
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
 }
 #checkmark:before{
     content:"";
@@ -68,10 +63,6 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
     background-color:#fff;
     left:11px;
     top:6px;
-    margin: 0;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
 }
 #checkmark:after{
     content:"";
@@ -81,10 +72,6 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
     background-color:#fff;
     left:8px;
     top:12px;
-    margin: 0;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
   }</style>
 <sup><br><span id="checkmark"></span><span style="color:#4b0092;"><i> Status flags & data last verified on <b>10/15</b> at <b>11:30 PM</b> EST</i></span></sup></center>  
 
