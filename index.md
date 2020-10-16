@@ -310,7 +310,7 @@ Other relevant posts
 <ul>
 <li><u>Timeliness</u>: In general, the frequency of the newsletter will depend on how often NYU updates its dataset. This website will be updated as often as it is <b>relevant</b>, and will usually remain current. I am doing this as a sort of public health side-project and I have various other time commitments as well, so please excuse any delays on my part. I may provide interim and breaking news coverage as I see fit.</li>
 <li><u>Independence</u>: Despite me being an NYU student, this newsletter is <b>wholly my own views</b>, informed by lots of news, data, and community sources, and sometimes vetted by third parties. It does not contain any explicit influence from the University. I did make the conscious decision to include rumors in the bulletins, because I believe some of them have value.</li>
-<li><u>Alert Flags</u>: The <span style="color:#ff4a4a; font-weight: bold">red</span>, <span style="color:#ff8c00; font-weight: bold">orange</span>, <span style="color:#ffd700; font-weight: bold">yellow</span>, and <span style="color:#008000; font-weight: bold">green</span> alert flags are tied to two metrics: <b>risk of closure</b> (each NYU campus remaining below 100 new cases in a 2-week block) and <b>risk of outbreak</b> (whether the community caseload is still manageable enough for NYU's admin to handle).</li> 
+<li><u>Alert Flags</u>: The <span style="color:#ff4a4a; font-weight: bold">red</span>, <span style="color:#ff8c00; font-weight: bold">orange</span>, <span style="color:#ffd700; font-weight: bold">yellow</span>, and <span style="color:#008810; font-weight: bold">green</span> alert flags are tied to two metrics: <b>risk of closure</b> (each NYU campus remaining below 100 new cases in a 2-week block) and <b>risk of outbreak</b> (whether the community caseload is still manageable enough for NYU's admin to handle).</li> 
 </ul></details>
 
 <hr>
@@ -347,12 +347,12 @@ Other relevant posts
 
   #green-flag{
   display:block;
-  background-color: #008000;
+  background-color: #008810;
   width:100%;
   border-radius: 50px;
   color: white;
   }#green-flag:hover{
-  background-color: #006b00;
+  background-color: #00720d;
   transition:color 0.4s, background-color 0.4s, border-color 0.4s;
   }
 
