@@ -46,7 +46,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <sup><br><b>Rationale</b>: The city continues to endure clusters & an uptick (primarily in Brooklyn & Queens)</sup>  
 <br>
 _____
-<sup><br><br><span id="checkmark"></span>
+<sup><br><br><a href="violettracker.com/#nyu"><span id="checkmark"></span></a>
 <br><span id="verify"><i>Status flags & data last verified on <b>10/15</b> at <b>11:30 PM</b> EST</i></span></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
@@ -319,14 +319,6 @@ Other relevant posts
 © 2020 <b>VioletTracker</b>
 <br><br><sup>VioletTracker is not affiliated with New York University.
 <br>It is a public health project + platform from <a style="color:#4b0092;" href="https://www.reddit.com/user/violetflash101">violetflash</a>.</sup></center>
-
-<center><span id="orange-flag">
-  <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">ORANGE ALERT</span>
-  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span>
-  
-<center><span id="red-flag">
-  <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">RED ALERT</span>
-  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span>
 
 <style>
   #logo{}#logo:hover{
