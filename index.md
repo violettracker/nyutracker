@@ -387,12 +387,12 @@ Other relevant posts
   
   #orange-flag{
   display:block;
-  background-color: #ff7e20;
+  background-color: #ff7e1a;
   width:100%;
   border-radius: 50px;
   color: white;
   }#orange-flag:hover{
-  background-color: #dd5d00;
+  background-color: #d56005;
   transition:color 0.4s, background-color 0.4s, border-color 0.4s;
   }
   
@@ -403,7 +403,7 @@ Other relevant posts
   border-radius: 50px;
   color: white;
   }#red-flag:hover{
-  background-color: #d53b3b;
+  background-color: #d33232;
   transition:color 0.4s, background-color 0.4s, border-color 0.4s;
   }
 
