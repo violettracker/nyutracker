@@ -48,7 +48,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 _____
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <sup><br><br><a id="hide-link" onclick="location.reload(true);"><span id="checkmark"></span>
-<br><i class="fa fa-refresh" id="verify" style="font-size:12px;"></i><i id="verify">  Status flags & data last verified on <b>10/16</b> at <b>10:15 AM</b> EST</i></a></sup></center>  
+<br><i class="fa fa-refresh" id="verify" style="font-size:12px;"></i><i id="verify">    Status flags & data last verified on <b>10/16</b> at <b>10:15 AM</b> EST</i></a></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
