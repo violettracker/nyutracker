@@ -368,9 +368,9 @@ Other relevant posts
   }
 
 #verify{
-  background: #4b0092;
+  color: #4b0092;
 }#verify:hover{
-  background: #3c0075;
+  color: #3c0075;
 }
 
 #checkmark {
