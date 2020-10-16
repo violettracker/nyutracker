@@ -15,7 +15,7 @@
 <hr>
 
 <center><button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyu';">NYU Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyc';">NYC Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#email';">Recent Emails</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#register';">Register</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#links';">Links</button>
-<details><summary>Menu</summary>
+<details><summary id="menu">Menu</summary>
 <br><button type="button" class="btn" id="nav-bttn" onclick="location.href='#reddit';">Reddit Updates</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#blog';">Blog</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#about';">About</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#feedback';">Feedback</button></details>
 <hr></center>
 
@@ -332,6 +332,11 @@ Other relevant posts
   #logo{}#logo:hover{
   filter: brightness(80%);
   transition: filter 0.6s, color 0.6s, background-color 0.6s, border-color 0.6s;
+  }
+  
+  #menu{}#menu:hover{
+  font-weight: bold;
+  transition: font-weight 0.8s, color 0.8s, background-color 0.8s, border-color 0.8s;
   }
   
   #nav-bttn{
