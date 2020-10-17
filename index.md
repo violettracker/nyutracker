@@ -35,7 +35,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <center><span id="green-flag">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">GREEN ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span>
-<sup><br><b>Rationale</b>: We continue to see a low caseload for this 2-week block in the latest data (+8 cases this week at 0.11% positivity). <a href="https://sh1.sendinblue.com/v57zs8pitt7e.html?t=1602821015">More info</a>.</sup>
+<sup><br><b>Rationale</b>: We continue to see a low caseload for this 2-week block in the latest data (+17 cases this week at 0.22% positivity, WSQ NYS-Compliance number is at 20). <a href="https://sh1.sendinblue.com/v57zs8pitt7e.html?t=1602821015">More info</a>.</sup>
 </center>
 
 ## <a name="nyc"></a>New York City Status  
@@ -48,7 +48,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 _____
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <sup><br><br><a id="hide-link" onclick="location.reload(true);"><span id="checkmark"></span>
-<br><i class="fa fa-refresh" id="verify" style="font-size:12px;"></i><i id="verify">    Status flags & data last verified on <b>10/16</b> at <b>11:50 PM</b> EST</i></a></sup></center>  
+<br><i class="fa fa-refresh" id="verify" style="font-size:12px;"></i><i id="verify">    Status flags & data last verified on <b>10/17</b> at <b>11:20 AM</b> EST</i></a></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
