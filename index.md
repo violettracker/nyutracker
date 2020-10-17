@@ -147,7 +147,7 @@ The app keeps people safe and provides <b>exposure notifications</b> using <a hr
 <br><br>
 The app also has other features, such as recent county-by-county testing results and a health log to help you monitor any possible symptoms.</details>  
 <hr>
-As of 10/16, 570,000 New Yorkers have downloaded it to keep NY safe. I urge you to join us and click the button below.
+As of 10/16, 570k New Yorkers have downloaded it to keep NY safe. I urge you to join us.
 
 <center><button type="button" class="btn" id="action-bttn" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
 
