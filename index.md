@@ -26,7 +26,7 @@
 If you find it helpful, refer a friend! Let's make NYU and NYC safer. 
 <br><br>
 <button type="button" class="btn" id="action-bttn" onclick="location.href='https://bit.ly/VioletTrackerMailSignup';">Sign-up for VioletTracker</button>
-<sup><br><i>Currently serving 90+ subscribers and hundreds of visitors</i></sup></center>
+<sup><br><i>Currently serving 90+ subscribers and hundreds of daily visitors</i></sup></center>
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
