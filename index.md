@@ -35,7 +35,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <center><span id="green-flag">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">GREEN ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span>
-<sup><br><b>Rationale</b>: We continue to see a low caseload for this 2-week block in the latest data (+17 cases this week at 0.22% positivity, WSQ NYS-Compliance number is at 20). <a href="https://sh1.sendinblue.com/v57zs8pitt7e.html?t=1602821015">More info</a>.</sup>
+<sup><br><b>Rationale</b>: We continue to see a low caseload for this 2-week block in the latest data (+17 cases this week at 0.22% positivity, WSQ NYS-Compliance number is at 20). <a href="https://www.reddit.com/r/nyu/comments/jcxvyd/nyu_covid_dashboard_1017_update/">More info</a>.</sup>
 </center>
 
 ## <a name="nyc"></a>New York City Status  
@@ -130,9 +130,9 @@ _____
 <button type="button" class="btn" id="action-bttn" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
 
 ## <a name="blog"></a>Blog from the Creator
-<sup><i>(10/15/20 at 11:30 PM EST)</i></sup>
+<sup><i>(10/17/20 at 12:15 PM EST)</i></sup>
 
-<center><i>"Just did an in-depth data session & sent out a late-night <a href="#email">newsletter</a> (10/15). The numbers continue to look good in the past couple days. More site changes coming soon."</i>
+<center><i>"Continuing to monitor the data, just posted a reddit update."</i>
 <br><br>
 <span>– </span><span id="verify"><b>violetflash</b></span></center>  
 
@@ -156,17 +156,26 @@ I urge you to consider downloading it and keeping NY safe.
 ## <a name="reddit"></a><a name="flash"></a><a name="community"></a>Reddit Flash Update Archive  
 *Usually the first alert of notable events (plus community discussion)*
 
+**10/17** | **[NYU Covid Dashboard - 10/17 Update](https://www.reddit.com/r/nyu/comments/jcxvyd/nyu_covid_dashboard_1017_update/)**  
+
 **10/13** | [NYU Covid Dashboard - 10/13](https://www.reddit.com/r/nyu/comments/jagw29/nyu_covid_dashboard_1013/)  
 
 **10/11** | [NYU Covid Dashboard - 10/11 Update](https://www.reddit.com/r/nyu/comments/j9y1ha/nyu_covid_dashboard_1011_update/)
 
 **10/08** | [NYU Covid Dashboard - 10/8](https://www.reddit.com/r/nyu/comments/j7k41u/nyu_covid_dashboard_108/)
 
-**10/06** | [NYU Covid Dashboard - 10/6 Update](https://www.reddit.com/r/nyu/comments/j6bq79/nyu_covid_dashboard_106_update/)
-
 <sup><i>Displaying 4 most recent</i></sup>
 
 <hr><details><summary><u>See older posts</u></summary><hr>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/06</strong></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j6bq79/nyu_covid_dashboard_106_update/">NYU Covid Dashboard - 10/6 Update</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <tbody>
