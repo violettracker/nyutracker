@@ -37,8 +37,8 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 <center><span id="yellow-flag">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">YELLOW ALERT</span>
-  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>Washington Square Campus (WSQ)</i></span></span>
-<sup><br><u>All other campuses are solid <span style="color: #008810; font-weight: bold;">GREEN</span></u>.
+  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>Washington Square Campus (WSQ)</i></span></span>  
+<sup><u>All other campuses are solid <span style="color: #008810; font-weight: bold;">GREEN</span></u>.
 <br><b>Rationale</b>: We continue to see a similar caseload as last week in the latest data (+39 cases this week at 0.43% positivity; WSQ NYS-Compliance number is at 34).</sup>
 </center>
 
