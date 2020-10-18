@@ -35,10 +35,11 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## <a name="nyu"></a><a name="refreshflags"></a>New York University Status  
 
-<center><span id="green-flag">
-  <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">GREEN ALERT</span>
-  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span>
-<sup><br><b>Rationale</b>: We continue to see a low caseload for this 2-week block in the latest data (+17 cases this week at 0.22% positivity; WSQ NYS-Compliance number is at 20). <a href="https://www.reddit.com/r/nyu/comments/jcxvyd/nyu_covid_dashboard_1017_update/">More info</a>.</sup>
+<center><span id="yellow-flag">
+  <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">YELLOW ALERT</span>
+  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>Washington Square Campus (WSQ)</i></span></span>
+<sup><br>All other campuses are solid <span style="color: #008810; font-weight: bold;">GREEN</span>.
+<br><b>Rationale</b>: We continue to see a similar caseload as last week in the latest data (+39 cases this week at 0.43% positivity; WSQ NYS-Compliance number is at 34).</sup>
 </center>
 
 ## <a name="nyc"></a>New York City Status  
