@@ -15,9 +15,9 @@
 <center><a href="#top"><img id="logo" src="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/logo.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
 <center>Welcome to the new Covid-Info portal from VioletTracker!</center>
-<hr>
+<a name="nav"></a><hr>
 
-<a name="nav"></a><center><button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyu';">NYU Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyc';">NYC Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#email';">Recent Emails</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#register';">Register</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#links';">Links</button>
+<center><button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyu';">NYU Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyc';">NYC Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#email';">Recent Emails</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#register';">Register</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#links';">Links</button>
 <details><summary id="menu">Menu</summary>
 <br><button type="button" class="btn" id="nav-bttn" onclick="location.href='#reddit';">Reddit Updates</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#blog';">Blog</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#about';">About</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#feedback';">Feedback</button></details>
 <hr></center>
@@ -35,11 +35,11 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## <a name="nyu"></a><a name="refreshflags"></a>New York University Status  
 
-<center><a href="/nyu-status.html"><span id="orange-flag">
+<center><a href="/nyu-status/#nav"><span id="orange-flag">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">ORANGE ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>Washington Square Campus (WSQ)</i></span></span></a>  
 <sup>All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> for the moment.
-<br><br><b>Rationale</b>: We are suddenly seeing a very high caseload in the latest data (+80 cases cross-campus last week at 0.62% positivity; WSQ NYS-Compliance number is at 61). <a href="/nyu-status.html">More detailed info</a>.</sup>
+<br><br><b>Rationale</b>: We are suddenly seeing a very high caseload in the latest data (+80 cases cross-campus last week at 0.62% positivity; WSQ NYS-Compliance number is at 61). <a href="/nyu-status/#nav">More detailed info</a>.</sup>
 </center>
 
 ## <a name="nyc"></a>New York City Status  
