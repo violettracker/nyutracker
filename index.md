@@ -15,7 +15,8 @@
 <center><a href="#top"><img id="logo" src="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/logo.png" alt="VioletTracker Logo" style="width:92%;height:92%;"></a></center>
 
 <center>Welcome to the new Covid-Info portal from VioletTracker!</center>
-<a name="nav"></a><hr>
+<a name="nav"></a>
+<hr>
 
 <center><button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyu';">NYU Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyc';">NYC Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#email';">Recent Emails</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#register';">Register</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#links';">Links</button>
 <details><summary id="menu">Menu</summary>
