@@ -344,6 +344,10 @@ Other relevant posts
 <br><br><sup>VioletTracker is not affiliated with New York University.
 <br>It is a public health project + platform from <a style="color:#4b0092;" href="https://www.reddit.com/user/violetflash101">violetflash</a>.</sup></center>
 
+<head>
+  <meta http-equiv="refresh" content="1200">
+</head>
+
 <style>
   #logo{}#logo:hover{
   filter: brightness(80%);
