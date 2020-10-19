@@ -59,7 +59,7 @@ _____
 
 ## <a name="sample"></a><a name="email"></a>Recent Emails & Archive  
 
-**10/15** | **[Dashboard Bulletin: Downward Trend](https://sh1.sendinblue.com/v57zs8pitt7e.html?t=1602821015)**
+**10/15** | [Dashboard Bulletin: Downward Trend](https://sh1.sendinblue.com/v57zs8pitt7e.html?t=1602821015)
 
 **10/12** | [Breaking News: Weekend Dashboard Updates](https://sh1.sendinblue.com/v3tfc8pitt7e.html?t=1602560720)
 
@@ -161,17 +161,26 @@ As of 10/16, <b>570k New Yorkers</b> have downloaded it to keep NY safe. I urge 
 ## <a name="reddit"></a><a name="flash"></a><a name="community"></a>Reddit Flash Update Archive  
 *Usually the first alert of notable events (plus community discussion)*
 
-**10/17** | **[NYU Covid Dashboard - 10/17 Update](https://www.reddit.com/r/nyu/comments/jcxvyd/nyu_covid_dashboard_1017_update/)**  
+**10/19** | **[NYU Covid Dashboard - 10/19 Update](https://www.reddit.com/r/nyu/comments/je903m/nyu_covid_dashboard_1019_update/)**  
+
+**10/17** | [NYU Covid Dashboard - 10/17 Update](https://www.reddit.com/r/nyu/comments/jcxvyd/nyu_covid_dashboard_1017_update/)  
 
 **10/13** | [NYU Covid Dashboard - 10/13](https://www.reddit.com/r/nyu/comments/jagw29/nyu_covid_dashboard_1013/)  
 
 **10/11** | [NYU Covid Dashboard - 10/11 Update](https://www.reddit.com/r/nyu/comments/j9y1ha/nyu_covid_dashboard_1011_update/)
 
-**10/08** | [NYU Covid Dashboard - 10/8](https://www.reddit.com/r/nyu/comments/j7k41u/nyu_covid_dashboard_108/)
-
 <sup><i>Displaying 4 most recent</i></sup>
 
 <hr><details><summary><u>See older posts</u></summary><hr>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/08</strong></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j7k41u/nyu_covid_dashboard_108/">NYU Covid Dashboard - 10/8</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <tbody>
