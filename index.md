@@ -59,6 +59,8 @@ _____
 
 ## <a name="sample"></a><a name="email"></a>Recent Emails & Archive  
 
+**10/19** | **[Breaking News: Orange Alert for WSQ](https://sh1.sendinblue.com/v462g8pitt7e.html?t=1603146774)**  
+
 **10/15** | [Dashboard Bulletin: Downward Trend](https://sh1.sendinblue.com/v57zs8pitt7e.html?t=1602821015)
 
 **10/12** | [Breaking News: Weekend Dashboard Updates](https://sh1.sendinblue.com/v3tfc8pitt7e.html?t=1602560720)
@@ -67,7 +69,7 @@ _____
 
 **10/06** | [Breaking News: No Remote Transition, For Now](https://sh1.sendinblue.com/v34548pitt7e.html?t=1602561605)
 
-<sup><i>Displaying 4 most recent</i></sup>
+<sup><i>Displaying 5 most recent</i></sup>
 
 <hr><details><summary><u>See older emails</u></summary><hr>
 
