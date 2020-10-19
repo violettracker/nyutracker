@@ -36,7 +36,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## <a name="nyu"></a><a name="refreshflags"></a>New York University Status  
 
-<center><a href="/nyu-status/#nav"><span id="orange-flag">
+<center><a href="/nyu-status/#nav" style="text-decoration: none;"><span id="orange-flag">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">ORANGE ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>Washington Square Campus (WSQ)</i></span></span></a>  
 <sup>All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> for the moment.
