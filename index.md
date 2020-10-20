@@ -40,7 +40,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">ORANGE ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>Washington Square Campus (WSQ)</i></span></span></a> 
 <sup><a href="/nyu-status/#nav" id="hide-link" style="color: inherit;">All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> for the moment.
-<br><br><b>Rationale</b>: Today's (10/20) data is steady & low (+5 cases this week at 0.18% positivity). However, yesterday we were suddenly seeing a very high caseload (+80 cases cross-campus last week at 0.62% positivity). WSQ NYS-Compliance number is at 65.</a> <a href="/nyu-status/#nav">More detailed info</a>.</sup>
+<br><br><b>Rationale</b>: Today's (10/20) data is steady & low (+5 cases this week at 0.18% positivity). However, yesterday we were suddenly seeing a very high caseload (+80 cases cross-campus last week at 0.62% positivity). WSQ NYS-Compliance number is at 65</a>. <a href="/nyu-status/#nav">More detailed info</a>.</sup>
 </center>
 
 ## <a name="nyc"></a>New York City Status  
@@ -137,9 +137,9 @@ _____
 <button type="button" class="btn" id="action-bttn" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
 
 ## <a name="blog"></a>Blog from the Creator
-<sup><i>(10/17/20 at 12:15 PM EST)</i></sup>
+<sup><i>(10/20/20 at 12:15 PM EST)</i></sup>
 
-<center><i>"Continuing to monitor the data, just posted a reddit update."</i>
+<center><i>"All NYU data has been refreshed as of the time indicated. Today's data shows a nice slowdown similar to early last week (only a couple positives). Wondering what's causing the large swings & fluctuations. Perhaps the weather/temperature has something to do with it. No flag change for now (generally only for trends as single days can be outliers)."</i>
 <br><br>
 <span>– </span><span id="verify"><b>violetflash</b></span></center>  
 
