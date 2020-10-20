@@ -36,11 +36,11 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## <a name="nyu"></a><a name="refreshflags"></a>New York University Status  
 
-<center><a href="/nyu-status/#nav" style="text-decoration: none;"><span id="orange-flag">
+<center><a href="/nyu-status/#nav" id="hide-link"><span id="orange-flag">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">ORANGE ALERT</span>
-  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>Washington Square Campus (WSQ)</i></span></span></a>  
-<sup>All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> for the moment.
-<br><br><b>Rationale</b>: We are suddenly seeing a very high caseload in the latest data (+80 cases cross-campus last week at 0.62% positivity; WSQ NYS-Compliance number is at 65). <a href="/nyu-status/#nav">More detailed info</a>.</sup>
+  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>Washington Square Campus (WSQ)</i></span></span></a> 
+<sup><a href="/nyu-status/#nav" id="hide-link" style="color: inherit;">All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> for the moment.
+<br><br><b>Rationale</b>: Today's (10/20) data is steady & low (+5 cases this week at 0.18% positivity). However, yesterday we were suddenly seeing a very high caseload (+80 cases cross-campus last week at 0.62% positivity). WSQ NYS-Compliance number is at 65.</a> <a href="/nyu-status/#nav">More detailed info</a>.</sup>
 </center>
 
 ## <a name="nyc"></a>New York City Status  
