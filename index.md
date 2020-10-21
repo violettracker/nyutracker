@@ -18,7 +18,7 @@
 <a name="nav"></a>
 <hr>
 
-<center><button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyu';">NYU Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyc';">NYC Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#email';">Recent Emails</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#register';">Register</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#links';">Links</button>
+<center><button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyu';">NYU Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#nyc';">NYC Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#email';">Recent Emails</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='/register/';">Register</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#links';">Links</button>
 <details><summary id="menu">Menu</summary>
 <br><button type="button" class="btn" id="nav-bttn" onclick="location.href='#reddit';">Reddit Updates</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#blog';">Blog</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#about';">About</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#feedback';">Feedback</button></details>
 <hr></center>
