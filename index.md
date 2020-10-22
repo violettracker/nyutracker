@@ -323,6 +323,8 @@ Other relevant posts
   <li style="margin-left:40px; list-style-type: circle;">Easy to understand & well presented</li>
   <li><a href="https://www1.nyc.gov/site/doh/covid/covid-19-data.page">NYC Gov Covid Statistics</a></li>
   <li style="margin-left:40px; list-style-type: circle;">Official NYC city gov source (numbers sometime vary from State counts)</li>
+  <li><a href="https://zhaojustin.github.io/states-covid-tracker/">New York Quarantine Tracker</a></li>
+  <li style="margin-left:40px; list-style-type: circle;">See if your state needs to quarantine upon arrival to NY – made by another fellow NYU student (Justin Zhao)</li>
 </ul>
 </details>  
 <hr>
