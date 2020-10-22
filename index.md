@@ -132,9 +132,9 @@ _____
 
 ## <a name="feedback"></a>Feedback & Tips
 
-<center>If you have feedback or confidential tips to submit to me, please use <a style="color: #5f37a4;" href="http://bit.ly/VioletTrackerFeedback">this form</a>, or email me at <a style="color: #5f37a4;" href="mailto:tips@violettracker.com">tips@violettracker.com</a>. I rely on community tips for supplemental reporting.
+<center>If you have feedback or confidential tips to submit to me, please use <a style="color: #5f37a4;" href="/feedback/#nav">this form</a>, or email me at <a style="color: #5f37a4;" href="mailto:tips@violettracker.com">tips@violettracker.com</a>. I rely on community tips for supplemental reporting.
 <br><br>
-<button type="button" class="btn" id="action-bttn" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
+<button type="button" class="btn" id="action-bttn" onclick="location.href='/feedback/#nav';">Submit feedback or tip</button></center>
 
 ## <a name="blog"></a>Blog from the Creator
 <sup><i>(10/22/20 at 9:20 AM EST)</i></sup>
