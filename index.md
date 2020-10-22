@@ -139,7 +139,7 @@ _____
 ## <a name="blog"></a>Blog from the Creator
 <sup><i>(10/22/20 at 9:20 AM EST)</i></sup>
 
-<center><i>"NYU alert flag downgrade today due to a wide buffer (relative to time left in the block). Check the NYU status page"</i>
+<center><i>"NYU alert flag downgrade today due to a wide buffer (relative to time left in the block). Check the <a href="/nyu-status/#top">NYU status page</a>"</i>
 <br><br>
 <span>– </span><span id="verify"><b>violetflash</b></span></center>  
 
@@ -163,7 +163,9 @@ As of 10/16, <b>570k New Yorkers</b> have downloaded it to keep NY safe. I urge 
 ## <a name="reddit"></a><a name="flash"></a><a name="community"></a>Reddit Flash Update Archive  
 *Usually the first alert of notable events (plus community discussion)*
 
-**10/19** | **[NYU Covid Dashboard - 10/19 Update](https://www.reddit.com/r/nyu/comments/je903m/nyu_covid_dashboard_1019_update/)**  
+**10/22** | **[NYU Covid Dashboard - 10/22](https://www.reddit.com/r/nyu/comments/jg3nkz/nyu_covid_dashboard_1022/)**  
+
+**10/19** | [NYU Covid Dashboard - 10/19 Update](https://www.reddit.com/r/nyu/comments/je903m/nyu_covid_dashboard_1019_update/)  
 
 **10/17** | [NYU Covid Dashboard - 10/17 Update](https://www.reddit.com/r/nyu/comments/jcxvyd/nyu_covid_dashboard_1017_update/)  
 
@@ -171,7 +173,7 @@ As of 10/16, <b>570k New Yorkers</b> have downloaded it to keep NY safe. I urge 
 
 **10/11** | [NYU Covid Dashboard - 10/11 Update](https://www.reddit.com/r/nyu/comments/j9y1ha/nyu_covid_dashboard_1011_update/)
 
-<sup><i>Displaying 4 most recent</i></sup>
+<sup><i>Displaying 5 most recent</i></sup>
 
 <hr><details><summary><u>See older posts</u></summary><hr>
 
