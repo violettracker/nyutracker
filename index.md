@@ -325,6 +325,7 @@ Other relevant posts
   <li style="margin-left:40px; list-style-type: circle;">Official NYC city gov source (numbers sometime vary from State counts)</li>
   <li><a href="https://zhaojustin.github.io/states-covid-tracker/">New York Quarantine Tracker</a></li>
   <li style="margin-left:40px; list-style-type: circle;">See if your state needs to quarantine upon arrival to NY – made by another fellow NYU student (Justin Zhao)</li>
+  <li style="margin-left:40px; list-style-type: circle;">However, please note the <b><a href="https://coronavirus.health.ny.gov/covid-19-travel-advisory#restricted-states">official restricted list</a></b> is different & contains some exceptions – use this for legal & health guidance</li>
 </ul>
 </details>  
 <hr>
