@@ -1,2 +1,2 @@
 # VioletTracker
-## Please see the full website: [https://violettracker.github.io/nyutracker/](https://violettracker.github.io/nyutracker/)
+## Please see the full website: [violettracker.com](https://violettracker.com/#top)
