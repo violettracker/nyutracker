@@ -40,7 +40,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">YELLOW ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>Washington Square Campus (WSQ)</i></span></span></a> 
 <sup><a href="/nyu-status/#nav" id="hide-link" style="color: inherit;">All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> at the moment.
-<br><br><b>Rationale</b>: This week's data is steady & low (+14 cases this week at 0.28% positivity). However, over the weekend we were suddenly seeing a very high caseload (+80 cases cross-campus last week at 0.62% positivity). WSQ NYS-Compliance number is at 69</a>. <a href="/nyu-status/#nav">More detailed info</a>.</sup>
+<br><br><b>Rationale</b>: This week's data is steady & low (+18 cases this week at 0.36% positivity). However, over the weekend we were suddenly seeing a very high caseload (+80 cases cross-campus last week at 0.62% positivity). WSQ NYS-Compliance number is at 72</a>. <a href="/nyu-status/#nav">More detailed info</a>.</sup>
 </center>
 
 ## <a name="nyc"></a>New York City Status  
