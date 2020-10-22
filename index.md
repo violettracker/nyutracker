@@ -137,9 +137,9 @@ _____
 <button type="button" class="btn" id="action-bttn" onclick="location.href='http://bit.ly/VioletTrackerFeedback';">Submit feedback or tip</button></center>
 
 ## <a name="blog"></a>Blog from the Creator
-<sup><i>(10/21/20 at 11:10 AM EST)</i></sup>
+<sup><i>(10/22/20 at 9:20 AM EST)</i></sup>
 
-<center><i>"No real change today unless the NYU dashboard updates later... yesterday's findings are still relevant"</i>
+<center><i>"NYU alert flag downgrade today due to a wide buffer (relative to time left in the block). Check the NYU status page"</i>
 <br><br>
 <span>– </span><span id="verify"><b>violetflash</b></span></center>  
 
