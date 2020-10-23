@@ -59,6 +59,8 @@ _____
 
 ## <a name="sample"></a><a name="email"></a>Recent Emails & Archive  
 
+**10/22** | **[Breaking News: WSQ Returns to Yellow?](https://sh1.sendinblue.com/v5kmw8pitt7e.html?t=1603414201)**  
+
 **10/19** | [Breaking News: Orange Alert for WSQ](https://sh1.sendinblue.com/v462g8pitt7e.html?t=1603146774)  
 
 **10/15** | [Dashboard Bulletin: Downward Trend](https://sh1.sendinblue.com/v57zs8pitt7e.html?t=1602821015)
@@ -67,11 +69,18 @@ _____
 
 **10/08** | [Breaking News: Dashboard Updates](https://sh1.sendinblue.com/v3gs88pitt7e.html?t=1602561572)
 
-**10/06** | [Breaking News: No Remote Transition, For Now](https://sh1.sendinblue.com/v34548pitt7e.html?t=1602561605)
-
 <sup><i>Displaying 5 most recent</i></sup>
 
 <hr><details><summary><u>See older emails</u></summary><hr>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/06</strong></td>
+      <td><a href="https://sh1.sendinblue.com/v34548pitt7e.html?t=1602561605">Breaking News: No Remote Transition, For Now</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <tbody>
