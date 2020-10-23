@@ -40,7 +40,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">YELLOW ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>Washington Square Campus (WSQ)</i></span></span></a> 
 <sup><a href="/nyu-status/#nav" id="hide-link" style="color: inherit;">All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> at the moment.
-<br><br><b>Rationale</b>: This week's data is steady & low (+18 cases this week at 0.36% positivity). However, over the weekend we were suddenly seeing a very high caseload (+80 cases cross-campus last week at 0.62% positivity). WSQ NYS-Compliance number is at 72</a>. <a href="/nyu-status/#nav">More detailed info</a>.</sup>
+<br><br><b>Rationale</b>: This week's data is steady & low (+18 cases this week at 0.34% positivity). However, over the weekend we were suddenly seeing a very high caseload (+80 cases cross-campus last week at 0.62% positivity). WSQ NYS-Compliance number is at 72</a>. <a href="/nyu-status/#nav">More detailed info</a>.</sup>
 </center>
 
 ## <a name="nyc"></a>New York City Status  
@@ -53,7 +53,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 _____
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <sup><br><br><a id="hide-link" onclick="location.reload(true);"><span id="checkmark"></span>
-<br><i class="fa fa-refresh" id="verify" style="font-size:12px;"></i><i id="verify"> Alert flags & data last verified on <b>10/22</b> at <b>5:10 PM</b> EST</i></a></sup></center>  
+<br><i class="fa fa-refresh" id="verify" style="font-size:12px;"></i><i id="verify"> Alert flags & data last verified on <b>10/23</b> at <b>10:40 AM</b> EST</i></a></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
@@ -146,9 +146,9 @@ _____
 <button type="button" class="btn" id="action-bttn" onclick="location.href='/feedback/#nav';">Submit feedback or tip</button></center>
 
 ## <a name="blog"></a>Blog from the Creator
-<sup><i>(10/22/20 at 9:20 AM EST)</i></sup>
+<sup><i>(10/23/20 at 10:40 AM EST)</i></sup>
 
-<center><i>"NYU alert flag downgrade today due to a wide buffer (relative to time left in the block). Check the <a href="/nyu-status/#top">NYU status page</a>"</i>
+<center><i>"Comparatively light update today due to little change in the numbers. Looks like we made it through the block(?) Check the <a href="/nyu-status/#top">NYU status page</a>"</i>
 <br><br>
 <span>– </span><span id="verify"><b>violetflash</b></span></center>  
 
