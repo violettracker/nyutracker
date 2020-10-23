@@ -148,7 +148,7 @@ _____
 ## <a name="blog"></a>Blog from the Creator
 <sup><i>(10/23/20 at 10:40 AM EST)</i></sup>
 
-<center><i>"Comparatively light update today due to little change in the numbers. Looks like we made it through the block(?) Check the <a href="/nyu-status/#top">NYU status page</a>"</i>
+<center><i>"Comparatively light update so far today due to little change in the numbers (unless the NYU dashboard updates later). Looks like we made it through the block(?) Check the <a href="/nyu-status/#top">NYU status page</a>"</i>
 <br><br>
 <span>– </span><span id="verify"><b>violetflash</b></span></center>  
 
