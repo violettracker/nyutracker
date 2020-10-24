@@ -40,8 +40,8 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">GREEN ALERT</span>
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span></a> 
 <sup><a href="/nyu-status/#nav" id="hide-link" style="color: inherit;">
-<!--All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> at the moment.-->
-<br><br><b>Rationale</b>: This week's data is steady & low (+19 cases so far at 0.25% positivity). Compliance numbers are all reset to 0</a>. <a href="/nyu-status/#nav">More detailed info</a>.</sup>
+<!--All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> at the moment.<br><br>-->
+<b>Rationale</b>: This week's data is steady & low (+19 cases so far at 0.25% positivity). Compliance numbers are all reset to 0</a>. <a href="/nyu-status/#nav">More detailed info</a>.</sup>
 </center>
 
 ## <a name="nyc"></a>New York City Status  
