@@ -147,11 +147,12 @@ _____
 <button type="button" class="btn" id="action-bttn" onclick="location.href='/feedback/#nav';">Submit feedback or tip</button></center>
 
 ## <a name="blog"></a>Blog from the Creator
-<sup><i>(10/24/20 at 11:20 PM EST)</i></sup>
+<!--<sup><i>(10/24/20 at 11:20 PM EST)</i></sup>
 
-<center><i>"Good update today. A few new cases but a sizeable number of tests. New block now. Check the <a href="/nyu-status/#top">NYU status page</a>"</i>
+<i>"Good update today. A few new cases but a sizeable number of tests. New block now. Check the <a href="/nyu-status/#top">NYU status page</a>"</i>
 <br><br>
-<span>– </span><span id="verify"><b>violetflash</b></span></center>  
+<span>– </span><span id="verify"><b>violetflash</b></span>-->
+<center><a class="twitter-timeline" data-theme="light" href="https://twitter.com/VioletTracker?ref_src=twsrc%5Etfw">Tweets by VioletTracker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
