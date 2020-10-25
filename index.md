@@ -152,7 +152,7 @@ _____
 <i>"Good update today. A few new cases but a sizeable number of tests. New block now. Check the <a href="/nyu-status/#top">NYU status page</a>"</i>
 <br><br>
 <span>– </span><span id="verify"><b>violetflash</b></span>-->
-<center><a class="twitter-timeline" style:"font-size:18px;" data-theme="light" data-chrome="nofooter" data-tweet-limit="1" href="https://twitter.com/VioletTracker?ref_src=twsrc%5Etfw">Tweets by VioletTracker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>  
+<center><a class="twitter-timeline" data-theme="light" data-chrome="nofooter transparent" data-tweet-limit="1" href="https://twitter.com/VioletTracker?ref_src=twsrc%5Etfw">Tweets by VioletTracker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
