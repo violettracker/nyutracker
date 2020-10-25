@@ -41,7 +41,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Campuses (NYU-NYC)</i></span></span></a> 
 <sup><a href="/nyu-status/#nav" id="hide-link" style="color: inherit;">
 <!--All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> at the moment.<br>-->
-<br><b>Rationale</b>: This week's data is steady & low (+23 cases so far at 0.31% positivity). The WSQ compliance number is at 3</a>. <a href="/nyu-status/#nav">More detailed info</a>.</sup>
+<br><b>Rationale</b>: This week's data is steady & low (+23 cases so far at 0.24% positivity). The WSQ compliance number is at 3</a>. <a href="/nyu-status/#nav">More detailed info</a>.</sup>
 </center>
 
 ## <a name="nyc"></a>New York City Status  
@@ -54,7 +54,7 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 _____
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <sup><br><br><a id="hide-link" onclick="location.reload(true);"><span id="checkmark"></span>
-<br><i class="fa fa-refresh" id="verify" style="font-size:12px;"></i><i id="verify"> Alert flags & data last verified on <b>10/24</b> at <b>11:00 PM</b> EST</i></a></sup></center>  
+<br><i class="fa fa-refresh" id="verify" style="font-size:12px;"></i><i id="verify"> Alert flags & data last verified on <b>10/25</b> at <b>12:40 PM</b> EST</i></a></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
@@ -66,13 +66,27 @@ _____
 
 **10/15** | [Dashboard Bulletin: Downward Trend](https://sh1.sendinblue.com/v57zs8pitt7e.html?t=1602821015)
 
-**10/12** | [Breaking News: Weekend Dashboard Updates](https://sh1.sendinblue.com/v3tfc8pitt7e.html?t=1602560720)
-
-**10/08** | [Breaking News: Dashboard Updates](https://sh1.sendinblue.com/v3gs88pitt7e.html?t=1602561572)
-
-<sup><i>Displaying 5 most recent</i></sup>
+<sup><i>Displaying 3 most recent</i></sup>
 
 <hr><details><summary><u>See older emails</u></summary><hr>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/12</strong></td>
+      <td><a href="https://sh1.sendinblue.com/v3tfc8pitt7e.html?t=1602560720" target="_blank">Breaking News: Weekend Dashboard Updates</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/08</strong></td>
+      <td><a href="https://sh1.sendinblue.com/v3gs88pitt7e.html?t=1602561572" target="_blank">Breaking News: Dashboard Updates</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <tbody>
@@ -179,14 +193,29 @@ As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge 
 **10/19** | [NYU Covid Dashboard - 10/19 Update](https://www.reddit.com/r/nyu/comments/je903m/nyu_covid_dashboard_1019_update/)  
 
 **10/17** | [NYU Covid Dashboard - 10/17 Update](https://www.reddit.com/r/nyu/comments/jcxvyd/nyu_covid_dashboard_1017_update/)  
-
-**10/13** | [NYU Covid Dashboard - 10/13](https://www.reddit.com/r/nyu/comments/jagw29/nyu_covid_dashboard_1013/)  
-
-**10/11** | [NYU Covid Dashboard - 10/11 Update](https://www.reddit.com/r/nyu/comments/j9y1ha/nyu_covid_dashboard_1011_update/)
-
-<sup><i>Displaying 5 most recent</i></sup>
+  
+<sup><i>Displaying 3 most recent</i></sup>  
 
 <hr><details><summary><u>See older posts</u></summary><hr>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/13</strong></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/jagw29/nyu_covid_dashboard_1013/" target="_blank">NYU Covid Dashboard - 10/13</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>10/11</strong></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j9y1ha/nyu_covid_dashboard_1011_update/" target="_blank">NYU Covid Dashboard - 10/11 Update</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <tbody>
@@ -327,10 +356,10 @@ Other relevant posts
   <br><li style="list-style-type: circle;">Updated daily<i>(ish)</i></li></sup></ul>  
     
 * **[NYC Cluster Map](http://nyc.gov/COVIDZone) (Interactive)**  
-  <ul><br><sup><li style="list-style-type: circle;">Look up whether your neighborhood is in a "micro-cluster" (or an area you're visiting)</li></sup></ul>  
+  <ul><br><sup><li style="list-style-type: circle;">Look up whether your neighborhood is in a <br>"micro-cluster" (or an area you're visiting)</li></sup></ul>  
     
 * **[NYS Restricted States List](https://coronavirus.health.ny.gov/covid-19-travel-advisory#restricted-states)**  
-  <ul><br><sup><li style="list-style-type: circle;">Per current state law, you must self-quarantine for 14 days following arrival from one of these areas</li></sup></ul>  
+  <ul><br><sup><li style="list-style-type: circle;">Per current state law, you must self-quarantine for <br>14 days following arrival from one of these areas</li></sup></ul>  
   
 <hr><details><summary><u>See additional links</u></summary><hr>
 <ul>
