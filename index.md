@@ -46,10 +46,12 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 
 ## <a name="nyc"></a>New York City Status  
 
-<center><span id="yellow-flag">
+<center><a href="/nyc-status/#nav" id="hide-link"><span id="yellow-flag">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">YELLOW ALERT</span>
-  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span>
-<sup><br><b>Rationale</b>: The city continues to endure clusters & an uptick (primarily in Brooklyn & Queens) – 1.63% positivity last week & partial 1.80% this week. <a href="https://sh1.sendinblue.com/v57zs8pitt7e.html?t=1602821015">More info</a>.</sup>  
+  <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span></a> 
+<sup><a href="/nyc-status/#nav" id="hide-link" style="color: inherit;">
+<!--All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> at the moment.<br>-->
+<br><b>Rationale</b>: The city continues to endure clusters & an uptick (primarily in Brooklyn & Queens) – 1.63% positivity last week & partial 1.80% this week</a>. <a href="https://sh1.sendinblue.com/v57zs8pitt7e.html?t=1602821015">More info</a>.</sup>  
 <br>
 _____
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
