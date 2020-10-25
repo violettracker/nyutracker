@@ -25,7 +25,7 @@
 
 ## <a name="register"></a>Sign-up  
 
-<center>VioletTracker is a compilation of all the Covid-related news you need to <b>keep yourself safe</b> in NYC & at NYU. Check back here regularly for live updates or <b><a style="color: #5f37a4;" href="/register/#nav">sign up</a></b> for the <a style="color: #5f37a4;" href="#sample">newsletter</a> with the button below.  
+<center>VioletTracker is a compilation of all the Covid-related news you need to <b>keep yourself safe</b> in NYC & at NYU. Check back here regularly for live updates and <b><a style="color: #5f37a4;" href="/register/#nav">sign up</a></b> for the <a style="color: #5f37a4;" href="#sample">newsletter</a> with the button below.  
 <br><br>
 If you find it helpful, refer a friend! Let's make NYU and NYC safer. 
 <br><br>
