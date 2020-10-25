@@ -334,6 +334,8 @@ Other relevant posts
   
 <hr><details><summary><u>See additional links</u></summary><hr>
 <ul>
+  <li><a href="https://covidactnow.org/us/ny/county/new_york_county?s=1198291" target="_blank">Covid Act Now: NYC</a></li>
+  <li style="margin-left:40px; list-style-type: circle;">Reliable organization with a robust tracker</li>  
   <li><a href="https://gothamist.com/news/coronavirus-statistics-tracking-epidemic-new-york" target="_blank">Gothamist NYC Coronavirus Coverage</a></li>
   <li style="margin-left:40px; list-style-type: circle;">Useful for citywide metrics & analyses</li>
   <li><a href="https://www.nytimes.com/interactive/2020/nyregion/new-york-city-coronavirus-cases.html" target="_blank">NYTimes NYC Covid Statistics</a></li>
@@ -342,8 +344,6 @@ Other relevant posts
   <li style="margin-left:40px; list-style-type: circle;">Official NYC city gov source (numbers sometime vary from State counts)</li>
   <li><a href="https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-TableView?%3Aembed=yes&%3Atoolbar=no&%3Atabs=n" target="_blank">NYS Statewide Covid Dashboard</a></li>
   <li style="margin-left:40px; list-style-type: circle;">Official NYS gov source (numbers sometime vary from City counts)</li>  
-  <li><a href="https://covidactnow.org/us/ny/county/new_york_county?s=1198291" target="_blank">Covid Act Now: NYC</a></li>
-  <li style="margin-left:40px; list-style-type: circle;">Reliable organization with a robust tracker</li>  
   <li><a href="https://zhaojustin.github.io/states-covid-tracker/" target="_blank">New York Quarantine Tracker</a></li>
   <li style="margin-left:40px; list-style-type: circle;">See how close your state is to a required quarantine in NY – made by another fellow NYU student (Justin Zhao)</li>
   <li style="margin-left:40px; list-style-type: circle;">However, please note the <b><a href="https://coronavirus.health.ny.gov/covid-19-travel-advisory#restricted-states" target="_blank">official restricted list</a></b> is different & contains some exceptions – use this for full legal & health guidance</li>
