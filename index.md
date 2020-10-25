@@ -346,8 +346,7 @@ Other relevant posts
 
 ## <a name="links"></a>Useful Links & Resources
 * **[NYU Dashboard](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html)** – Primary NYU dashboard
-<ul><sup><li style="margin-left:40px; list-style-type: circle;">Recently changed structure (10/13)</li>
-  <br><li style="margin-left:40px; list-style-type: circle;"><i>Tests are now reported as they get processed</i></li>  
+<ul><sup><li style="margin-left:40px; list-style-type: circle;"><i>Tests are now reported as they get processed</i></li>  
   <br><li style="margin-left:40px; list-style-type: circle;">Updated randomly</li></sup></ul>  
   
 * **[State Dashboard](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true)** – NYS-operated & NYU-data provided
@@ -357,11 +356,15 @@ Other relevant posts
     
 * **[NYC Cluster Map](http://nyc.gov/COVIDZone) (Interactive)**  
   <sup><ul><br><li style="list-style-type: circle;">Look up whether your area is in a "micro-cluster"</li>
-  </ul><br>(or an area you're visiting)</sup>  
-    
+  </ul></sup>  
+  
+  <span style="margin-left:40px;"><br><sup>(or an area you're visiting)</sup></span>
+  
 * **[NYS Restricted States List](https://coronavirus.health.ny.gov/covid-19-travel-advisory#restricted-states)**  
   <sup><ul><br><li style="list-style-type: circle;">Per current state law, you must self-quarantine for</li>
-  </ul><br>14 days following arrival from one of these areas</sup>  
+  </ul></sup>  
+  
+  <span style="margin-left:40px;"><br><sup>14 days following arrival from one of these areas</sup></span>
   
 <hr><details><summary><u>See additional links</u></summary><hr>
 <ul>
