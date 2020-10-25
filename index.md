@@ -325,7 +325,13 @@ Other relevant posts
   * Individual campuses: [WSQ](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=310200338145;redirectToHome=true), [TAN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999994;redirectToHome=true), [LAW](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999995;redirectToHome=true), [DEN](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999991;redirectToHome=true), [SIL](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999996;redirectToHome=true), [WAG](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999997;redirectToHome=true), [SPS](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999998;redirectToHome=true), [ISA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999992;redirectToHome=true), [IFA](https://schoolcovidreportcard.health.ny.gov/#/collegeData;sedCode=999999999993;redirectToHome=true) & MED  
   <ul><br><sup><li style="list-style-type: circle;"><i>Tests are reported as they get processed</i></li>  
   <br><li style="list-style-type: circle;">Updated daily<i>(ish)</i></li></sup></ul>  
-  
+
+* **[NYC Cluster Map](http://nyc.gov/COVIDZone) (Interactive)  
+  <ul><br><sup><li style="list-style-type: circle;">Look up whether your neighborhood is in a "micro-cluster" (or an area you're visiting)</li></sup></ul>  
+
+* **[NYS Restricted States List](https://coronavirus.health.ny.gov/covid-19-travel-advisory#restricted-states)  
+  <ul><br><sup><li style="list-style-type: circle;">Per current state law, you must self-quarantine for 14 days following arrival from one of these areas</li></sup></ul>  
+
 <hr><details><summary><u>See additional links</u></summary><hr>
 <ul>
   <li><a href="https://gothamist.com/news/coronavirus-statistics-tracking-epidemic-new-york" target="_blank">Gothamist NYC Coronavirus Coverage</a></li>
