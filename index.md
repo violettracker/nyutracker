@@ -51,12 +51,12 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
   <span style="display:block; font-weight: normal; font-size: 70%; padding-top: 4px; padding-bottom: 10px; line-height: 100%;">for <i>All Boroughs (NYC)</i></span></span></a> 
 <sup><a href="/nyc-status/#nav" id="hide-link" style="color: inherit;">
 <!--All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> at the moment.<br>-->
-<br><b>Rationale</b>: The city continues to endure clusters & an uptick (primarily in Brooklyn & Queens) – 1.63% positivity last week & partial 1.80% this week</a>. <a href="https://sh1.sendinblue.com/v57zs8pitt7e.html?t=1602821015">More info</a>.</sup>  
+<br><b>Rationale</b>: The city continues to endure clusters & an uptick (primarily in Brooklyn & Queens) – 1.64% positivity last week & partial 1.80% this week</a>. <a href="/nyc-status/#nav">More info</a>.</sup>  
 <br>
 _____
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <sup><br><br><a id="hide-link" onclick="location.reload(true);"><span id="checkmark"></span>
-<br><i class="fa fa-refresh" id="verify" style="font-size:12px;"></i><i id="verify"> Alert flags & data last verified on <b>10/25</b> at <b>12:40 PM</b> EST</i></a></sup></center>  
+<br><i class="fa fa-refresh" id="verify" style="font-size:12px;"></i><i id="verify"> Alert flags & data last verified on <b>10/25</b> at <b>3:50 PM</b> EST</i></a></sup></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
