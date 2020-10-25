@@ -25,7 +25,7 @@
 
 ## <a name="register"></a>Sign-up  
 
-<center>VioletTracker is a compilation of all the Covid-related news you need to <b>keep yourself safe</b> in NYC & at NYU. Please <b><a style="color: #5f37a4;" href="https://bit.ly/VioletTrackerMailSignup">sign up</a></b> for the <a style="color: #5f37a4;" href="https://bit.ly/VioletTrackerSampleMail">newsletter</a> with the button below, or check back here regularly for updates.  
+<center>VioletTracker is a compilation of all the Covid-related news you need to <b>keep yourself safe</b> in NYC & at NYU. Please <b><a style="color: #5f37a4;" href="/register/#nav">sign up</a></b> for the <a style="color: #5f37a4;" href="#sample">newsletter</a> with the button below, or check back here regularly for updates.  
 <br><br>
 If you find it helpful, refer a friend! Let's make NYU and NYC safer. 
 <br><br>
@@ -78,7 +78,7 @@ _____
   <tbody>
     <tr>
       <td><strong>10/06</strong></td>
-      <td><a href="https://sh1.sendinblue.com/v34548pitt7e.html?t=1602561605">Breaking News: No Remote Transition, For Now</a></td>
+      <td><a href="https://sh1.sendinblue.com/v34548pitt7e.html?t=1602561605" target="_blank">Breaking News: No Remote Transition, For Now</a></td>
     </tr>
   </tbody>
 </table>
@@ -87,7 +87,7 @@ _____
   <tbody>
     <tr>
       <td><strong>10/05</strong></td>
-      <td><a href="https://sh1.sendinblue.com/v2euw8pitt7e.html?t=1602561682">Dashboard Bulletin</a></td>
+      <td><a href="https://sh1.sendinblue.com/v2euw8pitt7e.html?t=1602561682" target="_blank">Dashboard Bulletin</a></td>
     </tr>
   </tbody>
 </table>
@@ -96,7 +96,7 @@ _____
   <tbody>
     <tr>
       <td><strong>10/03</strong></td>
-      <td><a href="https://sh1.sendinblue.com/v1pko8pitt7e.html?t=1602561747">Breaking News: Dashboard Updates</a></td>
+      <td><a href="https://sh1.sendinblue.com/v1pko8pitt7e.html?t=1602561747" target="_blank">Breaking News: Dashboard Updates</a></td>
     </tr>
   </tbody>
 </table>
@@ -105,7 +105,7 @@ _____
   <tbody>
     <tr>
       <td><strong>10/02</strong></td>
-      <td><a href="https://sh1.sendinblue.com/v1cxk8pitt7e.html?t=1602561773">Breaking News: State Dashboard Update</a></td>
+      <td><a href="https://sh1.sendinblue.com/v1cxk8pitt7e.html?t=1602561773" target="_blank">Breaking News: State Dashboard Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -114,7 +114,7 @@ _____
   <tbody>
     <tr>
       <td><strong>10/01</strong></td>
-      <td><a href="https://sh1.sendinblue.com/2n4548pitt7e.html?t=1602561797">Breaking News: Significant Dashboard Changes</a></td>
+      <td><a href="https://sh1.sendinblue.com/2n4548pitt7e.html?t=1602561797" target="_blank">Breaking News: Significant Dashboard Changes</a></td>
     </tr>
   </tbody>
 </table>
@@ -123,7 +123,7 @@ _____
   <tbody>
     <tr>
       <td><strong>09/29</strong></td>
-      <td><a href="https://sh1.sendinblue.com/2ntfc8pitt7e.html?t=1602561830">Dashboard Bulletin</a></td>
+      <td><a href="https://sh1.sendinblue.com/2ntfc8pitt7e.html?t=1602561830" target="_blank">Dashboard Bulletin</a></td>
     </tr>
   </tbody>
 </table>
@@ -132,7 +132,7 @@ _____
   <tbody>
     <tr>
       <td><strong>09/28</strong></td>
-      <td><a href="https://bit.ly/VioletTrackerInauguralEdition">Inaugural Edition</a></td>
+      <td><a href="https://bit.ly/VioletTrackerInauguralEdition" target="_blank">Inaugural Edition</a></td>
     </tr>
   </tbody>
 </table>
@@ -142,7 +142,7 @@ _____
 
 ## <a name="feedback"></a>Feedback & Tips
 
-<center>If you have feedback or confidential tips to submit to me, please use <a style="color: #5f37a4;" href="/feedback/#nav">this form</a>, or email me at <a style="color: #5f37a4;" href="mailto:tips@violettracker.com">tips@violettracker.com</a>. I rely on community tips for supplemental reporting.
+<center>If you have feedback or confidential tips to submit to me, please use <a style="color: #5f37a4;" href="/feedback/#nav">this form</a>, or email me at <a style="color: #5f37a4;" href="mailto:tips@violettracker.com" target="_blank">tips@violettracker.com</a>. I rely on community tips for supplemental reporting.
 <br><br>
 <button type="button" class="btn" id="action-bttn" onclick="location.href='/feedback/#nav';">Submit feedback or tip</button></center>
 
@@ -152,7 +152,7 @@ _____
 <i>"Good update today. A few new cases but a sizeable number of tests. New block now. Check the <a href="/nyu-status/#top">NYU status page</a>"</i>
 <br><br>
 <span>– </span><span id="verify"><b>violetflash</b></span>-->
-<center><a class="twitter-timeline" data-theme="light" data-chrome="nofooter transparent" data-tweet-limit="1" href="https://twitter.com/VioletTracker?ref_src=twsrc%5Etfw">Tweets by VioletTracker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>  
+<center><a class="twitter-timeline" data-theme="light" data-chrome="nofooter transparent" data-tweet-limit="1" target="_blank" href="https://twitter.com/VioletTracker?ref_src=twsrc%5Etfw">Tweets by VioletTracker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>  
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
@@ -161,13 +161,13 @@ _____
 New York State recently announced a new privacy-minded Covid app, called **[COVID Alert NY](https://coronavirus.health.ny.gov/covid-alert-ny)**, designed by the state Department of Health.
 
 <hr><details><summary><u>Learn more</u></summary><hr>
-The app keeps people safe and provides <b>exposure notifications</b> using <a href="https://covid19.apple.com/contacttracing">bluetooth iOS / Android</a> technology (rather than tracking your location). It <b><a href="https://twitter.com/NYGovCuomo/status/1311712687441797121">works regionally</a></b> with apps in NY, NJ, PA, and DE.  
+The app keeps people safe and provides <b>exposure notifications</b> using <a href="https://covid19.apple.com/contacttracing" target="_blank">bluetooth iOS / Android</a> technology (rather than tracking your location). It <b><a href="https://twitter.com/NYGovCuomo/status/1311712687441797121" target="_blank">works regionally</a></b> with apps in NY, NJ, PA, and DE.  
 <br><br>
 The app also has other features, such as recent county-by-county testing results and a health log to help you monitor any possible symptoms.</details>  
 <hr>
 As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge you to join us.
 
-<center><button type="button" class="btn" id="action-bttn" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
+<center><button type="button" class="btn" id="action-bttn" target="_blank" onclick="location.href='https://coronavirus.health.ny.gov/covid-alert-ny';">Download COVID Alert NY</button></center>
 
 <span style="display: block; text-align: right;"><sup><a href="#top" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span>
 
@@ -192,7 +192,7 @@ As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge 
   <tbody>
     <tr>
       <td><strong>10/08</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/j7k41u/nyu_covid_dashboard_108/">NYU Covid Dashboard - 10/8</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j7k41u/nyu_covid_dashboard_108/" target="_blank">NYU Covid Dashboard - 10/8</a></td>
     </tr>
   </tbody>
 </table>
@@ -201,7 +201,7 @@ As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge 
   <tbody>
     <tr>
       <td><strong>10/06</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/j6bq79/nyu_covid_dashboard_106_update/">NYU Covid Dashboard - 10/6 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j6bq79/nyu_covid_dashboard_106_update/" target="_blank">NYU Covid Dashboard - 10/6 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -210,7 +210,7 @@ As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge 
   <tbody>
     <tr>
       <td><strong>10/05</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/j5lv0g/nyu_covid_dashboard_105_update/">NYU Covid Dashboard - 10/5 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j5lv0g/nyu_covid_dashboard_105_update/" target="_blank">NYU Covid Dashboard - 10/5 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -219,7 +219,7 @@ As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge 
   <tbody>
     <tr>
       <td><strong>10/02</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/j47rwt/nyu_covid_dashboard_102_update/">NYU Covid Dashboard - 10/2 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j47rwt/nyu_covid_dashboard_102_update/" target="_blank">NYU Covid Dashboard - 10/2 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -228,7 +228,7 @@ As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge 
   <tbody>
     <tr>
       <td><strong>10/01</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/j395of/nyu_covid_dashboard_101_update/">NYU Covid Dashboard - 10/1 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j395of/nyu_covid_dashboard_101_update/" target="_blank">NYU Covid Dashboard - 10/1 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -237,7 +237,7 @@ As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge 
   <tbody>
     <tr>
       <td><strong>09/29</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/j27zdz/nyu_covid_dashboard_929_update/">NYU Covid Dashboard - 9/29 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j27zdz/nyu_covid_dashboard_929_update/" target="_blank">NYU Covid Dashboard - 9/29 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -246,7 +246,7 @@ As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge 
   <tbody>
     <tr>
       <td><strong>09/24</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/iz701a/nyu_covid_dashboard_924_update/">NYU Covid Dashboard - 9/24 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/iz701a/nyu_covid_dashboard_924_update/" target="_blank">NYU Covid Dashboard - 9/24 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -255,7 +255,7 @@ As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge 
   <tbody>
     <tr>
       <td><strong>09/23</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/iy9v4g/nyu_covid_dashboard_923_update/">NYU Covid Dashboard - 9/23 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/iy9v4g/nyu_covid_dashboard_923_update/" target="_blank">NYU Covid Dashboard - 9/23 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -264,7 +264,7 @@ As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge 
   <tbody>
     <tr>
       <td><strong>09/21</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/ix3xj7/nyu_covid_dashboard_921_update/">NYU Covid Dashboard - 9/21 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/ix3xj7/nyu_covid_dashboard_921_update/" target="_blank">NYU Covid Dashboard - 9/21 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -273,7 +273,7 @@ As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge 
   <tbody>
     <tr>
       <td><strong>09/18</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/iv7de9/nyu_covid_dashboard_918_update/">NYU Covid Dashboard - 9/18 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/iv7de9/nyu_covid_dashboard_918_update/" target="_blank">NYU Covid Dashboard - 9/18 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -282,7 +282,7 @@ As of 10/22, <b>640k New Yorkers</b> have downloaded it to keep NY safe. I urge 
   <tbody>
     <tr>
       <td><strong>09/17</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/iukijz/nyu_corona_dashboard_917_update/">NYU Corona Dashboard - 9/17 Update</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/iukijz/nyu_corona_dashboard_917_update/" target="_blank">NYU Corona Dashboard - 9/17 Update</a></td>
     </tr>
   </tbody>
 </table>
@@ -294,7 +294,7 @@ Other relevant posts
   <tbody>
     <tr>
       <td><strong>09/26</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/j07izr/nyu_covid_tracker_newsletter/">NYU Covid Tracker Newsletter</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/j07izr/nyu_covid_tracker_newsletter/" target="_blank">NYU Covid Tracker Newsletter</a></td>
     </tr>
   </tbody>
 </table>
@@ -303,7 +303,7 @@ Other relevant posts
   <tbody>
     <tr>
       <td><strong>09/14</strong></td>
-      <td><a href="https://www.reddit.com/r/nyu/comments/isyf95/2_week_rolling_covid_data_hits_48/g5bi0g9?utm_source=share&utm_medium=web2x&context=3">NYU Corona Dashboard - 9/14</a></td>
+      <td><a href="https://www.reddit.com/r/nyu/comments/isyf95/2_week_rolling_covid_data_hits_48/g5bi0g9?utm_source=share&utm_medium=web2x&context=3" target="_blank">NYU Corona Dashboard - 9/14</a></td>
     </tr>
   </tbody>
 </table>
@@ -328,15 +328,15 @@ Other relevant posts
   
 <hr><details><summary><u>See additional links</u></summary><hr>
 <ul>
-  <li><a href="https://gothamist.com/news/coronavirus-statistics-tracking-epidemic-new-york">Gothamist NYC Coronavirus Coverage</a></li>
+  <li><a href="https://gothamist.com/news/coronavirus-statistics-tracking-epidemic-new-york" target="_blank">Gothamist NYC Coronavirus Coverage</a></li>
   <li style="margin-left:40px; list-style-type: circle;">Useful for citywide metrics & analyses</li>
-  <li><a href="https://www.nytimes.com/interactive/2020/nyregion/new-york-city-coronavirus-cases.html">NYTimes NYC Covid Statistics</a></li>
+  <li><a href="https://www.nytimes.com/interactive/2020/nyregion/new-york-city-coronavirus-cases.html" target="_blank">NYTimes NYC Covid Statistics</a></li>
   <li style="margin-left:40px; list-style-type: circle;">Easy to understand & well presented</li>
-  <li><a href="https://www1.nyc.gov/site/doh/covid/covid-19-data.page">NYC Gov Covid Statistics</a></li>
+  <li><a href="https://www1.nyc.gov/site/doh/covid/covid-19-data.page" target="_blank">NYC Gov Covid Statistics</a></li>
   <li style="margin-left:40px; list-style-type: circle;">Official NYC city gov source (numbers sometime vary from State counts)</li>
-  <li><a href="https://zhaojustin.github.io/states-covid-tracker/">New York Quarantine Tracker</a></li>
-  <li style="margin-left:40px; list-style-type: circle;">See if your state needs to quarantine upon arrival to NY – made by another fellow NYU student (Justin Zhao)</li>
-  <li style="margin-left:40px; list-style-type: circle;">However, please note the <b><a href="https://coronavirus.health.ny.gov/covid-19-travel-advisory#restricted-states">official restricted list</a></b> is different & contains some exceptions – use this for legal & health guidance</li>
+  <li><a href="https://zhaojustin.github.io/states-covid-tracker/" target="_blank">New York Quarantine Tracker</a></li>
+  <li style="margin-left:40px; list-style-type: circle;">See how close your state is to a required quarantine in NY – made by another fellow NYU student (Justin Zhao)</li>
+  <li style="margin-left:40px; list-style-type: circle;">However, please note the <b><a href="https://coronavirus.health.ny.gov/covid-19-travel-advisory#restricted-states" target="_blank">official restricted list</a></b> is different & contains some exceptions – use this for full legal & health guidance</li>
 </ul>
 </details>  
 <hr>
@@ -350,7 +350,7 @@ Other relevant posts
 
 <hr><details><summary><u>Learn more</u></summary><hr>
 <ul>
-<li><u>Timeliness</u>: In general, the frequency of the newsletter will depend on how often NYU updates its dataset. This website will be updated as often as it is <b>relevant</b>, and will usually remain current. I am doing this as a sort of public health side-project and I have various other time commitments as well, so please excuse any delays on my part. I may provide interim and breaking news coverage as I see fit.</li>
+<li><u>Timeliness</u>: In general, the frequency of the tracker & newsletter will depend on how often NYU updates its dataset. This website will be updated as often as it is <b>relevant</b>, and will usually remain current. I am doing this as a sort of public health side-project and I have various other time commitments as well, so please excuse any delays on my part. I may provide interim and breaking news coverage as I see fit.</li>
 <li><u>Independence</u>: Despite me being an NYU student, this newsletter is <b>wholly my own views</b>, informed by lots of news, data, and community sources, and sometimes vetted by third parties. It does not contain any explicit influence from the University. I did make the conscious decision to include rumors in the bulletins, because I believe some of them have value.</li>
 <li><u>Alert Flags</u>: The <span style="color:#ff4a4a; font-weight: bold">red</span>, <span style="color:#ff8c00; font-weight: bold">orange</span>, <span style="color:#ffd700; font-weight: bold">yellow</span>, and <span style="color:#008810; font-weight: bold">green</span> alert flags are tied to two metrics: <b>risk of closure</b> (each NYU campus remaining below 100 new cases in a 2-week block) and <b>risk of outbreak</b> (whether the community caseload is still manageable enough for NYU's admin to handle).</li> 
 </ul></details>
@@ -360,7 +360,7 @@ Other relevant posts
 <br><br>
 © 2020 <b>VioletTracker</b>
 <br><br><sup>VioletTracker is not affiliated with New York University.
-<br>It is a public health project + platform from <a style="color:#4b0092;" href="https://www.reddit.com/user/violetflash101">violetflash</a>.</sup></center>
+<br>It is a public health project + platform from <a style="color:#4b0092;" href="https://www.reddit.com/user/violetflash101" target="_blank">violetflash</a>.</sup></center>
 
 <head>
   <meta http-equiv="refresh" content="1200">
