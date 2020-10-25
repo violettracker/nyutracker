@@ -147,9 +147,9 @@ _____
 <button type="button" class="btn" id="action-bttn" onclick="location.href='/feedback/#nav';">Submit feedback or tip</button></center>
 
 ## <a name="blog"></a>Blog from the Creator
-<sup><i>(10/24/20 at 12:40 PM EST)</i></sup>
+<sup><i>(10/24/20 at 11:20 PM EST)</i></sup>
 
-<center><i>"Good update today. No new cases but a sizeable number of tests. New block now. Check the <a href="/nyu-status/#top">NYU status page</a>"</i>
+<center><i>"Good update today. A few new cases but a sizeable number of tests. New block now. Check the <a href="/nyu-status/#top">NYU status page</a>"</i>
 <br><br>
 <span>– </span><span id="verify"><b>violetflash</b></span></center>  
 
