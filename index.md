@@ -356,10 +356,12 @@ Other relevant posts
   <br><li style="list-style-type: circle;">Updated daily<i>(ish)</i></li></sup></ul>  
     
 * **[NYC Cluster Map](http://nyc.gov/COVIDZone) (Interactive)**  
-  <ul><br><sup><li style="list-style-type: circle; width: 250px; word-wrap: break-word;">Look up whether your neighborhood is in a "micro-cluster" (or an area you're visiting)</li></sup></ul>  
+  <sup><ul><br><li style="list-style-type: circle;">Look up whether your area is in a "micro-cluster"</li>
+  </ul><br>(or an area you're visiting)</sup>  
     
 * **[NYS Restricted States List](https://coronavirus.health.ny.gov/covid-19-travel-advisory#restricted-states)**  
-  <ul><br><sup><li style="list-style-type: circle;  width: 250px; word-wrap: break-word;">Per current state law, you must self-quarantine for 14 days following arrival from one of these areas</li></sup></ul>  
+  <sup><ul><br><li style="list-style-type: circle;">Per current state law, you must self-quarantine for</li>
+  </ul><br>14 days following arrival from one of these areas</sup>  
   
 <hr><details><summary><u>See additional links</u></summary><hr>
 <ul>
