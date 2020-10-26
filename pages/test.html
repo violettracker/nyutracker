@@ -511,9 +511,11 @@ var sticky = navbar.offsetTop;
 
 function myFunction() {
   if (window.pageYOffset >= sticky) {
+    page-header.classList.add("shrinkNav");
     navbar.classList.add("page-header");
     navbar.classList.add("sticky");
   } else {
+    page-header.classList.remove("shrinkNav");
     navbar.classList.remove("page-header");
     navbar.classList.remove("sticky");
   }
@@ -647,11 +649,12 @@ text-decoration: none;}
   @media only screen and (max-width: 600px) {#logo{width:100%;height:100%;}}
   @media only screen and (min-width: 601px) {#logo{width:70%;height:70%;}}
   
-  #navbar{overflow:hidden;}
-  .sticky {
+#navbar{left: 0; overflow:hidden;}
+.sticky {
   position: fixed;
   top: 0;
   width: 100%;}
+.shrinkNav{margin-top:0px;margin-bottom:0px;}
 </style>
 
 
