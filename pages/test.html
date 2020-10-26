@@ -507,15 +507,16 @@ Other relevant posts
  window.onscroll = function() {myFunction()};
 
 var navbar = document.getElementById("navbar");
+var pageheader = document.getElementById("page-header");
 var sticky = navbar.offsetTop;
 
 function myFunction() {
   if (window.pageYOffset >= sticky) {
-    page-header.classList.add("shrinkNav");
+    pageheader.classList.add("shrinkNav");
     navbar.classList.add("page-header");
     navbar.classList.add("sticky");
   } else {
-    page-header.classList.remove("shrinkNav");
+    pageheader.classList.remove("shrinkNav");
     navbar.classList.remove("page-header");
     navbar.classList.remove("sticky");
   }
