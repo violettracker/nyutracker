@@ -514,7 +514,8 @@ async function checkJSNetConnection(){
 }
   
 async function timedCheck(timeoutPeriod) {
-  if(checkJSNetConnection()==false){
+  var online = await checkJSNetConnection();
+  if(online == false){
       alert("Internet Connection does not exist");
  }else{
       alert("Internet Connection does exist");
