@@ -502,10 +502,10 @@ Other relevant posts
 <br /><br /><sup>VioletTracker is not affiliated with New York University.
 <br />It is a public health project + platform from <a style="color:#4b0092;" href="https://www.reddit.com/user/violetflash101" target="_blank">violetflash</a>.</sup></center>
 
-<script async>
+<script>
 async function checkJSNetConnection(){
   try {
-    var online = await fetch("/assets/connection_test.png");
+    var online = await fetch("https://violettracker.com/assets/connection_test.png");
     alert(online.status);
     return online.status >= 200 && online.status < 300; // either true or false
   } catch (err) {
@@ -513,7 +513,7 @@ async function checkJSNetConnection(){
   }
 }
   
-function timedCheck(timeoutPeriod) {
+async function timedCheck(timeoutPeriod) {
   if(checkJSNetConnection()==false){
       alert("Internet Connection does not exist");
  }else{
