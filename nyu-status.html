@@ -40,10 +40,8 @@ permalink: /nyu-status/
 </script>
 <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/favicon.ico?" />
 
-  <meta http-equiv="refresh" content="1200">
-
   </head>
-  <body>
+  <body onload="JavaScript:setTimeout(timedCheck,1200000);">
     <section class="main-content">
       <h1 id="title"><a name="top"></a>NYU Status Report</h1>
 
@@ -254,6 +252,29 @@ The NYU Aggregate Neighborhood is a zoomed-out look at a selected focus area of 
 © 2020 <a style="text-decoration: none; color: inherit;" href="https://violettracker.com/#top"><b>VioletTracker</b></a>
 <br /><br /><sup>VioletTracker is not affiliated with New York University.
 <br />It is a public health project + platform from <a style="color:#4b0092;" href="https://www.reddit.com/user/violetflash101">violetflash</a>.</sup></center>
+
+<script>
+var onlineStatus = true;
+  
+window.addEventListener('online',  updateOnlineStatus);
+window.addEventListener('offline', updateOnlineStatus);
+
+function updateOnlineStatus(event) {
+  onlineStatus = navigator.onLine;
+}
+  
+async function timedCheck(timeoutPeriod) {
+  var online = await onlineStatus;
+  if(online == false){
+      setTimeout(timedCheck,1200000);
+ }else{
+      location.reload(true);
+ }
+}
+</script><noscript>
+<br><center><span style="color:red; font-size: medium;"><b>Warning: JavaScript not enabled in your browser. Some content on this website may not work properly.</b></span></center>
+<meta http-equiv="refresh" content="1200" />
+</noscript>
 
 <style>
   #logo{}#logo:hover{
