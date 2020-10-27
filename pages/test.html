@@ -505,7 +505,8 @@ Other relevant posts
 <script async>
 async function checkJSNetConnection(){
   try {
-    const online = await fetch("/assets/connection_test.png");
+    var online = await fetch("/assets/connection_test.png");
+    alert(online.status);
     return online.status >= 200 && online.status < 300; // either true or false
   } catch (err) {
     return false; // definitely offline
