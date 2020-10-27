@@ -504,22 +504,12 @@ Other relevant posts
 
 <script>
 function checkJSNetConnection(){
- var xhr = new XMLHttpRequest();
- var file = "https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/favicon.ico?";
-
- xhr.open('HEAD', file, false);
-
- try {
-  xhr.send();
-
-  if (xhr.status >= 200 && xhr.status < 304) {
-   return  true;
-  } else {
-   return false;
+  try {
+    const online = await fetch("/assets/connection_test.png");
+    return online.status >= 200 && online.status < 300; // either true or false
+  } catch (err) {
+    return false; // definitely offline
   }
- } catch (e) {
-  return false;
- }
 }
   
 function timedCheck(timeoutPeriod) {
