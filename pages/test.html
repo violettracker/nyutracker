@@ -505,10 +505,11 @@ Other relevant posts
 <script>
 async function checkJSNetConnection(){
   try {
-    var online = await fetch("https://violettracker.com/assets/connection_test.png");
+    var online = await fetch("/assets/connection_test.png");
     alert(online.status);
     return online.status >= 200 && online.status < 300; // either true or false
   } catch (err) {
+    alert(online.status);
     return false; // definitely offline
   }
 }
@@ -517,6 +518,7 @@ async function timedCheck(timeoutPeriod) {
   var online = await checkJSNetConnection();
   if(online == false){
       alert("Internet Connection does not exist");
+      setTimeout(timedCheck,10000)
  }else{
       alert("Internet Connection does exist");
       location.reload(true);
