@@ -503,19 +503,17 @@ Other relevant posts
 <br />It is a public health project + platform from <a style="color:#4b0092;" href="https://www.reddit.com/user/violetflash101" target="_blank">violetflash</a>.</sup></center>
 
 <script>
-async function checkJSNetConnection(){
-  try {
-    var online = await fetch("/assets/connection_test.png");
-    alert(online.status);
-    return online.status >= 200 && online.status < 300; // either true or false
-  } catch (err) {
-    alert(online.status);
-    return false; // definitely offline
-  }
+var onlineStatus = true;
+  
+window.addEventListener('online',  updateOnlineStatus);
+window.addEventListener('offline', updateOnlineStatus);
+
+function updateOnlineStatus(event) {
+  onlineStatus = navigator.onLine;
 }
   
 async function timedCheck(timeoutPeriod) {
-  var online = await checkJSNetConnection();
+  var online = await onlineStatus;
   if(online == false){
       alert("Internet Connection does not exist");
       setTimeout(timedCheck,10000)
