@@ -1,4 +1,4 @@
-Date,Tests,Positives,1-Day %,7-Day %,14-Day %,7-day Positives Average,Hospitalizations,Deaths,baseline
+Date,Tests,Cases,1-Day %,7-Day %,14-Day %,7-day Positives Average,Hospitalizations,Deaths,baseline
 8/3/20,799525,49775,6.23%,-,-,-,1724,519,0
 8/4/20,763391,51777,6.78%,-,-,-,4490,1255,0
 8/5/20,757688,52339,6.91%,-,-,-,2269,1346,0
