@@ -1,4 +1,6 @@
 Date,Off-campus cases,On-campus cases,Active cases,Infectious cases,baseline
+IGNORE,Off-campus %,On-campus %,Active,Infectious,0
+IGNORE,Off-campus %,On-campus %,Active,Infectious,0
 9/25/2020,-,-,-,-,0
 9/26/2020,-,-,-,-,0
 9/27/2020,-,-,-,-,0
@@ -44,3 +46,4 @@ Date,Off-campus cases,On-campus cases,Active cases,Infectious cases,baseline
 11/6/2020,85.7%,14.3%,41,16,0
 11/7/2020,85.7%,14.3%,39,14,0
 11/8/2020,85.7%,14.3%,42,15,0
+11/9/2020,85.7%,14.3%,47,18,0
