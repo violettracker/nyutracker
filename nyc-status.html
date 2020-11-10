@@ -44,21 +44,22 @@ permalink: /nyc-status/
 
   </head>
   <body onload="JavaScript:setTimeout(timedCheck,1200000);">
+<section class="page-header" style="padding-bottom: 35px; padding-top: 35px;">
+      <center><a href="https://violettracker.com/"><img id="logo" src="/assets/logo_alt_2.png" alt="VioletTracker Logo" /></a></center>
+
+<center>Covid Info Hub for NYU & NYC</center>
+<a name="nav"></a><br>
+      
+<center><button type="button" class="btn" id="nav-bttn" onclick="location.href='https://violettracker.com/';">Home</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#summary';">Summary</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#data';">Data & Analysis</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#graph';">Graphs</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#news';">News</button>  <button type="button" class="btn" id="nav-bttn" onclick="location.href='/nyu-status/#nav';">NYU Status</button>
+<details><summary id="menu">Menu</summary>
+<br /><button type="button" class="btn" id="nav-bttn" onclick="location.href='#tweets';">Curated Tweets</button> </details></center>
+        <!--<a href="https://github.com/violettracker/nyutracker" class="btn">View on GitHub</a>-->
+</section>
+    
     <section class="main-content">
       <h1 id="title"><a name="top"></a>NYC Status Report</h1>
 
 <hr />
-
-<center><a href="https://violettracker.com/"><img id="logo" src="https://raw.githubusercontent.com/violettracker/nyutracker/gh-pages/logo.png" alt="VioletTracker Logo" style="width:92%;height:92%;" /></a></center>
-
-<center>Welcome to the new Covid-Info portal from VioletTracker!</center>
-<a name="nav"></a>
-<hr />
-
-<center><button type="button" class="btn" id="nav-bttn" onclick="location.href='https://violettracker.com/';">Home</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#summary';">Summary</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#data';">Data & Analysis</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#graph';">Graphs</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#news';">News</button>  <button type="button" class="btn" id="nav-bttn" onclick="location.href='/nyu-status/#nav';">NYU Status</button>
-<details><summary id="menu">Menu</summary>
-<br /><button type="button" class="btn" id="nav-bttn" onclick="location.href='#tweets';">Curated Tweets</button> </details>
-<hr /></center>
 
 <a name="flag"></a><center><a href="https://violettracker.com/#nyu" id="hide-link"><span id="yellow-flag">
   <span style="display:block; font-weight: bold; padding-top: 10px; padding-bottom: 4px; line-height: 100%;">YELLOW ALERT</span>
@@ -188,14 +189,14 @@ async function timedCheck(timeoutPeriod) {
   }
   
   #nav-bttn{
-  background-color: rgba(224,224,224,0.50);
-  color: #666666;
-  border-color:rgba(195,184,213,0);
+  background-color: rgba(224,224,224,0.30);
+  color: white;
+  border-color:rgba(224,224,224,0.5);
   border-style:solid;
   border-width:0px;
   border-radius: 50px;
   }#nav-bttn:hover{
-  background-color: rgba(224,224,224,0.98);
+  background-color: rgba(224,224,224,0.68);
   transition:color 0.4s, background-color 0.4s, border-color 0.4s;
   }
 
@@ -299,6 +300,9 @@ text-decoration: none;}
   
   .fa-refresh:before{content:"\f021"}
   .fa-refresh:hover{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}
+
+  @media only screen and (max-width: 600px) {#logo{width:100%;height:100%;}}
+  @media only screen and (min-width: 601px) {#logo{width:70%;height:70%;}}      
 </style>
 
 
