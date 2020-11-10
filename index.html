@@ -93,7 +93,10 @@ If you find it helpful, refer a friend! Let's make NYU and NYC safer.
 <sup><a href="/nyc-status/#nav" id="hide-link" style="color: inherit;">
 <!--All other campuses are <span style="color: #008810; font-weight: bold;">GREEN</span> at the moment.<br>-->
 <br /><b>Rationale</b>: The city continues to endure clusters &amp; an uptick (primarily in Brooklyn, Queens &amp; Staten Island) – this week: 2.25% positivity, last week: 1.85% positivity</a>. <a href="/nyc-status/#nav">More detailed info</a>.</sup>  
-<br />
+<br><span id="chart-column"><iframe title="" aria-label="chart" id="datawrapper-chart-P9RoT" src="https://datawrapper.dwcdn.net/P9RoT/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="194"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+<iframe title="" aria-label="chart" id="datawrapper-chart-AfZL5" src="https://datawrapper.dwcdn.net/AfZL5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="194"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script></span>
 _____
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 <sup><br /><br /><a id="hide-link" onclick="location.reload(true);"><span id="checkmark"></span>
@@ -587,6 +590,10 @@ async function timedCheck(timeoutPeriod) {
   }
   
   #nav-column{}
+  
+  #chart-column{
+  display: block; -webkit-columns: 2 100px; -moz-columns: 2 100px; columns: 2 100px;
+  }
   
   #nav-bttn{
   background-color: rgba(224,224,224,0.30);
