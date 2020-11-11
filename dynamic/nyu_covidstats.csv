@@ -1,4 +1,4 @@
-Date,Off-campus cases,On-campus cases,Active cases,Infectious cases,Quarantined students,Isolated students,baseline
+﻿Date,Off-campus cases,On-campus cases,Active cases,Infectious cases,Quarantined students,Isolated students,baseline
 9/25/2020,-,-,-,-,0,0,0
 9/26/2020,-,-,-,-,0,0,0
 9/27/2020,-,-,-,-,0,0,0
@@ -45,5 +45,5 @@ Date,Off-campus cases,On-campus cases,Active cases,Infectious cases,Quarantined 
 11/7/2020,85.7%,14.3%,39,14,84,7,0
 11/8/2020,85.7%,14.3%,42,15,87,7,0
 11/9/2020,70.0%,30.0%,47,18,85,10,0
-11/10/2020,70.0%,30.0%,50,21,85,10,0
-CURRENT,70.0%,30.0%,50,21,85,10,0
+11/10/2020,77.8%,22.2%,50,21,91,9,0
+CURRENT,77.8%,22.2%,50,21,91,9,0
