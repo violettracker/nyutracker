@@ -54,19 +54,33 @@ permalink: /guidance/
 <a name="nav"></a><br>
       
 <center><span id="nav-column"><button type="button" class="btn" id="nav-bttn" onclick="location.href='https://violettracker.com/';">Home</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#summary';">Summary</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#data';">Data & Analysis</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#graph';">Graphs</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#news';">News</button>  <button type="button" class="btn" id="nav-bttn" onclick="location.href='/nyu-status/#nav';">NYU Status</button>
-</span><details><summary id="menu">Menu</summary>
-<br /><button type="button" class="btn" id="nav-bttn" onclick="location.href='#tweets';">Curated Tweets</button> </details></center>
+</span></center>
         <!--<a href="https://github.com/violettracker/nyutracker" class="btn">View on GitHub</a>-->
 </section>
     
     <section class="main-content">
-      <h1 id="title"><a name="top"></a>Health Guidance - VT Covid Protocol</h1>
+      <h1 id="title"><a name="top"></a>Health Guidance</h1>
 
 <hr /></center>
       
-<h2 id="summary-update"><a name="summary"></a>Summary & Commentary</h2>
+<h2 id="protocol"><a name="protocol"></a>VT Covid Protocol 1.0</h2>
 
-<p>test</p>
+<sup><i>VioletTracker is compiling the latest advice from trusted public health experts & authorities to deliver you a list of Covid best practices. You don’t have to do them all, but the more you do, the better off you will be (along with society).</i></sup>
+<hr>	    
+<ul id="guidance-block" style="padding-top: 20px; padding-bottom: 20px; padding-right: 10px;">
+  <li><b>Wear a mask</b> (snug-fitting) with multiple layers or a filter when possible</li>
+  <li><b>Limit indoor gatherings</b>; be outside instead</li>
+	  <ul><li style="font-size: smaller;">If you must socialize indoors, utilize a mask and/or strict social bubble, and properly ventilate</li></ul>
+  <li><b>Avoid or limit high-risk activities</b>, such as parties, bars, and indoor dining
+	  <ul><li style="font-size: smaller;">To a slightly lesser extent, also gyms, hotels, personal care, and etc.</li></ul>
+  <li><b>Avoid crowds</b>, especially unmasked ones</li>
+  <li><b>Limit non-essential travel</b>, especially inter-state or international</li>
+  <li><b>Socially distance</b> (6 feet), <b>wash your hands</b>, and sanitize contact surfaces</li>
+  <li>If you suspect exposure, properly <b>quarantine</b> right away & <b>get tested</b> after about 3 days, or immediately if you show symptoms</li>
+  <li><b>Contact a medical professional</b> and follow your local public health authority’s instructions, especially if symptoms worsen</li>
+</ul>
+<hr>
+See the full VT Covid Protocol for details & further guidance (coming soon)
 
 <p><span style="display: block; text-align: right;"><sup><a href="#nav" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span></p>
 
@@ -88,6 +102,18 @@ permalink: /guidance/
   filter: brightness(80%);
   transition: filter 0.6s, color 0.6s, background-color 0.6s, border-color 0.6s;
   }
+  
+  #guidance-block{
+	  display:block;
+	  background-color: #f7f0ff;
+	  border-color:rgba(195,184,213,0.7);
+ 	  border-style:solid;
+  	  border-width:1px;
+  	  border-radius:15px;
+	}#guidance-block:hover{
+	  background-color: #ebdbff;
+	  transition: color 0.8s, background-color 0.8s, border-color 0.8s;
+	}
   
   #menu{}#menu:hover{
   font-weight: bold;
