@@ -54,7 +54,7 @@ permalink: /nyc-status/
 <a name="nav"></a><br>
       
 <center><span id="nav-column"><button type="button" class="btn" id="nav-bttn" onclick="location.href='https://violettracker.com/';">Home</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#summary';">Summary</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#data';">Data & Analysis</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#graph';">Graphs</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#news';">News</button>  <button type="button" class="btn" id="nav-bttn" onclick="location.href='/nyu-status/#nav';">NYU Status</button>
-</span><details><summary id="menu">Menu</summary>
+</span><details><summary id="menu" style="cursor: pointer;">Menu</summary>
 <br /><button type="button" class="btn" id="nav-bttn" onclick="location.href='#tweets';">Curated Tweets</button> </details></center>
         <!--<a href="https://github.com/violettracker/nyutracker" class="btn">View on GitHub</a>-->
 </section>
@@ -106,14 +106,14 @@ permalink: /nyc-status/
 </center>
       
 <br>
-<a name="nys"></a><hr><details><summary><u>View New York State data</u></summary><hr>
+<a name="nys"></a><hr><details><summary id="menu" style="cursor: pointer;"><u>View New York State data</u></summary><hr>
 <center><iframe loading="lazy" title="New York State Covid Data" aria-label="chart" id="datawrapper-chart-Df3oR" src="https://datawrapper.dwcdn.net/Df3oR/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="350"></iframe><script defer type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 <br><iframe loading="lazy" title="New York State Covid Data - Percent Positivity" aria-label="Interactive line chart" id="datawrapper-chart-9sibu" src="https://datawrapper.dwcdn.net/9sibu/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="380"></iframe><script defer type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script></center></details><hr>
       
 <br>
-<a name="national"></a><hr><details><summary><u>View U.S. Nationwide data</u></summary><hr>
+<a name="national"></a><hr><details><summary id="menu" style="cursor: pointer;"><u>View U.S. Nationwide data</u></summary><hr>
 <center><iframe loading="lazy" title="U.S. National Covid Data" aria-label="chart" id="datawrapper-chart-5dxCs" src="https://datawrapper.dwcdn.net/5dxCs/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="350"></iframe><script defer type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 <br><iframe loading="lazy" title="U.S. National Covid Data - Percent Positivity" aria-label="Interactive line chart" id="datawrapper-chart-BoWgl" src="https://datawrapper.dwcdn.net/BoWgl/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="380"></iframe><script defer type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -180,7 +180,7 @@ permalink: /nyc-status/
 
 <h2 id="twitter"><a name="tweets"></a>Curated Tweets</h2>
 
-<center><hr><details><summary><u>View full timeline</u></summary><hr>
+<center><hr><details><summary id="menu" style="cursor: pointer;"><u>View full timeline</u></summary><hr>
 <a class="twitter-timeline" data-chrome="nofooter transparent" data-height="1650" href="https://twitter.com/VioletTracker/timelines/1320415804517683200?ref_src=twsrc%5Etfw">NYC Covid Bulletin - Curated tweets by VioletTracker</a> <script defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </details><hr>
 <br><a class="twitter-timeline" data-chrome="nofooter transparent" data-height="400" data-tweet-limit="2" href="https://twitter.com/VioletTracker/timelines/1320415804517683200?ref_src=twsrc%5Etfw">NYC Covid Bulletin - Pinned tweets by VioletTracker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -230,7 +230,7 @@ async function timedCheck(timeoutPeriod) {
   
   #menu{}#menu:hover{
   font-weight: bold;
-  transition: font-weight 0.8s, color 0.8s, background-color 0.8s, border-color 0.8s;
+  transition: font-weight 1.2s, color 0.8s, background-color 0.8s, border-color 0.8s;
   }
   
   #nav-column{}
