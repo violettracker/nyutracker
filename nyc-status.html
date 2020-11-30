@@ -84,8 +84,11 @@ permalink: /nyc-status/
 
 <h2 id="data-analysis"><a name="data"></a>Recent Data & Analysis</h2>
 
-<center><iframe loading="lazy" src="https://covidactnow.org/embed/us/county/36061" title="CoVid Act Now" width="350" height="370" frameBorder="0" scrolling="no"></iframe></center>
+<span id="data-column"><center><iframe loading="lazy" src="https://covidactnow.org/embed/us/county/36061" title="CoVid Act Now" width="350" height="370" frameBorder="0" scrolling="no"></iframe>
+<iframe loading="lazy" src="https://covidactnow.org/embed/us/ny" title="CoVid Act Now" width="350" height="370" frameBorder="0" scrolling="no"></iframe>
+</center></span>
 
+  
 <center><br><a href="/nyu-status/#data" style="color: #4b0092;">Check out <b>New York University data</b> and <b>NYU Neighborhood data</b> from VioletTracker</a></center>
       
 <p><span style="display: block; text-align: right;"><sup><a href="#nav" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span></p>
@@ -237,6 +240,8 @@ async function timedCheck(timeoutPeriod) {
   }
   
   #nav-column{}
+  
+  #data-column{display: block; -webkit-columns: 2 100px; -moz-columns: 2 100px; columns: 2 100px;}
   
   #nav-bttn{
   background-color: rgba(224,224,224,0.30);
