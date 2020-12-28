@@ -1,6 +1,7 @@
 Week,New Cases,% Positivity,New Tests,Trend,Days Tracked,Year
-CURRENT,+66480,5.63%,1180037,Increasing,6,2020
-12/21-12/27,+66480,5.63%,1180037,Increasing,6,2020
+CURRENT,+0,-,0,Unclear,1,2020
+12/28-01/03,+0,-,0,Unclear,1,2020
+12/21-12/27,+74103,5.66%,1310336,Increasing,7,2020
 12/14-12/20,+72882,5.38%,1355863,Increasing,7,2020
 12/07-12/13,+69333,5.07%,1367601,Increasing,7,2020
 11/30-12/06,+64666,4.89%,1322170,Increasing,7,2020
