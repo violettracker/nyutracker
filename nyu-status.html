@@ -82,9 +82,11 @@ Your response may help establish a Covid outlook.</span><span id="notif-banner-b
       
 <br><br><u>Outlook</u>: Since the fall semester is over, significantly fewer tests are expected until the Spring semester begins. Please fill out a <a href="https://docs.google.com/forms/d/e/1FAIpQLScWK9fr-n6fiWTu_wmfRp2eq2pQ2qMgoc7R2CG0YP-r8cOQRA/viewform" target="_blank">short, anonymous survey on your Winter Break plans</a>!
       
-<br><br><center><sup><a id="hide-link" style="cursor: pointer;" onclick="location.reload(true);"><span id="checkmark"></span>
+<br><br><center>
+<div class="tooltip"><sup><a id="hide-link" style="cursor: pointer;" onclick="location.reload(true);"><span id="checkmark"></span>
 <br><i class="fa fa-refresh" id="verify" style="font-size:12px;"></i><i id="verify"> This alert flag was last updated on <b>01/15</b> at <b>6:00 PM</b> EST</i>
-<br><b id="verify">VioletTracker</b></a></sup></center>
+<br><b id="verify">VioletTracker</b></a></sup>
+<span class="tooltiptext">Click to reload data</span></div></center>
       
 <p><span style="display: block; text-align: right;"><sup><a href="#nav" style="font-size: x-small; color: #c5c5c5; text-align: right;">Back to the top</a></sup></span></p>
 
@@ -365,6 +367,39 @@ text-decoration: none;}
     transition:color 0.4s, background-color 0.4s, border-color 0.4s;
   }
   
+  /* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltiptext {
+	font-size: smaller;
+}
+	
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 160px;
+  background-color: rgba(0,0,0,0.8);
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text*/
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}	
+	
   .fa-refresh:before{content:"\f021"}
   .fa-refresh:hover{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}
 
