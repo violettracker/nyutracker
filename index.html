@@ -53,7 +53,7 @@ permalink: /
       
 <center><span id="nav-column"><button type="button" class="btn" id="nav-bttn" onclick="location.href='/nyu-status/#nav';">NYU Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='/nyc-status/#nav';">NYC Status</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='/forecast/#nav';">Forecast</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='/register/#nav';">Register</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='/guidance/#nav';">Health Guidance</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#links';">Useful Links</button></span>
 <details><summary id="menu" style="cursor: pointer;">Menu</summary>
-<br /><span id="nav-column"><button type="button" class="btn" id="nav-bttn" onclick="location.href='#reddit';">Reddit Updates</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#blog';">Blog</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#about';">About</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#email';">Recent Emails</button></span><button type="button" class="btn" id="nav-bttn" onclick="location.href='#feedback';">Feedback</button></details>
+<br /><span id="nav-column"><button type="button" class="btn" id="nav-bttn" onclick="location.href='#reddit';">Reddit Updates</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#blog';">Blog</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#about';">About</button> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#email';">Recent Emails</button></span> <button type="button" class="btn" id="nav-bttn" onclick="location.href='#feedback';">Feedback</button></details>
 </center>
         <!--<a href="https://github.com/violettracker/nyutracker" class="btn">View on GitHub</a>-->
 </section>
@@ -862,7 +862,7 @@ async function timedCheck(timeoutPeriod) {
 	  transition:color 0.4s, background-color 0.4s, border-color 0.4s;
   }
 	
-  #nav-column{}
+  #nav-column{margin-right: 10px;}
   
   #flag-key{
     display: flex;
@@ -1036,7 +1036,7 @@ text-decoration: none;}
   .fa-refresh:before{content:"\f021"}
   .fa-refresh:hover{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}
   
-  @media only screen and (max-width: 673px) {#nav-column{display: block; -webkit-columns: 2 100px; -moz-columns: 2 100px; columns: 2 100px;}}
+  @media only screen and (max-width: 673px) {#nav-column{display: block; -webkit-columns: 2 100px; -moz-columns: 2 100px; columns: 2 100px; margin-right: 0px;}}
   @media only screen and (max-width: 600px) {#logo{width:100%;height:100%;}}
   @media only screen and (min-width: 601px) and (max-width: 1200px) {#logo{width:70%;height:70%;}}
   @media only screen and (min-width: 1201px) {#logo{width:60%;height:60%;}}
