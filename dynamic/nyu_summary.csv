@@ -1,6 +1,7 @@
 Week,New Cases,% Positivity,New Tests,Trend,Days Tracked,Year
-CURRENT,+107,0.89%,12047,Decreasing,6,2021
-03/29-04/04,+107,0.89%,12047,Decreasing,6,2021
+CURRENT,+101,0.91%,11154,Decreasing,6,2021
+04/05-04/11,+101,0.91%,11154,Decreasing,6,2021
+03/29-04/04,+156,1.02%,15304,Decreasing,7,2021
 03/22-03/28,+231,1.53%,15141,Increasing,7,2021
 03/15-03/21,+155,0.57%,27061,Increasing,7,2021
 03/08-03/14,+92,0.76%,12071,Stable,7,2021
